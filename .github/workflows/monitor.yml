@@ -212,7 +212,7 @@ jobs:
           cat > /tmp/issue_body.md << 'EOF'
 ## 🚨 Guardian Attack Detected
 
-**Detection Time:** $TIMESTAMP  
+**Detection Time:** $TIMESTAMP
 **Status:** ✅ Automatically restored by external Guardian
 
 ---
