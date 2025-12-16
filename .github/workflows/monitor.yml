@@ -210,7 +210,7 @@ jobs:
           
           # Create issue body
           cat > /tmp/issue_body.md <<'ISSUE_EOF'
-## 🚨 Guardian Attack Detected
+## Guardian Attack Detected
 
 DETECTION_TIME_PLACEHOLDER
 STATUS_PLACEHOLDER
@@ -240,10 +240,10 @@ FILES_PLACEHOLDER
 
 ### Actions Taken by Guardian
 
-- ✅ Workflows restored from external guardian repository
-- ✅ All content restored to last known good state
-- ✅ Restoration committed to main branch
-- ✅ This issue created for admin review
+- Workflows restored from external guardian repository
+- All content restored to last known good state
+- Restoration committed to main branch
+- This issue created for admin review
 
 ### Recommended Actions
 
@@ -261,8 +261,13 @@ Guardian Repository: https://github.com/nickarrow/the-foundry-guardian
 ISSUE_EOF
           
           # Substitute variables in the issue body
+          sed -i "s|Guardian Attack Detected|🚨 Guardian Attack Detected|g" /tmp/issue_body.md
           sed -i "s|DETECTION_TIME_PLACEHOLDER|**Detection Time:** $TIMESTAMP|g" /tmp/issue_body.md
           sed -i "s|STATUS_PLACEHOLDER|**Status:** ✅ Automatically restored by external Guardian|g" /tmp/issue_body.md
+          sed -i "s|- Workflows restored|- ✅ Workflows restored|g" /tmp/issue_body.md
+          sed -i "s|- All content restored|- ✅ All content restored|g" /tmp/issue_body.md
+          sed -i "s|- Restoration committed|- ✅ Restoration committed|g" /tmp/issue_body.md
+          sed -i "s|- This issue created|- ✅ This issue created|g" /tmp/issue_body.md
           sed -i "s|LAST_GOOD_PLACEHOLDER|**Last Known Good Commit:** [\\\`$LAST_GOOD_SHORT\\\`]($LAST_GOOD_URL)|g" /tmp/issue_body.md
           sed -i "s|COMPROMISED_PLACEHOLDER|**Compromised Commit:** [\\\`$CURRENT_SHORT\\\`]($COMPROMISED_URL)|g" /tmp/issue_body.md
           sed -i "s|ATTACKERS_PLACEHOLDER|$ATTACKERS|g" /tmp/issue_body.md
