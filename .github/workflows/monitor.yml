@@ -183,91 +183,87 @@ jobs:
           
           echo "✅ Repository restored and pushed"
       
-      - name: Create attack alert issue
+      - name: Create attack log file
         if: env.NEEDS_RESTORE == 'true'
         run: |
-          cd the-foundry
+          cd guardian
           
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          # Create logs directory if it doesn't exist
+          mkdir -p attack-logs
+          
+          # Generate log filename with timestamp
+          TIMESTAMP=$(date -u +"%Y-%m-%d_%H-%M-%S")
+          LOG_FILE="attack-logs/attack_${TIMESTAMP}.log"
+          
+          cd ../the-foundry
+          
           LAST_GOOD=${{ env.LAST_GOOD_COMMIT }}
           CURRENT=${{ env.CURRENT_COMMIT }}
           
           # Get attackers list
-          ATTACKERS=$(git log $LAST_GOOD..$CURRENT --format="%an <%ae>" | sort -u | sed 's/^/- /')
+          ATTACKERS=$(git log $LAST_GOOD..$CURRENT --format="%an <%ae>" | sort -u)
           
-          # Get malicious commits  
-          COMMITS=$(git log $LAST_GOOD..$CURRENT --oneline | sed 's/^/- /')
+          # Get malicious commits
+          COMMITS=$(git log $LAST_GOOD..$CURRENT --oneline)
           
           # Get files affected
-          FILES=$(git diff --name-status $LAST_GOOD $CURRENT | head -50 | sed 's/^/- /')
+          FILES=$(git diff --name-status $LAST_GOOD $CURRENT)
           
-          # Get commit URLs
-          REPO_URL="https://github.com/nickarrow/the-foundry"
-          LAST_GOOD_SHORT="${LAST_GOOD:0:7}"
-          CURRENT_SHORT="${CURRENT:0:7}"
-          LAST_GOOD_URL="$REPO_URL/commit/$LAST_GOOD"
-          COMPROMISED_URL="$REPO_URL/commit/$CURRENT"
-          
-          # Create issue body
-          cat > /tmp/issue_body.md << 'ISSUE_EOF'
-## 🚨 Guardian Attack Detected
+          # Create detailed log
+          cat > "../guardian/$LOG_FILE" << 'EOF'
+========================================
+GUARDIAN ATTACK LOG
+========================================
 
-**Detection Time:** $TIMESTAMP  
-**Status:** ✅ Automatically restored by external Guardian
+Timestamp: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+Detection: Automated Guardian scan from external repository
 
----
+ATTACK DETAILS:
+---------------
+Last Known Good Commit: $LAST_GOOD
+Compromised Commit: $CURRENT
 
-### Attack Details
+Repository: https://github.com/nickarrow/the-foundry
+Last Good URL: https://github.com/nickarrow/the-foundry/commit/$LAST_GOOD
+Compromised URL: https://github.com/nickarrow/the-foundry/commit/$CURRENT
 
-- **Last Known Good Commit:** [`$LAST_GOOD_SHORT`]($LAST_GOOD_URL)
-- **Compromised Commit:** [`$CURRENT_SHORT`]($COMPROMISED_URL)
-
-### Attackers (Commit Authors)
-
+ATTACKERS (commit authors since last good state):
+--------------------------------------------------
 $ATTACKERS
 
-### Malicious Commits
-
+MALICIOUS COMMITS:
+------------------
 $COMMITS
 
-### Files Affected (first 50)
-
-```
+FILES AFFECTED:
+---------------
 $FILES
-```
 
----
+ACTIONS TAKEN:
+--------------
+- Workflows restored from guardian repository canonical versions
+- All content restored to last known good state ($LAST_GOOD)
+- Restoration committed to the-foundry main branch
+- This log created in guardian repository
 
-### Actions Taken by Guardian
+RECOMMENDED ACTIONS:
+--------------------
+1. Review the attackers list above
+2. Remove write access for malicious users (Settings → Collaborators)
+3. Consider if accounts were compromised
+4. Monitor for repeat attacks
+5. Check GitHub audit log for additional context
 
-- ✅ Workflows restored from external guardian repository
-- ✅ All content restored to last known good state
-- ✅ Restoration committed to `main` branch
-- ✅ This issue created for admin review
-
-### Recommended Actions
-
-1. **Review the attackers list above** - Identify malicious users
-2. **Remove write access** - Go to Settings → Collaborators and remove those users
-3. **Check for compromised accounts** - Verify if legitimate users' accounts were hacked
-4. **Monitor for repeat attacks** - Watch for the same users attempting again
-5. **Review GitHub audit log** - Check for additional suspicious activity
-
----
-
-**Note:** This issue was automatically created by the external Guardian monitoring system. The repository has been restored and is secure.
-
-**Guardian Repository:** https://github.com/nickarrow/the-foundry-guardian
-ISSUE_EOF
+========================================
+EOF
           
-          # Create the issue
-          gh issue create \
-            --repo nickarrow/the-foundry \
-            --title "🚨 Guardian Alert: Attack Detected and Restored - $TIMESTAMP" \
-            --body-file /tmp/issue_body.md \
-            --label "security,guardian-alert" \
-            --assignee "nickarrow"
+          cd ../guardian
           
-          echo "✅ Attack alert issue created"
-        env:
-          GH_TOKEN: ${{ secrets.FOUNDRY_PAT }}
+          # Commit the log to guardian repo
+          git config user.name "Guardian Bot"
+          git config user.email "guardian@the-foundry.bot"
+          git add "$LOG_FILE"
+          git commit -m "Guardian: Attack log - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git push origin main
+          
+          echo "✅ Attack logged to guardian repository: $LOG_FILE"
