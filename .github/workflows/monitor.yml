@@ -136,26 +136,30 @@ jobs:
           
           # Restore all other content from last good commit
           echo "Restoring content files from last good state..."
-          git diff --name-status $LAST_GOOD $CURRENT_COMMIT | grep -v "^\S\s*.github/" | while read status rest; do
+          git diff --name-status $LAST_GOOD $CURRENT_COMMIT | while IFS=$'\t' read -r status file; do
+            # Skip .github/ files as we already restored them from canonical versions
+            if [[ "$file" == .github/* ]]; then
+              echo "  Skipping .github file (already restored): $file"
+              continue
+            fi
+            
             case $status in
               D)
-                file="$rest"
                 echo "  Restoring deleted: $file"
                 git checkout $LAST_GOOD -- "$file" 2>/dev/null || true
                 ;;
               M)
-                file="$rest"
                 echo "  Restoring modified: $file"
                 git checkout $LAST_GOOD -- "$file" 2>/dev/null || true
                 ;;
               A)
-                file="$rest"
                 echo "  Removing unauthorized addition: $file"
                 rm -f "$file" 2>/dev/null || true
                 ;;
               R*)
-                oldfile=$(echo "$rest" | awk '{print $1}')
-                newfile=$(echo "$rest" | awk '{print $2}')
+                # For renames, git diff shows: R<score>\told_name\tnew_name
+                oldfile=$(echo "$file" | cut -f1)
+                newfile=$(echo "$file" | cut -f2)
                 echo "  Reverting rename: $newfile -> $oldfile"
                 rm -f "$newfile" 2>/dev/null || true
                 git checkout $LAST_GOOD -- "$oldfile" 2>/dev/null || true
