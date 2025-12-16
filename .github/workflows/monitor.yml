@@ -183,8 +183,9 @@ jobs:
           
           echo "✅ Repository restored and pushed"
       
-      - name: Log attack details to workflow output
+      - name: Collect attack details
         if: env.NEEDS_RESTORE == 'true'
+        id: attack_details
         run: |
           cd the-foundry
           
@@ -200,14 +201,93 @@ jobs:
           echo "Compromised Commit: $CURRENT"
           echo ""
           echo "ATTACKERS:"
-          git log $LAST_GOOD..$CURRENT --format="%an <%ae>" | sort -u
+          ATTACKERS=$(git log $LAST_GOOD..$CURRENT --format="%an <%ae>" | sort -u)
+          echo "$ATTACKERS"
           echo ""
           echo "MALICIOUS COMMITS:"
-          git log $LAST_GOOD..$CURRENT --oneline
+          COMMITS=$(git log $LAST_GOOD..$CURRENT --oneline)
+          echo "$COMMITS"
           echo ""
           echo "FILES AFFECTED:"
-          git diff --name-status $LAST_GOOD $CURRENT | head -20
+          FILES=$(git diff --name-status $LAST_GOOD $CURRENT | head -20)
+          echo "$FILES"
           echo ""
           echo "✅ Repository has been restored"
           echo "✅ Check this workflow log for attack details"
           echo "========================================"
+          
+          # Save details for issue creation
+          echo "ATTACKERS<<EOF" >> $GITHUB_ENV
+          echo "$ATTACKERS" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+          
+          echo "COMMITS<<EOF" >> $GITHUB_ENV
+          echo "$COMMITS" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+          
+          echo "FILES<<EOF" >> $GITHUB_ENV
+          echo "$FILES" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+          
+          echo "TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> $GITHUB_ENV
+      
+      - name: Create GitHub Issue alert
+        if: env.NEEDS_RESTORE == 'true'
+        run: |
+          cd the-foundry
+          
+          # Create issue body
+          cat > /tmp/issue_body.md << 'ISSUE_EOF'
+          # 🚨 Guardian Alert: Unauthorized Changes Detected and Restored
+          
+          The Guardian monitoring system detected and automatically restored unauthorized changes to The Foundry repository.
+          
+          ## Attack Details
+          
+          **Timestamp:** ${{ env.TIMESTAMP }}
+          
+          **Last Known Good Commit:** `${{ env.LAST_GOOD_COMMIT }}`
+          
+          **Compromised Commit:** `${{ env.CURRENT_COMMIT }}`
+          
+          ## Attackers
+          
+          ```
+          ${{ env.ATTACKERS }}
+          ```
+          
+          ## Malicious Commits
+          
+          ```
+          ${{ env.COMMITS }}
+          ```
+          
+          ## Files Affected
+          
+          ```
+          ${{ env.FILES }}
+          ```
+          
+          ## Actions Taken
+          
+          ✅ Repository has been automatically restored to last known good state
+          ✅ Workflow protection files restored from canonical versions
+          ✅ All unauthorized changes have been reverted
+          
+          ## Investigation
+          
+          Review the [Guardian workflow run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for complete details.
+          
+          ---
+          
+          *This issue was automatically created by the Guardian monitoring system.*
+          ISSUE_EOF
+          
+          # Create the issue using GitHub CLI
+          gh issue create \
+            --title "🚨 Guardian Alert: Unauthorized changes detected at ${{ env.TIMESTAMP }}" \
+            --body-file /tmp/issue_body.md \
+            --label "security,guardian-alert" \
+            --repo nickarrow/the-foundry
+        env:
+          GH_TOKEN: ${{ secrets.FOUNDRY_PAT }}
