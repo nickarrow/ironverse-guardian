@@ -1,0 +1,273 @@
+name: Guardian - Monitor The Foundry
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Check every 15 minutes
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  monitor-and-restore:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout guardian repository
+        uses: actions/checkout@v4
+        with:
+          path: guardian
+      
+      - name: Checkout the-foundry repository
+        uses: actions/checkout@v4
+        with:
+          repository: nickarrow/the-foundry
+          token: ${{ secrets.FOUNDRY_PAT }}
+          path: the-foundry
+          fetch-depth: 0  # Full history for finding last good state
+      
+      - name: Check workflow integrity
+        id: check
+        run: |
+          cd the-foundry
+          
+          echo "🔍 Checking workflow integrity..."
+          
+          TAMPERED=false
+          
+          # Files to protect
+          PROTECTED_FILES=(
+            ".github/workflows/enforce-ownership.yml"
+            ".github/scripts/enforce_ownership.py"
+          )
+          
+          for file in "${PROTECTED_FILES[@]}"; do
+            echo "Checking: $file"
+            
+            # Check if file exists
+            if [ ! -f "$file" ]; then
+              echo "❌ MISSING: $file"
+              TAMPERED=true
+            else
+              # Compare with canonical version from guardian repo
+              CANONICAL_FILE="../guardian/canonical-workflows/$(basename $file)"
+              if [ -f "$CANONICAL_FILE" ]; then
+                if ! diff -q "$file" "$CANONICAL_FILE" > /dev/null 2>&1; then
+                  echo "❌ MODIFIED: $file"
+                  TAMPERED=true
+                else
+                  echo "✅ OK: $file"
+                fi
+              fi
+            fi
+          done
+          
+          if [ "$TAMPERED" = true ]; then
+            echo "TAMPERED=true" >> $GITHUB_ENV
+            echo "NEEDS_RESTORE=true" >> $GITHUB_ENV
+          else
+            echo "✅ All workflow files are intact"
+          fi
+      
+      - name: Find last known good state
+        if: env.TAMPERED == 'true'
+        run: |
+          cd the-foundry
+          
+          echo "🔍 Finding last known good state..."
+          
+          LAST_GOOD_COMMIT=""
+          COMMITS_CHECKED=0
+          
+          PROTECTED_FILES=(
+            ".github/workflows/enforce-ownership.yml"
+            ".github/scripts/enforce_ownership.py"
+          )
+          
+          # Search through commits to find last good state
+          for commit in $(git log --format=%H -100); do
+            COMMITS_CHECKED=$((COMMITS_CHECKED + 1))
+            WORKFLOW_OK=true
+            
+            for file in "${PROTECTED_FILES[@]}"; do
+              # Check if file exists in this commit
+              if ! git show $commit:"$file" > /tmp/check_version 2>/dev/null; then
+                WORKFLOW_OK=false
+                break
+              fi
+              
+              # Compare with canonical version
+              CANONICAL_FILE="../guardian/canonical-workflows/$(basename $file)"
+              if [ -f "$CANONICAL_FILE" ]; then
+                if ! diff -q /tmp/check_version "$CANONICAL_FILE" > /dev/null 2>&1; then
+                  WORKFLOW_OK=false
+                  break
+                fi
+              fi
+            done
+            
+            if [ "$WORKFLOW_OK" = true ]; then
+              LAST_GOOD_COMMIT=$commit
+              COMMIT_DATE=$(git show -s --format=%ci $commit)
+              echo "✅ Found last known good state: $commit"
+              echo "   Date: $COMMIT_DATE"
+              echo "   Commits checked: $COMMITS_CHECKED"
+              echo "LAST_GOOD_COMMIT=$commit" >> $GITHUB_ENV
+              break
+            fi
+          done
+          
+          if [ -z "$LAST_GOOD_COMMIT" ]; then
+            echo "⚠️ Could not find good state in last 100 commits"
+            echo "LAST_GOOD_COMMIT=HEAD^" >> $GITHUB_ENV
+          fi
+      
+      - name: Restore repository to last good state
+        if: env.NEEDS_RESTORE == 'true'
+        run: |
+          cd the-foundry
+          
+          echo "🔄 Restoring repository to last known good state..."
+          
+          CURRENT_COMMIT=$(git rev-parse HEAD)
+          LAST_GOOD=${{ env.LAST_GOOD_COMMIT }}
+          
+          # Restore workflow files from guardian repo
+          echo "Restoring workflow files from canonical versions..."
+          cp ../guardian/canonical-workflows/enforce-ownership.yml .github/workflows/
+          cp ../guardian/canonical-workflows/enforce_ownership.py .github/scripts/
+          
+          # Restore all other content from last good commit
+          echo "Restoring content files from last good state..."
+          git diff --name-status $LAST_GOOD $CURRENT_COMMIT | grep -v "^\S\s*.github/" | while read status rest; do
+            case $status in
+              D)
+                file="$rest"
+                echo "  Restoring deleted: $file"
+                git checkout $LAST_GOOD -- "$file" 2>/dev/null || true
+                ;;
+              M)
+                file="$rest"
+                echo "  Restoring modified: $file"
+                git checkout $LAST_GOOD -- "$file" 2>/dev/null || true
+                ;;
+              A)
+                file="$rest"
+                echo "  Removing unauthorized addition: $file"
+                rm -f "$file" 2>/dev/null || true
+                ;;
+              R*)
+                oldfile=$(echo "$rest" | awk '{print $1}')
+                newfile=$(echo "$rest" | awk '{print $2}')
+                echo "  Reverting rename: $newfile -> $oldfile"
+                rm -f "$newfile" 2>/dev/null || true
+                git checkout $LAST_GOOD -- "$oldfile" 2>/dev/null || true
+                ;;
+            esac
+          done
+          
+          echo "CURRENT_COMMIT=$CURRENT_COMMIT" >> $GITHUB_ENV
+      
+      - name: Commit and push restoration
+        if: env.NEEDS_RESTORE == 'true'
+        run: |
+          cd the-foundry
+          
+          git config user.name "Guardian Bot"
+          git config user.email "guardian@the-foundry.bot"
+          git add -A
+          git commit -m "Guardian: Restored files after unauthorized changes detected" \
+                     -m "Detected compromise of workflow files." \
+                     -m "All affected files have been restored." \
+                     -m "Last known good state: ${{ env.LAST_GOOD_COMMIT }}" \
+                     -m "Compromised state: ${{ env.CURRENT_COMMIT }}" \
+                     -m "This restoration was performed by the external Guardian monitoring system."
+          git push origin main
+          
+          echo "✅ Repository restored and pushed"
+      
+      - name: Create attack alert issue
+        if: env.NEEDS_RESTORE == 'true'
+        run: |
+          cd the-foundry
+          
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          LAST_GOOD=${{ env.LAST_GOOD_COMMIT }}
+          CURRENT=${{ env.CURRENT_COMMIT }}
+          
+          # Get attackers list
+          ATTACKERS=$(git log $LAST_GOOD..$CURRENT --format="%an <%ae>" | sort -u | sed 's/^/- /')
+          
+          # Get malicious commits  
+          COMMITS=$(git log $LAST_GOOD..$CURRENT --oneline | sed 's/^/- /')
+          
+          # Get files affected
+          FILES=$(git diff --name-status $LAST_GOOD $CURRENT | head -50 | sed 's/^/- /')
+          
+          # Get commit URLs
+          REPO_URL="https://github.com/nickarrow/the-foundry"
+          LAST_GOOD_SHORT="${LAST_GOOD:0:7}"
+          CURRENT_SHORT="${CURRENT:0:7}"
+          LAST_GOOD_URL="$REPO_URL/commit/$LAST_GOOD"
+          COMPROMISED_URL="$REPO_URL/commit/$CURRENT"
+          
+          # Create issue body
+          cat > /tmp/issue_body.md << EOF
+## 🚨 Guardian Attack Detected
+
+**Detection Time:** $TIMESTAMP  
+**Status:** ✅ Automatically restored by external Guardian
+
+---
+
+### Attack Details
+
+- **Last Known Good Commit:** [\`$LAST_GOOD_SHORT\`]($LAST_GOOD_URL)
+- **Compromised Commit:** [\`$CURRENT_SHORT\`]($COMPROMISED_URL)
+
+### Attackers (Commit Authors)
+
+$ATTACKERS
+
+### Malicious Commits
+
+$COMMITS
+
+### Files Affected (first 50)
+
+\`\`\`
+$FILES
+\`\`\`
+
+---
+
+### Actions Taken by Guardian
+
+- ✅ Workflows restored from external guardian repository
+- ✅ All content restored to last known good state
+- ✅ Restoration committed to \`main\` branch
+- ✅ This issue created for admin review
+
+### Recommended Actions
+
+1. **Review the attackers list above** - Identify malicious users
+2. **Remove write access** - Go to Settings → Collaborators and remove those users
+3. **Check for compromised accounts** - Verify if legitimate users' accounts were hacked
+4. **Monitor for repeat attacks** - Watch for the same users attempting again
+5. **Review GitHub audit log** - Check for additional suspicious activity
+
+---
+
+**Note:** This issue was automatically created by the external Guardian monitoring system. The repository has been restored and is secure.
+
+**Guardian Repository:** https://github.com/nickarrow/the-foundry-guardian
+EOF
+          
+          # Create the issue
+          gh issue create \
+            --repo nickarrow/the-foundry \
+            --title "🚨 Guardian Alert: Attack Detected and Restored - $TIMESTAMP" \
+            --body-file /tmp/issue_body.md \
+            --label "security,guardian-alert" \
+            --assignee "nickarrow"
+          
+          echo "✅ Attack alert issue created"
+        env:
+          GH_TOKEN: ${{ secrets.FOUNDRY_PAT }}
