@@ -53,10 +53,70 @@ files:
     created: '2025-12-17T20:16:20.630620+00:00'
     modified: '2025-12-17T20:16:20.630620+00:00'
     owner: nickarrow
+  The Starforged (NickArrow)/Factions/Circle of the Elder Stars.md:
+    checksum: c286bd8cb00572892bd1ba2511f17db68e7e5bd340dec35400eae57e2fcac04c
+    created: '2025-12-17T20:28:29.565663+00:00'
+    modified: '2025-12-17T20:28:29.565663+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Factions/Risen Union.md:
+    checksum: c36000084ad36a06081fd9149f1492c136e3b30df2f2a206f5f28e12a0d2cc05
+    created: '2025-12-17T20:28:29.565713+00:00'
+    modified: '2025-12-17T20:28:29.565713+00:00'
+    owner: nickarrow
   The Starforged (NickArrow)/Journals/Barille 25.12.17 - Beginnings.md:
-    checksum: 5e2bc74a01cd5b96cc2565b7addc84a7049df722683a67d974f6f18c5e677f05
+    checksum: f0b0410111e9c3a0ade0f9b62bc50f26cebf55df3758b0145f4272faeffb2127
     created: '2025-12-17T20:18:04.220298+00:00'
-    modified: '2025-12-17T20:18:04.220298+00:00'
+    modified: '2025-12-17T20:28:29.565755+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Locations/Map - Devil's Chain.excalidraw.md:
+    checksum: 8b76c0d503a57ebe68485915ff8bc0ae7ef40b27d18bc456b09c5ca836a22542
+    created: '2025-12-17T20:28:29.565815+00:00'
+    modified: '2025-12-17T20:28:29.565815+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Locations/Planets/Acyrus.md:
+    checksum: ed68df966f2b82d753a0d90733550dc122d6f6d40d979405f10e0ac856b9fe41
+    created: '2025-12-17T20:28:29.565848+00:00'
+    modified: '2025-12-17T20:28:29.565848+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Locations/Planets/attachments/acyrus.gif:
+    checksum: d6be2595549d2582e7106893f43a5c27ce5c7d38dc7bbf1b9184c65c5b60d7a0
+    created: '2025-12-17T20:28:29.566093+00:00'
+    modified: '2025-12-17T20:28:29.566093+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Locations/Sectors/Devil's Chain.md:
+    checksum: dc98931c849e5fd0823435919f0d4cb3210feff4b1802772c7b52776e6332539
+    created: '2025-12-17T20:28:29.566122+00:00'
+    modified: '2025-12-17T20:28:29.566122+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Locations/Sectors/attachments/acyrus-system.svg:
+    checksum: 7c4dae219e5acee5e48b7c31320f0c9ee3c35af899587c83d9773bea38475dbf
+    created: '2025-12-17T20:28:29.566154+00:00'
+    modified: '2025-12-17T20:28:29.566154+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Locations/Sectors/attachments/devils-chain-background.png:
+    checksum: 6f96d75e72161913895bd4ce3dfc4a950d6e21bd807b35090a378fa6c9b59183
+    created: '2025-12-17T20:28:29.566370+00:00'
+    modified: '2025-12-17T20:28:29.566370+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Locations/Settlements/Reck.md:
+    checksum: efa2e69933c6c784d7e6c8ec57aaea8e6ad2eaaa5132232af111518614569e87
+    created: '2025-12-17T20:28:29.566400+00:00'
+    modified: '2025-12-17T20:28:29.566400+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
+    checksum: 67a6a31e66b5c6919867ba9a98d0a5b88657ea86c855e7bb5ac03015a7d5863a
+    created: '2025-12-17T20:28:29.566428+00:00'
+    modified: '2025-12-17T20:28:29.566428+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Progress/Barille/Fend off attackers until the transport can escape.md:
+    checksum: 4a725f846bea49701e565a58a88726e2330ed513447481ff09ef07d0875fd9db
+    created: '2025-12-17T20:28:29.566467+00:00'
+    modified: '2025-12-17T20:28:29.566467+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md:
+    checksum: dec3add9991123e124d488174565c46c94f82cfd79da705684a9b9a9fc8dcc7e
+    created: '2025-12-17T20:28:29.566496+00:00'
+    modified: '2025-12-17T20:28:29.566496+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/The Starforged (NickArrow).md:
     checksum: 7840de915ceeb4919beb72aa1b10d7602ad18cf174f9612440d9f756f66345fe
