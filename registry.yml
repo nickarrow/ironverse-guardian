@@ -69,9 +69,9 @@ files:
     modified: '2025-12-17T20:28:29.565713+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Journals/Barille 01 - Beginnings.md:
-    checksum: ab06c0a8c8e00e03c80090e0ea5cc1fd40f9f44b9460bc7b6b4fddf0708ce34a
+    checksum: ca78e7355392ae47802bb61f3ef8a1fde6ca449520957a716d8064b54f78e510
     created: '2025-12-17T20:18:04.220298+00:00'
-    modified: '2025-12-22T03:50:41.767278+00:00'
+    modified: '2025-12-22T20:11:14.424629+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Map - Devil's Chain.excalidraw.md:
     checksum: 8b76c0d503a57ebe68485915ff8bc0ae7ef40b27d18bc456b09c5ca836a22542
@@ -122,6 +122,11 @@ files:
     checksum: dec3add9991123e124d488174565c46c94f82cfd79da705684a9b9a9fc8dcc7e
     created: '2025-12-17T20:28:29.566496+00:00'
     modified: '2025-12-20T20:00:26.080013+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Progress/Finish the word wrapping implementation.md:
+    checksum: 9c1ce1c828ce1798494df281bf57f6e004270571e7f0aefac5df3fe0d1a5bc95
+    created: '2025-12-22T20:11:14.424670+00:00'
+    modified: '2025-12-22T20:11:14.424670+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/The Starforged (NickArrow).md:
     checksum: bce6896597ea492f714f210f7647c6c0533afe49aac551a8024b217abc6221b2
