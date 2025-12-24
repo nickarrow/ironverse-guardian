@@ -3,6 +3,11 @@
 # DO NOT EDIT MANUALLY - Managed automatically by the Foundry enforcement system.
 
 files:
+  .README.md:
+    checksum: 460c3b229821efe14a65b7ec002685d5c45542be6fccd868d6abb250fef5bdab
+    created: '2025-12-17T17:36:32.462310+00:00'
+    modified: '2025-12-21T19:41:35.769247+00:00'
+    owner: nickarrow
   .foundry/.LICENSE:
     checksum: 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986
     created: '2025-12-18T20:57:21.309987+00:00'
@@ -14,19 +19,19 @@ files:
     modified: '2025-12-18T20:54:13.298198+00:00'
     owner: nickarrow
   1. Welcome to The Foundry.md:
-    checksum: 3b57dfcde3c2bcd2739f270ee6fb64b492506634d6f4cfa60efeae060c3234f0
+    checksum: e4bef23e82e3b16e262c96d239eed38e017e987d214041de3a04f1534abc38c3
     created: '2025-12-17T17:41:15.770246+00:00'
-    modified: '2025-12-17T17:42:21.971541+00:00'
+    modified: '2025-12-19T20:18:38.164962+00:00'
     owner: nickarrow
   2. Getting Started.md:
-    checksum: b186b25f3fbcf51ec89eb4a050059ada1dc76ae87901c3e35a28f338c61b1598
+    checksum: 4179e3bb3970d59fcc2124571b9a904babaf4df08d93edc831fae99265dd8f71
     created: '2025-12-17T17:41:15.770317+00:00'
-    modified: '2025-12-17T21:43:14.747024+00:00'
+    modified: '2025-12-21T19:44:24.035900+00:00'
     owner: nickarrow
   3. Tips and Best Practices.md:
-    checksum: 27cdd8c81425a6c03712ec4614d76dcece2df20506cd100177ebf42fd6e7189a
+    checksum: ec198384344c46a46326f3671693c50ba0b8e12e8eb4b91c50cbf51e22d510ab
     created: '2025-12-17T17:41:15.770365+00:00'
-    modified: '2025-12-17T17:42:21.971630+00:00'
+    modified: '2025-12-19T20:20:01.768403+00:00'
     owner: nickarrow
   4. Iron Vault Feature Wishlist and Bugs.md:
     checksum: 50c3a97011f80f1eb0c8a1755837820acbc8eb87294264cdeba9018d406943f8
@@ -34,24 +39,24 @@ files:
     modified: '2025-12-17T17:42:21.971675+00:00'
     owner: nickarrow
   5. The Foundry Changelog.md:
-    checksum: 94a6f3bf145a8ed8e54c7e297a3a91291e5fabb5502da6494478405d48f35cd0
+    checksum: dc6ebced5b05631958be3809ef21e885db8fd4e942d0a971d047c2a0a86f4062
     created: '2025-12-17T17:42:21.971715+00:00'
-    modified: '2025-12-17T17:42:38.055097+00:00'
+    modified: '2025-12-22T22:16:37.289461+00:00'
     owner: nickarrow
-  README.md:
-    checksum: a1940f80cb8095123f0e5ecfbc5ab5aaebc193f3e7766aa8a6552301d18749d4
-    created: '2025-12-17T17:36:32.462310+00:00'
-    modified: '2025-12-17T18:33:33.246743+00:00'
+  5.1 The Foundry Changelog Base.base:
+    checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
+    created: '2025-12-22T22:16:37.289500+00:00'
+    modified: '2025-12-22T22:16:37.289500+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Characters/Barille Black - Gear.md:
-    checksum: b2eac6e6be063f69cd2672e6dceb6bd5810cdff78565f6f349759c0e8a9f0d23
+    checksum: c1ef0d8ac70b03abc10ebdcab35f8b028f121f805a311f5078c29375b7a38b7b
     created: '2025-12-17T20:16:20.629124+00:00'
-    modified: '2025-12-17T20:16:20.629124+00:00'
+    modified: '2025-12-20T19:40:24.883324+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Characters/Barille Black.md:
-    checksum: 652b8b55440dd60eb92be2dc5b4cac4335d43e23d6ca7fecf91ef782bb3cbed0
+    checksum: f39f8aa54b4cff23da60a4913beda5f880dc231a80ce84823f5f607bb3ecd084
     created: '2025-12-17T19:59:34.705988+00:00'
-    modified: '2025-12-17T20:16:20.629173+00:00'
+    modified: '2025-12-24T20:44:25.941854+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Characters/attachments/barille black profile.png:
     checksum: 283585c27eb05c9acdcc972e3aa9c21afa873a62f1bf4710905332bd34f1a746
@@ -59,29 +64,34 @@ files:
     modified: '2025-12-17T20:16:20.630620+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Factions/Circle of the Elder Stars.md:
-    checksum: c286bd8cb00572892bd1ba2511f17db68e7e5bd340dec35400eae57e2fcac04c
+    checksum: 7a209b60cad5d5ade69c3bd014af82e67b574e05d35c1bab4f41660dc6f35737
     created: '2025-12-17T20:28:29.565663+00:00'
-    modified: '2025-12-17T20:28:29.565663+00:00'
+    modified: '2025-12-20T19:50:24.777379+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Factions/Risen Union.md:
     checksum: c36000084ad36a06081fd9149f1492c136e3b30df2f2a206f5f28e12a0d2cc05
     created: '2025-12-17T20:28:29.565713+00:00'
     modified: '2025-12-17T20:28:29.565713+00:00'
     owner: nickarrow
-  The Starforged (NickArrow)/Journals/Barille 25.12.17 - Beginnings.md:
-    checksum: f0b0410111e9c3a0ade0f9b62bc50f26cebf55df3758b0145f4272faeffb2127
+  The Starforged (NickArrow)/Journals/Barille 01 - Beginnings.md:
+    checksum: 2f5f2c5e9b4f153ea68f799685f5917c56c067f6fcd729f15a54c47ec4f22750
     created: '2025-12-17T20:18:04.220298+00:00'
-    modified: '2025-12-17T20:28:29.565755+00:00'
+    modified: '2025-12-24T05:24:14.470742+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Journals/Barille Inline Mechanics Test File.md:
+    checksum: 41e8c35c952d72ff8acbb274bbe9130f9407c059abb7789a976fe4f034ebc15e
+    created: '2025-12-23T20:00:26.015305+00:00'
+    modified: '2025-12-23T20:00:26.015305+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Map - Devil's Chain.excalidraw.md:
-    checksum: 8b76c0d503a57ebe68485915ff8bc0ae7ef40b27d18bc456b09c5ca836a22542
+    checksum: c5564a4339ce6090749458f10cadf14e0b4a0b8012529d0aeb4fa1eb0b45097e
     created: '2025-12-17T20:28:29.565815+00:00'
-    modified: '2025-12-17T20:28:29.565815+00:00'
+    modified: '2025-12-23T20:00:26.015344+00:00'
     owner: nickarrow
-  The Starforged (NickArrow)/Locations/Planets/Acyrus.md:
-    checksum: ed68df966f2b82d753a0d90733550dc122d6f6d40d979405f10e0ac856b9fe41
+  The Starforged (NickArrow)/Locations/Planets/Ackriss-2.md:
+    checksum: d43c62775a1b9e2545e675da0767a8c53c40772b1aa35a15f066c415fa051355
     created: '2025-12-17T20:28:29.565848+00:00'
-    modified: '2025-12-17T20:28:29.565848+00:00'
+    modified: '2025-12-23T20:00:26.015374+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Planets/attachments/acyrus.gif:
     checksum: d6be2595549d2582e7106893f43a5c27ce5c7d38dc7bbf1b9184c65c5b60d7a0
@@ -104,37 +114,32 @@ files:
     modified: '2025-12-17T20:28:29.566370+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Settlements/Reck.md:
-    checksum: efa2e69933c6c784d7e6c8ec57aaea8e6ad2eaaa5132232af111518614569e87
+    checksum: 141337548881838954d83fde3a633101938f7de6870333927b4f54e086ada671
     created: '2025-12-17T20:28:29.566400+00:00'
-    modified: '2025-12-17T20:28:29.566400+00:00'
+    modified: '2025-12-23T20:00:26.015409+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 67a6a31e66b5c6919867ba9a98d0a5b88657ea86c855e7bb5ac03015a7d5863a
     created: '2025-12-17T20:28:29.566428+00:00'
-    modified: '2025-12-17T20:28:29.566428+00:00'
+    modified: '2025-12-20T20:00:26.079980+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Progress/Barille/Fend off attackers until the transport can escape.md:
-    checksum: 4a725f846bea49701e565a58a88726e2330ed513447481ff09ef07d0875fd9db
+    checksum: 300af7483e8dc949960af74ccd03b13dfaa87ee5d75ae08cd389fe11e374d068
     created: '2025-12-17T20:28:29.566467+00:00'
-    modified: '2025-12-17T20:28:29.566467+00:00'
+    modified: '2025-12-23T21:05:25.977107+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Progress/Barille/Investigate and report on the rumored horrors of Reck.md:
-    checksum: dec3add9991123e124d488174565c46c94f82cfd79da705684a9b9a9fc8dcc7e
+    checksum: 9fb3608fab262a470c0942d9231ad5b1671266ac5fc630ac560a851d0401cc88
     created: '2025-12-17T20:28:29.566496+00:00'
-    modified: '2025-12-17T20:28:29.566496+00:00'
+    modified: '2025-12-23T20:59:05.515905+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/The Starforged (NickArrow).md:
-    checksum: 7840de915ceeb4919beb72aa1b10d7602ad18cf174f9612440d9f756f66345fe
+    checksum: 1352004fb46e72fb801f939ff355c4176e108f92770fe76dcd4ff630d0f035a1
     created: '2025-12-17T19:59:34.706075+00:00'
-    modified: '2025-12-17T20:11:46.528490+00:00'
+    modified: '2025-12-24T20:34:26.189873+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Truths.md:
-    checksum: aa670275b4305c655ad04b70220452c85d3ae324cc6b3c6eaaa952e9a328b320
+    checksum: f7a74ccce0b955ccb36b258c578806f7eb571d1dcbec8e9428e0171bb0c03711
     created: '2025-12-17T19:59:34.706109+00:00'
-    modified: '2025-12-17T19:59:34.706109+00:00'
-    owner: nickarrow
-  attachments/FIT instructions.png:
-    checksum: 4a13d0202ee8724cd1c6649ef443e2c9de080d4e097632b820406705a676037f
-    created: '2025-12-17T21:43:14.747150+00:00'
-    modified: '2025-12-17T21:43:14.747150+00:00'
+    modified: '2025-12-19T18:59:58.928172+00:00'
     owner: nickarrow
