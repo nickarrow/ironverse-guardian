@@ -58,6 +58,11 @@ files:
     created: '2025-12-25T20:28:31.641102+00:00'
     modified: '2025-12-25T20:28:31.641102+00:00'
     owner: nickarrow
+  Pinnacle.md:
+    checksum: 91fff28b6a1ac4ee68be2b737502b0e759f7bf724f2f0d9c4f2c8c365e9e2952
+    created: '2025-12-25T20:47:06.061388+00:00'
+    modified: '2025-12-25T20:47:06.061388+00:00'
+    owner: nickarrow
   The Starforged (NickArrow)/Characters/Barille Black - Gear.md:
     checksum: c1ef0d8ac70b03abc10ebdcab35f8b028f121f805a311f5078c29375b7a38b7b
     created: '2025-12-17T20:16:20.629124+00:00'
@@ -109,9 +114,9 @@ files:
     modified: '2025-12-17T20:28:29.566093+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Sectors/Devil's Chain.md:
-    checksum: 8bd9d1ab95b771a417a0de63c71808e26c2ededd786bcb1666cc99cdf12b88f5
+    checksum: ba66b7f3a2d92d5659ea41a90f07784b15ba72149ac3028f4477876f9ef5564b
     created: '2025-12-17T20:28:29.566122+00:00'
-    modified: '2025-12-25T20:42:06.014021+00:00'
+    modified: '2025-12-25T20:47:06.061434+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Sectors/attachments/acyrus-system.svg:
     checksum: 7c4dae219e5acee5e48b7c31320f0c9ee3c35af899587c83d9773bea38475dbf
@@ -124,9 +129,9 @@ files:
     modified: '2025-12-17T20:28:29.566370+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Settlements/Reck.md:
-    checksum: 141337548881838954d83fde3a633101938f7de6870333927b4f54e086ada671
+    checksum: 151632fd070c02353ee8b351a8a55da6e9b38a5c9b46b44e1aafc429b3e3b21c
     created: '2025-12-17T20:28:29.566400+00:00'
-    modified: '2025-12-23T20:00:26.015409+00:00'
+    modified: '2025-12-25T20:47:06.061467+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 67a6a31e66b5c6919867ba9a98d0a5b88657ea86c855e7bb5ac03015a7d5863a
