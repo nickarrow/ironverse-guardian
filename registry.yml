@@ -49,14 +49,14 @@ files:
     modified: '2025-12-22T22:16:37.289500+00:00'
     owner: nickarrow
   Epistolary Framework/Epistolary Guide.md:
-    checksum: a9b57cdb27d404e9aaa5be5b7e09ac20a3e428b1ed5385a96317efb84a685246
+    checksum: 4e6d586855673f4937d18c87850bc91984f9025f7d6382628eb4a280e2e1641f
     created: '2025-12-25T20:28:31.641056+00:00'
-    modified: '2025-12-25T20:28:31.641056+00:00'
+    modified: '2025-12-26T06:21:16.116405+00:00'
     owner: nickarrow
   Epistolary Framework/Letter Template.md:
-    checksum: 9dd3af25f910f2d9eebb3f7f43c85fbb2ba154ce28d43824b25031ff46faa48e
+    checksum: 858203fb37e5a8944c298950210965753b1e4f9a52b10fbee1ff113a54bdd2c9
     created: '2025-12-25T20:28:31.641102+00:00'
-    modified: '2025-12-25T20:28:31.641102+00:00'
+    modified: '2025-12-26T06:21:16.116445+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Characters/Barille Black - Gear.md:
     checksum: c1ef0d8ac70b03abc10ebdcab35f8b028f121f805a311f5078c29375b7a38b7b
@@ -128,6 +128,11 @@ files:
     created: '2025-12-17T20:28:29.566400+00:00'
     modified: '2025-12-25T21:13:16.006518+00:00'
     owner: nickarrow
+  The Starforged (NickArrow)/Lore/Epistolary/README.md:
+    checksum: 4105b66b34d4d6d37d33355949e5c577616c50f65ca29f068a42b3b9345945cc
+    created: '2025-12-26T06:21:16.116471+00:00'
+    modified: '2025-12-26T06:21:16.116471+00:00'
+    owner: nickarrow
   The Starforged (NickArrow)/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 67a6a31e66b5c6919867ba9a98d0a5b88657ea86c855e7bb5ac03015a7d5863a
     created: '2025-12-17T20:28:29.566428+00:00'
@@ -142,6 +147,11 @@ files:
     checksum: 9fb3608fab262a470c0942d9231ad5b1671266ac5fc630ac560a851d0401cc88
     created: '2025-12-17T20:28:29.566496+00:00'
     modified: '2025-12-23T20:59:05.515905+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Progress/Shared Vow - Expose the darkness behind the Devil's Chain raiders.md:
+    checksum: 0812e66f1f9e95f9b98601767c8f31d4e50dc0a0c0c89367ae1a3ca138a1ed54
+    created: '2025-12-26T06:21:16.116491+00:00'
+    modified: '2025-12-26T06:21:16.116491+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/The Starforged (NickArrow).md:
     checksum: 6ce7e459b15a2a636c60729c0a8d9c3cdf252d0af99e29fb9b95eb54b2894efd
