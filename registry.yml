@@ -3,6 +3,11 @@
 # DO NOT EDIT MANUALLY - Managed automatically by the Foundry enforcement system.
 
 files:
+  '"The Starforged (NickArrow)/Lore/Epistolary/Epistolary Letters \342\200\224 The Starforged.md"':
+    checksum: ''
+    created: '2025-12-26T06:21:16.116471+00:00'
+    modified: '2025-12-26T06:31:18.141184+00:00'
+    owner: nickarrow
   .README.md:
     checksum: 460c3b229821efe14a65b7ec002685d5c45542be6fccd868d6abb250fef5bdab
     created: '2025-12-17T17:36:32.462310+00:00'
@@ -128,11 +133,6 @@ files:
     created: '2025-12-17T20:28:29.566400+00:00'
     modified: '2025-12-25T21:13:16.006518+00:00'
     owner: nickarrow
-  The Starforged (NickArrow)/Lore/Epistolary/README.md:
-    checksum: 4105b66b34d4d6d37d33355949e5c577616c50f65ca29f068a42b3b9345945cc
-    created: '2025-12-26T06:21:16.116471+00:00'
-    modified: '2025-12-26T06:21:16.116471+00:00'
-    owner: nickarrow
   The Starforged (NickArrow)/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 67a6a31e66b5c6919867ba9a98d0a5b88657ea86c855e7bb5ac03015a7d5863a
     created: '2025-12-17T20:28:29.566428+00:00'
@@ -148,10 +148,10 @@ files:
     created: '2025-12-17T20:28:29.566496+00:00'
     modified: '2025-12-23T20:59:05.515905+00:00'
     owner: nickarrow
-  The Starforged (NickArrow)/Progress/Shared Vow - Expose the darkness behind the Devil's Chain raiders.md:
-    checksum: 0812e66f1f9e95f9b98601767c8f31d4e50dc0a0c0c89367ae1a3ca138a1ed54
-    created: '2025-12-26T06:21:16.116491+00:00'
-    modified: '2025-12-26T06:21:16.116491+00:00'
+  The Starforged (NickArrow)/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md:
+    checksum: 05707474b354890382ef8417e31d74e378abd9d68574ef16547d773b069b2923
+    created: '2025-12-26T06:31:18.141226+00:00'
+    modified: '2025-12-26T06:31:18.141226+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/The Starforged (NickArrow).md:
     checksum: 6ce7e459b15a2a636c60729c0a8d9c3cdf252d0af99e29fb9b95eb54b2894efd
