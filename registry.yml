@@ -69,14 +69,19 @@ files:
     modified: '2025-12-20T19:40:24.883324+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Characters/Barille Black.md:
-    checksum: 2e903c249cef4384e9513a06764922736801d797bd2be04b39fda872c5e113c1
+    checksum: becb6d1c374c620153db1d597c7daeec9886cce4a89181b2d13f6a475d7e7a2a
     created: '2025-12-17T19:59:34.705988+00:00'
-    modified: '2025-12-26T20:23:56.761181+00:00'
+    modified: '2025-12-27T20:36:06.781723+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Characters/attachments/barille black profile.png:
     checksum: 283585c27eb05c9acdcc972e3aa9c21afa873a62f1bf4710905332bd34f1a746
     created: '2025-12-17T20:16:20.630620+00:00'
     modified: '2025-12-17T20:16:20.630620+00:00'
+    owner: nickarrow
+  The Starforged (NickArrow)/Factions/Ascendancy of the Awakened Worlds.md:
+    checksum: 21a1902dfa87ad2364584200ee7bc46b0d4379b127d1a9a82fe66e0665daa7f6
+    created: '2025-12-27T20:36:06.781765+00:00'
+    modified: '2025-12-27T20:36:06.781765+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Factions/Circle of the Elder Stars.md:
     checksum: 7a209b60cad5d5ade69c3bd014af82e67b574e05d35c1bab4f41660dc6f35737
@@ -94,9 +99,9 @@ files:
     modified: '2025-12-27T19:44:10.527100+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Journals/Barille 02 - Reck.md:
-    checksum: b01d0fe316cfb1dea0e8cba4876a1037b7b94f6803d89b429f8dd13042b20918
+    checksum: da35338a46078b741612687fe3cf0121bbfc973969c4b20d4e07c6468ea33ecf
     created: '2025-12-27T19:44:10.527140+00:00'
-    modified: '2025-12-27T19:44:10.527140+00:00'
+    modified: '2025-12-27T20:36:06.781801+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Map - Devil's Chain.excalidraw.md:
     checksum: c050c188c464c6671bfe36ad762f9890714b9dbd9adeb85888e0294536385041
@@ -138,6 +143,11 @@ files:
     created: '2025-12-17T20:28:29.566400+00:00'
     modified: '2025-12-25T21:13:16.006518+00:00'
     owner: nickarrow
+  The Starforged (NickArrow)/Lore/Epistolary/Message 01 - Barille Black.md:
+    checksum: 8d4dbfcd7194768c81b4ce753b6d9dfb50a53e4cd9d4ac0cae2f31f03730b8be
+    created: '2025-12-27T20:36:06.781834+00:00'
+    modified: '2025-12-27T20:36:06.781834+00:00'
+    owner: nickarrow
   The Starforged (NickArrow)/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 9a4e1cd1c68f9c461b21677b28e72c7c9cdfbac9cb7d23b3d0908b686d1b3789
     created: '2025-12-17T20:28:29.566428+00:00'
@@ -154,9 +164,9 @@ files:
     modified: '2025-12-26T19:17:07.639385+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md:
-    checksum: 05707474b354890382ef8417e31d74e378abd9d68574ef16547d773b069b2923
+    checksum: c435892f275dceec9be5faf2f28e06c05430e00dcb56dc5a14627d7827727f48
     created: '2025-12-26T06:31:18.141226+00:00'
-    modified: '2025-12-26T06:31:18.141226+00:00'
+    modified: '2025-12-27T20:36:06.781867+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/The Starforged (NickArrow).md:
     checksum: 6ce7e459b15a2a636c60729c0a8d9c3cdf252d0af99e29fb9b95eb54b2894efd
