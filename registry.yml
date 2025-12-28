@@ -99,19 +99,19 @@ files:
     modified: '2025-12-28T07:36:03.774717+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Map - Devil's Chain.excalidraw.md:
-    checksum: c050c188c464c6671bfe36ad762f9890714b9dbd9adeb85888e0294536385041
+    checksum: 1867ab9bd24efec6f0f1ac1cfde4b803183fb9365501cbe5f71645a9318c5cb2
     created: '2025-12-17T20:28:29.565815+00:00'
-    modified: '2025-12-25T21:02:28.679719+00:00'
+    modified: '2025-12-28T07:44:09.074736+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Planets/Ackriss-2.md:
-    checksum: 24d279bd29fca0b7e1f6a0109bc2ae6974e47594054a9ff26f9cd85b45940918
+    checksum: e0478455e57eb38481afc47dca3ffa651f87d257be2f31baa3617da5b2f26aba
     created: '2025-12-17T20:28:29.565848+00:00'
-    modified: '2025-12-25T20:53:27.801602+00:00'
+    modified: '2025-12-28T07:44:09.074788+00:00'
     owner: nickarrow
-  The Starforged (NickArrow)/Locations/Planets/attachments/acyrus.gif:
+  The Starforged (NickArrow)/Locations/Planets/attachments/ackriss-2.gif:
     checksum: d6be2595549d2582e7106893f43a5c27ce5c7d38dc7bbf1b9184c65c5b60d7a0
     created: '2025-12-17T20:28:29.566093+00:00'
-    modified: '2025-12-17T20:28:29.566093+00:00'
+    modified: '2025-12-28T07:44:09.075039+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Planets/test.md:
     checksum: 32144736883d6d5dd6ae048c6b146d09e0816d47bff3f339286beefb5a428e69
@@ -123,10 +123,10 @@ files:
     created: '2025-12-17T20:28:29.566122+00:00'
     modified: '2025-12-26T19:32:40.271763+00:00'
     owner: nickarrow
-  The Starforged (NickArrow)/Locations/Sectors/attachments/acyrus-system.svg:
+  The Starforged (NickArrow)/Locations/Sectors/attachments/ackriss-system.svg:
     checksum: 7c4dae219e5acee5e48b7c31320f0c9ee3c35af899587c83d9773bea38475dbf
     created: '2025-12-17T20:28:29.566154+00:00'
-    modified: '2025-12-17T20:28:29.566154+00:00'
+    modified: '2025-12-28T07:44:09.075073+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Locations/Sectors/attachments/devils-chain-background.png:
     checksum: 6f96d75e72161913895bd4ce3dfc4a950d6e21bd807b35090a378fa6c9b59183
@@ -172,11 +172,6 @@ files:
     checksum: c435892f275dceec9be5faf2f28e06c05430e00dcb56dc5a14627d7827727f48
     created: '2025-12-26T06:31:18.141226+00:00'
     modified: '2025-12-27T20:36:06.781867+00:00'
-    owner: nickarrow
-  The Starforged (NickArrow)/Progress/Testprogress.md:
-    checksum: d11895bcc8cab1ba59ff5261b64ae163ba6c1ebbe62161739afe1b5a97b2446b
-    created: '2025-12-28T07:36:03.774802+00:00'
-    modified: '2025-12-28T07:36:03.774802+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/The Starforged (NickArrow).md:
     checksum: 6ce7e459b15a2a636c60729c0a8d9c3cdf252d0af99e29fb9b95eb54b2894efd
