@@ -18,11 +18,6 @@ files:
     created: '2025-12-18T20:54:13.298198+00:00'
     modified: '2025-12-18T20:54:13.298198+00:00'
     owner: nickarrow
-  1. Welcome to The Foundry.md:
-    checksum: 1220cf4e7c56d661a88a6c00e20ac6c6a5e00565c5a33b221f773dc2a8fa2103
-    created: '2025-12-17T17:41:15.770246+00:00'
-    modified: '2025-12-31T05:05:23.266385+00:00'
-    owner: nickarrow
   Epistolary Framework/Epistolary Guide.md:
     checksum: 30e40c1d34ea24e57879ed7faf75e24c9fd8612cb8a8027e346bce3cb61769b6
     created: '2025-12-25T20:28:31.641056+00:00'
@@ -39,9 +34,9 @@ files:
     modified: '2025-12-31T04:59:31.082840+00:00'
     owner: nickarrow
   README.md:
-    checksum: 6f8b80e5a71e45b2e1a897cf62d7960fb1d19fd2fef6be08320572f92cf324f9
+    checksum: 5f22fd30d4741268c144ede9800a8d9baa01cdf238bf67d9cb6c9f95a4dd6f4e
     created: '2025-12-31T04:59:31.082903+00:00'
-    modified: '2025-12-31T05:05:23.266426+00:00'
+    modified: '2025-12-31T05:10:27.252277+00:00'
     owner: nickarrow
   The Foundry Changelog Base.base:
     checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
@@ -187,4 +182,9 @@ files:
     checksum: 4293ba0992fc200d66fdcd8aa07e1a5cf8f070319eb6243fbd3dc6052dceaa72
     created: '2025-12-17T17:41:15.770365+00:00'
     modified: '2025-12-31T04:59:31.082990+00:00'
+    owner: nickarrow
+  Welcome to The Foundry.md:
+    checksum: f4a01441064c6bc46b4c1bcb951b2cc8629ef9260d81b06d228d0b8eb34c1224
+    created: '2025-12-17T17:41:15.770246+00:00'
+    modified: '2025-12-31T05:10:27.252329+00:00'
     owner: nickarrow
