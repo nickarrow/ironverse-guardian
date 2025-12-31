@@ -18,36 +18,6 @@ files:
     created: '2025-12-18T20:54:13.298198+00:00'
     modified: '2025-12-18T20:54:13.298198+00:00'
     owner: nickarrow
-  1. Welcome to The Foundry.md:
-    checksum: b2548ae103f4a1b524f69a69d8e910939717ace460857c4bb58b1b4ae5d1002b
-    created: '2025-12-17T17:41:15.770246+00:00'
-    modified: '2025-12-28T20:29:14.948936+00:00'
-    owner: nickarrow
-  2. Getting Started.md:
-    checksum: 867867127c12b0fd9abf29b1b42162af376c925a87278b04d2e2dc7f77fb79ee
-    created: '2025-12-17T17:41:15.770317+00:00'
-    modified: '2025-12-26T06:34:16.844620+00:00'
-    owner: nickarrow
-  3. Tips and Best Practices.md:
-    checksum: ec198384344c46a46326f3671693c50ba0b8e12e8eb4b91c50cbf51e22d510ab
-    created: '2025-12-17T17:41:15.770365+00:00'
-    modified: '2025-12-19T20:20:01.768403+00:00'
-    owner: nickarrow
-  4. Iron Vault Feature Wishlist and Bugs.md:
-    checksum: cb54287c194e25d29085000db6cc16025eb5e0dd90eae2c1f7f2528cf7e697ff
-    created: '2025-12-17T17:42:21.971675+00:00'
-    modified: '2025-12-26T06:34:16.844663+00:00'
-    owner: nickarrow
-  5. The Foundry Changelog.md:
-    checksum: dc6ebced5b05631958be3809ef21e885db8fd4e942d0a971d047c2a0a86f4062
-    created: '2025-12-17T17:42:21.971715+00:00'
-    modified: '2025-12-22T22:16:37.289461+00:00'
-    owner: nickarrow
-  5.1 The Foundry Changelog Base.base:
-    checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
-    created: '2025-12-22T22:16:37.289500+00:00'
-    modified: '2025-12-22T22:16:37.289500+00:00'
-    owner: nickarrow
   Epistolary Framework/Epistolary Guide.md:
     checksum: 30e40c1d34ea24e57879ed7faf75e24c9fd8612cb8a8027e346bce3cb61769b6
     created: '2025-12-25T20:28:31.641056+00:00'
@@ -57,6 +27,26 @@ files:
     checksum: 0d3dd068fdcc89f0245ced8fad7e280bed5b5b36ce64ebaa7008df77849a21db
     created: '2025-12-25T20:28:31.641102+00:00'
     modified: '2025-12-26T06:40:28.892068+00:00'
+    owner: nickarrow
+  Getting Started.md:
+    checksum: 274b64a2ad5c400fbc0a1ccaf940513af49b536850366f3ac46543a6f253cfd9
+    created: '2025-12-17T17:41:15.770317+00:00'
+    modified: '2025-12-31T04:59:31.082840+00:00'
+    owner: nickarrow
+  README.md:
+    checksum: ab531d33deac4c9720a1b09fa60e1114ece3196a29e7f403025705096c4f5650
+    created: '2025-12-31T04:59:31.082903+00:00'
+    modified: '2025-12-31T04:59:31.082903+00:00'
+    owner: nickarrow
+  The Foundry Changelog Base.base:
+    checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
+    created: '2025-12-22T22:16:37.289500+00:00'
+    modified: '2025-12-31T04:59:31.082933+00:00'
+    owner: nickarrow
+  The Foundry Changelog.md:
+    checksum: f43acf82abb0e6fb550c2b986d8443f242c70103435c05a9def49fc81d997243
+    created: '2025-12-17T17:42:21.971715+00:00'
+    modified: '2025-12-31T04:59:31.082959+00:00'
     owner: nickarrow
   The Starforged (NickArrow)/Characters/Barille Black - Gear.md:
     checksum: c1ef0d8ac70b03abc10ebdcab35f8b028f121f805a311f5078c29375b7a38b7b
@@ -182,4 +172,14 @@ files:
     checksum: f7a74ccce0b955ccb36b258c578806f7eb571d1dcbec8e9428e0171bb0c03711
     created: '2025-12-17T19:59:34.706109+00:00'
     modified: '2025-12-19T18:59:58.928172+00:00'
+    owner: nickarrow
+  Tips and Best Practices.md:
+    checksum: 4293ba0992fc200d66fdcd8aa07e1a5cf8f070319eb6243fbd3dc6052dceaa72
+    created: '2025-12-17T17:41:15.770365+00:00'
+    modified: '2025-12-31T04:59:31.082990+00:00'
+    owner: nickarrow
+  Welcome to The Foundry.md:
+    checksum: 1220cf4e7c56d661a88a6c00e20ac6c6a5e00565c5a33b221f773dc2a8fa2103
+    created: '2025-12-17T17:41:15.770246+00:00'
+    modified: '2025-12-31T04:59:31.083018+00:00'
     owner: nickarrow
