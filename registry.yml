@@ -29,14 +29,14 @@ files:
     modified: '2025-12-26T06:40:28.892068+00:00'
     owner: nickarrow
   Getting Started.md:
-    checksum: 585ecdc17f35fda76907488a837610b8661e0864ce23cc3921f20935124a4a7e
+    checksum: ca743921a27afc688091c3cb75b9e2b211b8c46305330c3b929933cffd25abed
     created: '2025-12-17T17:41:15.770317+00:00'
-    modified: '2025-12-31T21:06:21.458332+00:00'
+    modified: '2026-01-01T20:41:20.410625+00:00'
     owner: nickarrow
   README.md:
-    checksum: 5f22fd30d4741268c144ede9800a8d9baa01cdf238bf67d9cb6c9f95a4dd6f4e
+    checksum: 996e0614dd0049db664242d5562841397d478b831f5a7d7429884b6410a04acd
     created: '2025-12-31T04:59:31.082903+00:00'
-    modified: '2025-12-31T05:10:27.252277+00:00'
+    modified: '2026-01-01T20:41:20.410672+00:00'
     owner: nickarrow
   The Foundry Changelog Base.base:
     checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
@@ -179,7 +179,7 @@ files:
     modified: '2025-12-31T04:59:31.082990+00:00'
     owner: nickarrow
   Welcome to The Foundry.md:
-    checksum: 10083e83a62401f15596f68b96f3f4b55c50ae6cac51e5b879276bfd9e61449c
+    checksum: 9c1599eaf5ec25f7e815af115f3bdf32d5a9b78eb69c1c19ddf362fd61fbe62c
     created: '2025-12-17T17:41:15.770246+00:00'
-    modified: '2026-01-01T20:30:03.364171+00:00'
+    modified: '2026-01-01T20:41:20.410708+00:00'
     owner: nickarrow
