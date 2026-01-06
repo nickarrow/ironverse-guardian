@@ -1,4 +1,4 @@
-name: Guardian - Monitor The Foundry
+name: Guardian - Monitor Ironverse
 
 on:
   schedule:
@@ -15,18 +15,18 @@ jobs:
         with:
           path: guardian
       
-      - name: Checkout the-foundry repository
+      - name: Checkout ironverse repository
         uses: actions/checkout@v4
         with:
-          repository: nickarrow/the-foundry
-          token: ${{ secrets.FOUNDRY_GUARDIAN_TOKEN }}
-          path: the-foundry
+          repository: nickarrow/ironverse
+          token: ${{ secrets.IRONVERSE_GUARDIAN_TOKEN }}
+          path: ironverse
           fetch-depth: 0  # Full history for finding last good state
       
       - name: Check workflow integrity
         id: check
         run: |
-          cd the-foundry
+          cd ironverse
           
           echo "🔍 Checking workflow integrity..."
           
@@ -69,7 +69,7 @@ jobs:
       - name: Find last known good state
         if: env.TAMPERED == 'true'
         run: |
-          cd the-foundry
+          cd ironverse
           
           echo "🔍 Finding last known good state..."
           
@@ -122,7 +122,7 @@ jobs:
       - name: Restore repository to last good state
         if: env.NEEDS_RESTORE == 'true'
         run: |
-          cd the-foundry
+          cd ironverse
           
           echo "🔄 Restoring repository to last known good state..."
           
@@ -172,10 +172,10 @@ jobs:
       - name: Commit and push restoration
         if: env.NEEDS_RESTORE == 'true'
         run: |
-          cd the-foundry
+          cd ironverse
           
           git config user.name "Guardian Bot"
-          git config user.email "guardian@the-foundry.bot"
+          git config user.email "guardian@ironverse.bot"
           git add -A
           git commit -m "Guardian: Restored files after unauthorized changes detected" \
                      -m "Detected compromise of workflow files." \
@@ -191,7 +191,7 @@ jobs:
         if: env.NEEDS_RESTORE == 'true'
         id: attack_details
         run: |
-          cd the-foundry
+          cd ironverse
           
           LAST_GOOD=${{ env.LAST_GOOD_COMMIT }}
           CURRENT=${{ env.CURRENT_COMMIT }}
@@ -238,13 +238,13 @@ jobs:
       - name: Create GitHub Issue alert
         if: env.NEEDS_RESTORE == 'true'
         run: |
-          cd the-foundry
+          cd ironverse
           
           # Create issue body
           cat > /tmp/issue_body.md << 'ISSUE_EOF'
           # 🚨 Guardian Alert: Unauthorized Changes Detected and Restored
           
-          The Guardian monitoring system detected and automatically restored unauthorized changes to The Foundry repository.
+          The Guardian monitoring system detected and automatically restored unauthorized changes to the Ironverse repository.
           
           ## Attack Details
           
@@ -292,6 +292,6 @@ jobs:
             --title "🚨 Guardian Alert: Unauthorized changes detected at ${{ env.TIMESTAMP }}" \
             --body-file /tmp/issue_body.md \
             --label "security,guardian-alert" \
-            --repo nickarrow/the-foundry
+            --repo nickarrow/ironverse
         env:
-          GH_TOKEN: ${{ secrets.FOUNDRY_GUARDIAN_TOKEN }}
+          GH_TOKEN: ${{ secrets.IRONVERSE_GUARDIAN_TOKEN }}

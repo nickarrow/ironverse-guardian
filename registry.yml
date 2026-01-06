@@ -1,6 +1,6 @@
-# The Foundry - File Ownership Registry
+# Ironverse - File Ownership Registry
 # This file tracks ownership and integrity of all non-hidden files in the repository.
-# DO NOT EDIT MANUALLY - Managed automatically by the Foundry enforcement system.
+# DO NOT EDIT MANUALLY - Managed automatically by the Ironverse enforcement system.
 
 files:
   .README.md:

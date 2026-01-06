@@ -1,10 +1,10 @@
-# The Foundry Guardian
+# Ironverse Guardian
 
-External monitoring system for [the-foundry](https://github.com/nickarrow/the-foundry) repository.
+External monitoring system for [ironverse](https://github.com/nickarrow/ironverse) repository.
 
 ## Purpose
 
-This repository contains the Guardian workflow that monitors `the-foundry` for unauthorized modifications to the enforcement infrastructure. Unlike the original Guardian design (which ran from a protected branch), this external Guardian:
+This repository contains the Guardian workflow that monitors `ironverse` for unauthorized modifications to the enforcement infrastructure. Unlike the original Guardian design (which ran from a protected branch), this external Guardian:
 
 - ✅ **Cannot be disabled by attackers** - They don't have access to this repo
 - ✅ **Runs independently** - Scheduled workflow runs every 15 minutes
@@ -15,19 +15,19 @@ This repository contains the Guardian workflow that monitors `the-foundry` for u
 
 ### Every 15 Minutes:
 
-1. **Clone `the-foundry`** - Gets latest state
+1. **Clone `ironverse`** - Gets latest state
 2. **Check workflow integrity** - Compares against canonical versions stored here
 3. **If compromised**:
    - Find last known good commit in history
    - Restore workflow files from canonical versions
    - Restore all content from last good commit
-   - Push restoration to `the-foundry`
-   - Create GitHub Issue alert in `the-foundry`
+   - Push restoration to `ironverse`
+   - Create GitHub Issue alert in `ironverse`
 
 ### Attack Scenario Protection:
 
 ```
-2:00 PM - Attacker deletes enforcement workflows from the-foundry
+2:00 PM - Attacker deletes enforcement workflows from ironverse
 2:01 PM - Attacker deletes player content
 2:05 PM - Attacker makes more malicious commits
 
@@ -35,16 +35,16 @@ This repository contains the Guardian workflow that monitors `the-foundry` for u
   - Detects workflows missing
   - Finds last good state (1:59 PM)
   - Restores everything
-  - Pushes fix to the-foundry
+  - Pushes fix to ironverse
   - Creates alert issue
 
-2:16 PM - the-foundry is fully restored
+2:16 PM - ironverse is fully restored
 ```
 
 ## Repository Structure
 
 ```
-the-foundry-guardian/
+ironverse-guardian/
 ├── .github/workflows/
 │   └── monitor.yml              # Guardian monitoring workflow
 ├── canonical-workflows/
@@ -55,20 +55,20 @@ the-foundry-guardian/
 
 ## Updating Canonical Workflows
 
-When you legitimately update the enforcement workflows in `the-foundry`:
+When you legitimately update the enforcement workflows in `ironverse`:
 
 ```bash
-# 1. Update the-foundry first
-cd the-foundry
+# 1. Update ironverse first
+cd ironverse
 # Make your changes to .github/workflows/ or .github/scripts/
 git add .github/
 git commit -m "Update: [description]"
 git push
 
 # 2. Update canonical versions in guardian repo
-cd ../the-foundry-guardian
-cp ../the-foundry/.github/workflows/enforce-ownership.yml canonical-workflows/
-cp ../the-foundry/.github/scripts/enforce_ownership.py canonical-workflows/
+cd ../ironverse-guardian
+cp ../ironverse/.github/workflows/enforce-ownership.yml canonical-workflows/
+cp ../ironverse/.github/scripts/enforce_ownership.py canonical-workflows/
 git add canonical-workflows/
 git commit -m "Update canonical workflows"
 git push
@@ -77,7 +77,7 @@ git push
 ## Monitoring
 
 - **GitHub Actions**: Check this repo's Actions tab for Guardian runs
-- **Attack Alerts**: Check `the-foundry` Issues with label `guardian-alert`
+- **Attack Alerts**: Check `ironverse` Issues with label `guardian-alert`
 - **Logs**: Each Guardian run shows what it checked and any actions taken
 
 ## Security
@@ -95,4 +95,4 @@ git push
 
 ## Status
 
-✅ **Active** - Guardian monitors `the-foundry` every 15 minutes
+✅ **Active** - Guardian monitors `ironverse` every 15 minutes
