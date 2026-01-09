@@ -91,9 +91,9 @@ files:
     modified: '2026-01-09T03:44:17.265154+00:00'
     owner: nickarrow
   The Starforged/Characters/Tybalt-Yhen Serrato.md:
-    checksum: 2cf3b55e5b913f52a0d50520d36edb7e333b27875e6b8b03998e90a42f41d3ef
+    checksum: 7fab38e8d55ac8436744bcfa7b0ce7435aa8e3e09114e964b07def903fb55349
     created: '2026-01-06T10:42:32.726002+00:00'
-    modified: '2026-01-09T04:50:26.437759+00:00'
+    modified: '2026-01-09T04:53:59.336419+00:00'
     owner: solarblaster
   The Starforged/Factions/Ascendancy of the Awakened Worlds.md:
     checksum: 21a1902dfa87ad2364584200ee7bc46b0d4379b127d1a9a82fe66e0665daa7f6
@@ -121,9 +121,9 @@ files:
     modified: '2026-01-09T04:49:26.626361+00:00'
     owner: nickarrow
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 01-The Road of Stars.md:
-    checksum: 0287be3d543ee844c1355e11876599bb4aa5dcc14d443b45771a5cd8aa16927b
+    checksum: 938d75af818896edca0919d51f75a786fcf6fc6e2ed93109424f8eb0508b9687
     created: '2026-01-06T10:42:32.726042+00:00'
-    modified: '2026-01-09T04:50:26.437824+00:00'
+    modified: '2026-01-09T04:53:59.336484+00:00'
     owner: solarblaster
   The Starforged/Locations/Map - Devil's Chain.excalidraw.md:
     checksum: 1867ab9bd24efec6f0f1ac1cfde4b803183fb9365501cbe5f71645a9318c5cb2
@@ -215,6 +215,11 @@ files:
     created: '2025-12-17T19:59:34.706075+00:00'
     modified: '2026-01-09T04:48:38.874171+00:00'
     owner: nickarrow
+  The Starforged/The Starforged/The Starforged/Progress/Tybalt-Yhen Serrato/Command-Duel with Epathus.md:
+    checksum: 035ea772a9bd7573ab34597180584b90fc45f11a67f00a909bf2528dba48250c
+    created: '2026-01-09T04:53:59.336665+00:00'
+    modified: '2026-01-09T04:53:59.336665+00:00'
+    owner: solarblaster
   The Starforged/Truths.md:
     checksum: f7a74ccce0b955ccb36b258c578806f7eb571d1dcbec8e9428e0171bb0c03711
     created: '2025-12-17T19:59:34.706109+00:00'
