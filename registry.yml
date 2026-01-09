@@ -75,140 +75,140 @@ files:
     created: '2026-01-06T10:42:32.726042+00:00'
     modified: '2026-01-09T03:32:15.861121+00:00'
     owner: solarblaster
-  The Starforged/Characters/Barille Black/Barille Black - Gear.md:
+  The Starforged-test/Characters/Barille Black/Barille Black - Gear.md:
     checksum: c1ef0d8ac70b03abc10ebdcab35f8b028f121f805a311f5078c29375b7a38b7b
     created: '2025-12-17T20:16:20.629124+00:00'
-    modified: '2026-01-09T03:33:46.035238+00:00'
+    modified: '2026-01-09T03:41:49.626990+00:00'
     owner: nickarrow
-  The Starforged/Characters/Barille Black/Barille Black.md:
+  The Starforged-test/Characters/Barille Black/Barille Black.md:
     checksum: 23510d63dc04801f68f6e05115a40177a1a122358fcd3d57d37e1b5bdde412b8
     created: '2025-12-17T19:59:34.705988+00:00'
-    modified: '2026-01-09T03:33:46.035275+00:00'
+    modified: '2026-01-09T03:41:49.627121+00:00'
     owner: nickarrow
-  The Starforged/Characters/Barille Black/attachments/barille black profile.png:
+  The Starforged-test/Characters/Barille Black/attachments/barille black profile.png:
     checksum: 283585c27eb05c9acdcc972e3aa9c21afa873a62f1bf4710905332bd34f1a746
     created: '2025-12-17T20:16:20.630620+00:00'
-    modified: '2026-01-09T03:33:46.036726+00:00'
+    modified: '2026-01-09T03:41:49.628694+00:00'
     owner: nickarrow
-  The Starforged/Characters/NPCs/Epathus-Barabas Serrato.md:
+  The Starforged-test/Characters/NPCs/Epathus-Barabas Serrato.md:
     checksum: 6707d1d6501bb7309370189d2b69c61d515170286ef132003c98d35f9f837873
     created: '2026-01-09T03:25:57.169336+00:00'
-    modified: '2026-01-09T03:33:46.036760+00:00'
+    modified: '2026-01-09T03:41:49.628835+00:00'
     owner: nickarrow
-  The Starforged/Characters/NPCs/Rowena Jensen.md:
+  The Starforged-test/Characters/NPCs/Rowena Jensen.md:
     checksum: 1e475e4fa52ce606184395f031923c4f17fe524cd13a2f8da1211e3ca8993adf
     created: '2026-01-02T20:55:42.070156+00:00'
-    modified: '2026-01-09T03:33:46.036789+00:00'
+    modified: '2026-01-09T03:41:49.628945+00:00'
     owner: nickarrow
-  The Starforged/Factions/Ascendancy of the Awakened Worlds.md:
+  The Starforged-test/Factions/Ascendancy of the Awakened Worlds.md:
     checksum: 21a1902dfa87ad2364584200ee7bc46b0d4379b127d1a9a82fe66e0665daa7f6
     created: '2025-12-27T20:36:06.781765+00:00'
-    modified: '2026-01-09T03:33:46.059367+00:00'
+    modified: '2026-01-09T03:41:49.629028+00:00'
     owner: nickarrow
-  The Starforged/Factions/Circle of the Elder Stars.md:
+  The Starforged-test/Factions/Circle of the Elder Stars.md:
     checksum: 7a209b60cad5d5ade69c3bd014af82e67b574e05d35c1bab4f41660dc6f35737
     created: '2025-12-17T20:28:29.565663+00:00'
-    modified: '2026-01-09T03:33:46.059403+00:00'
+    modified: '2026-01-09T03:41:49.629110+00:00'
     owner: nickarrow
-  The Starforged/Factions/Risen Union.md:
+  The Starforged-test/Factions/Risen Union.md:
     checksum: c36000084ad36a06081fd9149f1492c136e3b30df2f2a206f5f28e12a0d2cc05
     created: '2025-12-17T20:28:29.565713+00:00'
-    modified: '2026-01-09T03:33:46.059429+00:00'
+    modified: '2026-01-09T03:41:49.629196+00:00'
     owner: nickarrow
-  The Starforged/Journals/Barille/Barille 01 - Beginnings.md:
+  The Starforged-test/Journals/Barille/Barille 01 - Beginnings.md:
     checksum: 0a2d7756db1258a2cf33e7a2c456f31856ed1949ce786b11453ff2d9eeb10193
     created: '2025-12-17T20:18:04.220298+00:00'
-    modified: '2026-01-09T03:33:46.059481+00:00'
+    modified: '2026-01-09T03:41:49.629305+00:00'
     owner: nickarrow
-  The Starforged/Journals/Barille/Barille 02 - Reck.md:
+  The Starforged-test/Journals/Barille/Barille 02 - Reck.md:
     checksum: c15b4777e93124ac320290d21f4c1e37cd318d926678e216355e4cb389f3171e
     created: '2025-12-27T19:44:10.527140+00:00'
-    modified: '2026-01-09T03:33:46.059517+00:00'
+    modified: '2026-01-09T03:41:49.629415+00:00'
     owner: nickarrow
-  The Starforged/Locations/Map - Devil's Chain.excalidraw.md:
+  The Starforged-test/Locations/Map - Devil's Chain.excalidraw.md:
     checksum: 1867ab9bd24efec6f0f1ac1cfde4b803183fb9365501cbe5f71645a9318c5cb2
     created: '2025-12-17T20:28:29.565815+00:00'
-    modified: '2026-01-09T03:33:46.065101+00:00'
+    modified: '2026-01-09T03:41:49.629500+00:00'
     owner: nickarrow
-  The Starforged/Locations/Planets/Ackriss-2.md:
+  The Starforged-test/Locations/Planets/Ackriss-2.md:
     checksum: e0478455e57eb38481afc47dca3ffa651f87d257be2f31baa3617da5b2f26aba
     created: '2025-12-17T20:28:29.565848+00:00'
-    modified: '2026-01-09T03:33:46.065130+00:00'
+    modified: '2026-01-09T03:41:49.629597+00:00'
     owner: nickarrow
-  The Starforged/Locations/Planets/attachments/ackriss-2.gif:
+  The Starforged-test/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
     created: '2025-12-31T05:31:28.285319+00:00'
-    modified: '2026-01-09T03:33:46.065273+00:00'
+    modified: '2026-01-09T03:41:49.629855+00:00'
     owner: nickarrow
-  The Starforged/Locations/Sectors/Devil's Chain.md:
+  The Starforged-test/Locations/Sectors/Devil's Chain.md:
     checksum: 90f0b40eb390d73c0120ba129d45ccc579d279e8364dae5ba4ce3def62aa416c
     created: '2025-12-17T20:28:29.566122+00:00'
-    modified: '2026-01-09T03:33:46.065298+00:00'
+    modified: '2026-01-09T03:41:49.629957+00:00'
     owner: nickarrow
-  The Starforged/Locations/Sectors/attachments/ackriss-system.svg:
+  The Starforged-test/Locations/Sectors/attachments/ackriss-system.svg:
     checksum: 7c4dae219e5acee5e48b7c31320f0c9ee3c35af899587c83d9773bea38475dbf
     created: '2025-12-17T20:28:29.566154+00:00'
-    modified: '2026-01-09T03:33:46.065322+00:00'
+    modified: '2026-01-09T03:41:49.630075+00:00'
     owner: nickarrow
-  The Starforged/Locations/Sectors/attachments/devils-chain-background.png:
+  The Starforged-test/Locations/Sectors/attachments/devils-chain-background.png:
     checksum: 6f96d75e72161913895bd4ce3dfc4a950d6e21bd807b35090a378fa6c9b59183
     created: '2025-12-17T20:28:29.566370+00:00'
-    modified: '2026-01-09T03:33:46.065551+00:00'
+    modified: '2026-01-09T03:41:49.630373+00:00'
     owner: nickarrow
-  The Starforged/Locations/Settlements/Pinnacle.md:
+  The Starforged-test/Locations/Settlements/Pinnacle.md:
     checksum: 8343237ca3382d993ae7a083c482dbc7ef069fd1a35f4e9682630313e89ee7a8
     created: '2025-12-25T20:47:06.061388+00:00'
-    modified: '2026-01-09T03:33:46.065576+00:00'
+    modified: '2026-01-09T03:41:49.630470+00:00'
     owner: nickarrow
-  The Starforged/Locations/Settlements/Reck.md:
+  The Starforged-test/Locations/Settlements/Reck.md:
     checksum: 82c99179c192799618e3e5d5f6a7297897d8310a05a2c18c2c144c34e77fb46e
     created: '2025-12-17T20:28:29.566400+00:00'
-    modified: '2026-01-09T03:33:46.065598+00:00'
+    modified: '2026-01-09T03:41:49.630563+00:00'
     owner: nickarrow
-  The Starforged/Lore/Epistolary/Epistolary Letters - The Starforged.md:
+  The Starforged-test/Lore/Epistolary/Epistolary Letters - The Starforged.md:
     checksum: d9db219bf0e01962c609bff5dd109cff6065a43e7814851b0424a0c60738d5e1
     created: '2025-12-26T06:21:16.116471+00:00'
-    modified: '2026-01-09T03:33:46.065622+00:00'
+    modified: '2026-01-09T03:41:49.630658+00:00'
     owner: nickarrow
-  The Starforged/Lore/Epistolary/Message 01 - Barille Black.md:
+  The Starforged-test/Lore/Epistolary/Message 01 - Barille Black.md:
     checksum: a780799a1360f644b70ceabebd6b7aa06569c0595fca99a2083bf6ace74f5e14
     created: '2025-12-27T20:36:06.781834+00:00'
-    modified: '2026-01-09T03:33:46.065643+00:00'
+    modified: '2026-01-09T03:41:49.630750+00:00'
     owner: nickarrow
-  The Starforged/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
+  The Starforged-test/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 9a4e1cd1c68f9c461b21677b28e72c7c9cdfbac9cb7d23b3d0908b686d1b3789
     created: '2025-12-17T20:28:29.566428+00:00'
-    modified: '2026-01-09T03:33:46.065664+00:00'
+    modified: '2026-01-09T03:41:49.630867+00:00'
     owner: nickarrow
-  The Starforged/Progress/Barille/Fend off attackers until the transport can escape.md:
+  The Starforged-test/Progress/Barille/Fend off attackers until the transport can escape.md:
     checksum: 55e68d0de9fe7fee2c20e3b7b9de42ea12aaf74dac46fe870f4f4b9211dac961
     created: '2025-12-17T20:28:29.566467+00:00'
-    modified: '2026-01-09T03:33:46.065685+00:00'
+    modified: '2026-01-09T03:41:49.630973+00:00'
     owner: nickarrow
-  The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md:
+  The Starforged-test/Progress/Barille/Investigate and report on the rumored horrors of Reck.md:
     checksum: 3c016ae1aed2f25cc505ccad5fd35e6602a5079b3d01fa9940653065ea103740
     created: '2025-12-17T20:28:29.566496+00:00'
-    modified: '2026-01-09T03:33:46.065707+00:00'
+    modified: '2026-01-09T03:41:49.631068+00:00'
     owner: nickarrow
-  The Starforged/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md:
+  The Starforged-test/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md:
     checksum: c435892f275dceec9be5faf2f28e06c05430e00dcb56dc5a14627d7827727f48
     created: '2025-12-26T06:31:18.141226+00:00'
-    modified: '2026-01-09T03:33:46.065728+00:00'
+    modified: '2026-01-09T03:41:49.631147+00:00'
     owner: nickarrow
-  The Starforged/Progress/Find where he stands with Epathus.md:
+  The Starforged-test/Progress/Find where he stands with Epathus.md:
     checksum: 1f6547c303f374c609280ca7e59d46d5ccefce61bcdfdada77aeac532c82e639
     created: '2026-01-09T03:25:57.169443+00:00'
-    modified: '2026-01-09T03:33:46.065748+00:00'
+    modified: '2026-01-09T03:41:49.631225+00:00'
     owner: nickarrow
-  The Starforged/The Starforged.md:
+  The Starforged-test/The Starforged.md:
     checksum: a8b3a6bfd8c05ffb1069a0b9735f2394dbc6273cb1d88f44e5323077802d9e4a
     created: '2025-12-17T19:59:34.706075+00:00'
-    modified: '2026-01-09T03:33:46.065769+00:00'
+    modified: '2026-01-09T03:41:49.631285+00:00'
     owner: nickarrow
-  The Starforged/Truths.md:
+  The Starforged-test/Truths.md:
     checksum: f7a74ccce0b955ccb36b258c578806f7eb571d1dcbec8e9428e0171bb0c03711
     created: '2025-12-17T19:59:34.706109+00:00'
-    modified: '2026-01-09T03:33:46.065796+00:00'
+    modified: '2026-01-09T03:41:49.631351+00:00'
     owner: nickarrow
   Tips and Best Practices.md:
     checksum: 579d9fa80fac92c31e1d7ee6ea47304197673a1e02a54f67f80bd45bed4c8988
@@ -231,4 +231,7 @@ folders:
     structural_owner: nickarrow
   The Starforged (NickArrow):
     created: '2025-12-17T19:59:34.705988+00:00'
+    structural_owner: nickarrow
+  The Starforged-test:
+    created: '2026-01-09T03:41:49.626868+00:00'
     structural_owner: nickarrow
