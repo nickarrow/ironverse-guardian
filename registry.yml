@@ -40,16 +40,6 @@ files:
     created: '2026-01-07T03:37:12.771398+00:00'
     modified: '2026-01-07T03:37:12.771398+00:00'
     owner: nickarrow
-  Pasted image 20260107182957.png:
-    checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
-    created: '2026-01-08T12:12:23.434076+00:00'
-    modified: '2026-01-08T12:12:23.434076+00:00'
-    owner: solarblaster
-  Pasted image 20260107183157.png:
-    checksum: c9a0eb2527975bac0ad1ff91cc58b8e30a27dc09a76cace1cf909544770d0f21
-    created: '2026-01-08T12:12:23.435664+00:00'
-    modified: '2026-01-08T12:12:23.435664+00:00'
-    owner: solarblaster
   README.md:
     checksum: 29570d27aa1289ceaaf183a3516f06da3bd19ca43f03b04982573e622fd7a8ce
     created: '2025-12-31T04:59:31.082903+00:00'
@@ -90,6 +80,16 @@ files:
     created: '2026-01-02T20:55:42.070156+00:00'
     modified: '2026-01-09T03:44:17.265154+00:00'
     owner: nickarrow
+  The Starforged/Characters/Tybalt Attachments/Pasted image 20260107182957.png:
+    checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
+    created: '2026-01-08T12:12:23.434076+00:00'
+    modified: '2026-01-10T07:04:58.332231+00:00'
+    owner: solarblaster
+  The Starforged/Characters/Tybalt Attachments/Pasted image 20260107183157.png:
+    checksum: c9a0eb2527975bac0ad1ff91cc58b8e30a27dc09a76cace1cf909544770d0f21
+    created: '2026-01-08T12:12:23.435664+00:00'
+    modified: '2026-01-10T07:04:58.333953+00:00'
+    owner: solarblaster
   The Starforged/Characters/Tybalt-Yhen Serrato.md:
     checksum: f6497e5b36e105a0cabd9c442a9ed1e6b6862d8ce3f1b88630994e8402b5f4bb
     created: '2026-01-06T10:42:32.726002+00:00'
@@ -191,9 +191,9 @@ files:
     modified: '2026-01-09T03:44:17.267193+00:00'
     owner: nickarrow
   The Starforged/Lore/Epistolary/Message 02 - Tybalt-Yhen Serrato.md:
-    checksum: b7ba180ea990d07e503db512f955b6281a5fd07e9e62d62b13c9b5339017ad13
+    checksum: e1a5ad41e31c2d1f416db32e340950c316e9c833e49657a64e731c76305b62e2
     created: '2026-01-09T12:17:43.098461+00:00'
-    modified: '2026-01-09T12:17:43.098461+00:00'
+    modified: '2026-01-10T07:04:58.334008+00:00'
     owner: solarblaster
   The Starforged/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 9a4e1cd1c68f9c461b21677b28e72c7c9cdfbac9cb7d23b3d0908b686d1b3789
@@ -216,9 +216,9 @@ files:
     modified: '2026-01-09T03:44:17.267636+00:00'
     owner: nickarrow
   The Starforged/Progress/Tybalt-Yhen Serrato/Command-Duel with Epathus.md:
-    checksum: ad70317ea0ebac3930b7b83c4c1d723cbbc2c28b68f59dddd0b50502d61b5d70
+    checksum: 1cc839fee1c3e13a1f970d1b9ebafeb03f3a316d270911e0339e2750498bb89d
     created: '2026-01-09T05:03:26.733359+00:00'
-    modified: '2026-01-09T09:40:59.254031+00:00'
+    modified: '2026-01-10T07:04:58.334046+00:00'
     owner: solarblaster
   The Starforged/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md:
     checksum: cec52a79e65007c4dc9b42bc6dfe99fb24bad5d9370f48332d11b0ae71d53451
@@ -226,19 +226,19 @@ files:
     modified: '2026-01-09T12:17:43.098501+00:00'
     owner: solarblaster
   The Starforged/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md:
-    checksum: a3fec7dfe505fb82baf522ae2b1dd18c70831537ebb573cfbbb17b4148786d40
+    checksum: deac40a5825849d63222f0e7fd6d36a0be21288fdc9a4a498381ac8bf82a694b
     created: '2026-01-09T09:40:59.254168+00:00'
-    modified: '2026-01-09T09:40:59.254168+00:00'
+    modified: '2026-01-10T07:04:58.334078+00:00'
     owner: solarblaster
   The Starforged/Progress/Tybalt-Yhen Serrato/Reach the Devil's Chain Sector.md:
-    checksum: 1da7d96adddc3bbfa87a4aca7f7ba81aa3d1d2240d5fab86af2e736b455afdf1
+    checksum: 386104875095e11d0e2c2aae78b12fe3e28c70d8f033df74c5ae01e58f3f0ce5
     created: '2026-01-09T09:40:59.254255+00:00'
-    modified: '2026-01-09T12:17:43.098534+00:00'
+    modified: '2026-01-10T07:04:58.334108+00:00'
     owner: solarblaster
   The Starforged/Progress/Tybalt-Yhen Serrato/Survive the Asteroid Storm.md:
-    checksum: 73c3a6546aac388ba0033df1bda6ccda749df4e34a7a8247eab774a70caffd42
+    checksum: 93720c66447a4b30857b5e0ac198b3df8501cb7071dfe4f9aa5460986ceecdaf
     created: '2026-01-09T12:17:43.098620+00:00'
-    modified: '2026-01-09T12:17:43.098620+00:00'
+    modified: '2026-01-10T07:04:58.334136+00:00'
     owner: solarblaster
   The Starforged/Progress/Tybalt-Yhen Serrato/Traveling to Devil's Chain.md:
     checksum: 8dfee9cb1a8f0bf360d3a281a3bfe7a1022c5ee7401d85f212dc095b93275783
