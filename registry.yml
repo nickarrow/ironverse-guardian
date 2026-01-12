@@ -70,6 +70,11 @@ files:
     created: '2025-12-17T20:16:20.630620+00:00'
     modified: '2026-01-09T03:44:17.264931+00:00'
     owner: nickarrow
+  The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md:
+    checksum: 035c4756851d332129640102448b3c8a1165b878ac614e1394cc42ac5517983c
+    created: '2026-01-12T17:59:42.857432+00:00'
+    modified: '2026-01-12T17:59:42.857432+00:00'
+    owner: nepturnal
   The Starforged/Characters/NPCs/Epathus-Barabas Serrato.md:
     checksum: 6707d1d6501bb7309370189d2b69c61d515170286ef132003c98d35f9f837873
     created: '2026-01-09T03:25:57.169336+00:00'
@@ -80,6 +85,11 @@ files:
     created: '2026-01-02T20:55:42.070156+00:00'
     modified: '2026-01-09T03:44:17.265154+00:00'
     owner: nickarrow
+  The Starforged/Characters/NPCs/Vesper Savela.md:
+    checksum: ab01e21e0734aeb07e5dcb034abfd293915c3081f19aea56fd44c7a86839e56b
+    created: '2026-01-12T17:59:42.857550+00:00'
+    modified: '2026-01-12T17:59:42.857550+00:00'
+    owner: nepturnal
   The Starforged/Characters/Tybalt Attachments/Pasted image 20260107182957.png:
     checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
     created: '2026-01-08T12:12:23.434076+00:00'
@@ -125,6 +135,11 @@ files:
     created: '2026-01-11T21:31:10.953217+00:00'
     modified: '2026-01-11T21:31:10.953217+00:00'
     owner: nickarrow
+  The Starforged/Journals/Echo/Echo 01 -.md:
+    checksum: b70e9e94379afa5bc1752c7daafacde94bb5f6735f23230bb78c53619867af42
+    created: '2026-01-12T17:59:42.857650+00:00'
+    modified: '2026-01-12T17:59:42.857650+00:00'
+    owner: nepturnal
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
     created: '2026-01-06T10:42:32.726042+00:00'
@@ -215,6 +230,16 @@ files:
     created: '2025-12-17T20:28:29.566496+00:00'
     modified: '2026-01-09T03:44:17.267508+00:00'
     owner: nickarrow
+  The Starforged/Progress/Echo/Find the lost relic and understand my connection to it.md:
+    checksum: 555beccdc6038cb25355aa251a7d0da8092fdab15d4d7ee4feb4ae92bc71aa96
+    created: '2026-01-12T17:59:42.857739+00:00'
+    modified: '2026-01-12T17:59:42.857739+00:00'
+    owner: nepturnal
+  The Starforged/Progress/Echo/Take the Hourglass Relic.md:
+    checksum: 6684ce21dc31f128db8f50ceff2fa4d3e25a25458354d20f50d0463c13e4d12c
+    created: '2026-01-12T17:59:42.857820+00:00'
+    modified: '2026-01-12T17:59:42.857820+00:00'
+    owner: nepturnal
   The Starforged/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md:
     checksum: c435892f275dceec9be5faf2f28e06c05430e00dcb56dc5a14627d7827727f48
     created: '2025-12-26T06:31:18.141226+00:00'
