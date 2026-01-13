@@ -30,6 +30,11 @@ files:
     created: '2025-12-25T20:28:31.641102+00:00'
     modified: '2025-12-26T06:40:28.892068+00:00'
     owner: nickarrow
+  Excalidraw/Drawing 2026-01-13 17.21.41.excalidraw.md:
+    checksum: bd2f6335df6b16326e51adf6a7bbe1d163083445c6b0f02acea98edb2c9bd40d
+    created: '2026-01-13T16:22:22.963648+00:00'
+    modified: '2026-01-13T16:22:22.963648+00:00'
+    owner: nepturnal
   Getting Started.md:
     checksum: 9fe36e5826b4bfe79515bbc292cd5840a1cccd291eb83fb85272bc52606ac405
     created: '2025-12-17T17:41:15.770317+00:00'
@@ -71,9 +76,9 @@ files:
     modified: '2026-01-09T03:44:17.264931+00:00'
     owner: nickarrow
   The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md:
-    checksum: 035c4756851d332129640102448b3c8a1165b878ac614e1394cc42ac5517983c
+    checksum: 0038d828c369b387fe3b031c5c95a82b8e7fc87c30ef086de8f3dca016cb050e
     created: '2026-01-12T17:59:42.857432+00:00'
-    modified: '2026-01-12T17:59:42.857432+00:00'
+    modified: '2026-01-13T16:22:22.963690+00:00'
     owner: nepturnal
   The Starforged/Characters/NPCs/Epathus-Barabas Serrato.md:
     checksum: 6707d1d6501bb7309370189d2b69c61d515170286ef132003c98d35f9f837873
@@ -146,9 +151,9 @@ files:
     modified: '2026-01-13T01:13:11.262565+00:00'
     owner: nickarrow
   The Starforged/Journals/Echo/Echo 01 - From the past.md:
-    checksum: 4ffb6d338ff1f3ccca08720e65b72ced2fd1582489165ee0cbdd46e1df0daeaa
+    checksum: 982c90b4e0538e76cabe8d95801a21b43f5f3dd8cc7431a213d856e9859c599e
     created: '2026-01-12T17:59:42.857650+00:00'
-    modified: '2026-01-13T11:02:46.227375+00:00'
+    modified: '2026-01-13T16:22:22.963737+00:00'
     owner: nepturnal
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -180,6 +185,11 @@ files:
     created: '2026-01-09T12:17:43.098209+00:00'
     modified: '2026-01-09T12:17:43.098209+00:00'
     owner: solarblaster
+  The Starforged/Locations/Planets/Croifols-4.md:
+    checksum: 55c6d583c19feab3d230dc7c5878622ffa58db6bc16cef1ac6632df8fbf339b4
+    created: '2026-01-13T16:22:22.963851+00:00'
+    modified: '2026-01-13T16:22:22.963851+00:00'
+    owner: nepturnal
   The Starforged/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
     created: '2025-12-31T05:31:28.285319+00:00'
@@ -215,6 +225,11 @@ files:
     created: '2025-12-17T20:28:29.566400+00:00'
     modified: '2026-01-09T03:44:17.266999+00:00'
     owner: nickarrow
+  The Starforged/Locations/Vaults/Mausefort Vault.md:
+    checksum: f62a6ed82034d674bd6e0be9d2c0ad118813a7ccdefeaff3849aced4a53f79d1
+    created: '2026-01-13T16:22:22.963950+00:00'
+    modified: '2026-01-13T16:22:22.963950+00:00'
+    owner: nepturnal
   The Starforged/Lore/Epistolary/Epistolary Letters - The Starforged.md:
     checksum: d9db219bf0e01962c609bff5dd109cff6065a43e7814851b0424a0c60738d5e1
     created: '2025-12-26T06:21:16.116471+00:00'
@@ -250,10 +265,15 @@ files:
     created: '2026-01-12T17:59:42.857739+00:00'
     modified: '2026-01-12T17:59:42.857739+00:00'
     owner: nepturnal
+  The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md:
+    checksum: b6493a926e45ebb1ccba40496b1211f379aea3109ac1da47192d5f3e6eb0d508
+    created: '2026-01-13T16:22:22.964034+00:00'
+    modified: '2026-01-13T16:22:22.964034+00:00'
+    owner: nepturnal
   The Starforged/Progress/Echo/Take the Hourglass Relic.md:
-    checksum: 6684ce21dc31f128db8f50ceff2fa4d3e25a25458354d20f50d0463c13e4d12c
+    checksum: 2d75d00a416c8b21842b80455810206cf6602a29f26d8f0885fd8f3c92c06689
     created: '2026-01-12T17:59:42.857820+00:00'
-    modified: '2026-01-12T17:59:42.857820+00:00'
+    modified: '2026-01-13T16:22:22.964068+00:00'
     owner: nepturnal
   The Starforged/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md:
     checksum: c435892f275dceec9be5faf2f28e06c05430e00dcb56dc5a14627d7827727f48
@@ -339,6 +359,9 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
+  Excalidraw:
+    created: '2026-01-13T16:22:22.963595+00:00'
+    structural_owner: nepturnal
   The Starforged:
     created: '2026-01-09T03:44:17.263114+00:00'
     structural_owner: nickarrow
