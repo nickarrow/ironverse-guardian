@@ -71,9 +71,9 @@ files:
     modified: '2026-01-09T03:44:17.264931+00:00'
     owner: nickarrow
   The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md:
-    checksum: f58d19e26e26f13b0b4c0b36cf1fe22945b801d9563da9bb980a400b83ac64d7
+    checksum: 828f5190658eb7298a94604ceda73c514f4292685b278f88d6bf3d5532a034c8
     created: '2026-01-12T17:59:42.857432+00:00'
-    modified: '2026-01-14T15:56:19.107015+00:00'
+    modified: '2026-01-19T17:23:56.004922+00:00'
     owner: nepturnal
   The Starforged/Characters/NPCs/Epathus-Barabas Serrato.md:
     checksum: 6707d1d6501bb7309370189d2b69c61d515170286ef132003c98d35f9f837873
@@ -141,9 +141,14 @@ files:
     modified: '2026-01-17T21:22:33.988243+00:00'
     owner: nickarrow
   The Starforged/Journals/Echo/Echo 01 - From the past.md:
-    checksum: 2ba41d102ce5ca27d6f70b6ea61765ae5520a547a6307f0a7ad8ab14a53bad97
+    checksum: 39af99ecd2d05445630ce9949acaaf31983409e1a308c00ef2d42bbed1c5cf44
     created: '2026-01-12T17:59:42.857650+00:00'
-    modified: '2026-01-14T16:12:47.111371+00:00'
+    modified: '2026-01-19T17:23:56.004985+00:00'
+    owner: nepturnal
+  The Starforged/Journals/Echo/Echo 02 - The Bones of Giants.md:
+    checksum: 10383099d4dfab565bd11893b53e9bafc6f52b4e90d8f1234fc308d81cd18ced
+    created: '2026-01-19T17:23:56.005152+00:00'
+    modified: '2026-01-19T17:23:56.005152+00:00'
     owner: nepturnal
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -261,9 +266,9 @@ files:
     modified: '2026-01-12T17:59:42.857739+00:00'
     owner: nepturnal
   The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md:
-    checksum: 39d6528bb232ed015ba7aa3c0755ae64c7d043743a16c436b9e774da47bd169d
+    checksum: d4d5729139f78adec574d80853d2669720a8bc00bc666da319d3425719276bea
     created: '2026-01-13T16:22:22.964034+00:00'
-    modified: '2026-01-14T15:56:19.107326+00:00'
+    modified: '2026-01-19T17:23:56.005192+00:00'
     owner: nepturnal
   The Starforged/Progress/Echo/Stop those who want to take the Hourglass.md:
     checksum: 4c8b2c601ed4e5e6648497820563837cc44d35347c6a474ce3d2aff16d71938e
