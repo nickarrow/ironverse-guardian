@@ -146,9 +146,9 @@ files:
     modified: '2026-01-19T17:24:49.103362+00:00'
     owner: nepturnal
   The Starforged/Journals/Echo/Echo 02 - The Bones of Giants.md:
-    checksum: 2e5d7369c334bd078d185b2452e2f27265c5c7fa2c3e9b3e0669e596ace3769f
+    checksum: 5bf03dd6a564040b9311aca01ebe7a27d8bd8bc30dcd8d740f5087c9bb42cffe
     created: '2026-01-19T17:23:56.005152+00:00'
-    modified: '2026-01-26T08:50:08.910216+00:00'
+    modified: '2026-01-26T09:10:02.100214+00:00'
     owner: nepturnal
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -205,6 +205,11 @@ files:
     created: '2025-12-17T20:28:29.566370+00:00'
     modified: '2026-01-09T03:44:17.266808+00:00'
     owner: nickarrow
+  The Starforged/Locations/Settlements/First Light.md:
+    checksum: 64bd41db0b3f06c081ea79d8c827b535445ad4705112e256839af0e8922b9723
+    created: '2026-01-26T09:10:02.100374+00:00'
+    modified: '2026-01-26T09:10:02.100374+00:00'
+    owner: nepturnal
   The Starforged/Locations/Settlements/Pinnacle.md:
     checksum: 8343237ca3382d993ae7a083c482dbc7ef069fd1a35f4e9682630313e89ee7a8
     created: '2025-12-25T20:47:06.061388+00:00'
@@ -221,9 +226,9 @@ files:
     modified: '2026-01-25T19:05:16.090108+00:00'
     owner: nickarrow
   The Starforged/Locations/Vaults/Mausefort Vault.md:
-    checksum: f62a6ed82034d674bd6e0be9d2c0ad118813a7ccdefeaff3849aced4a53f79d1
+    checksum: db539cabb5a796913863129ba3a5e2803e240fe29e9409a0b15ec8e6f47e9040
     created: '2026-01-13T16:22:22.963950+00:00'
-    modified: '2026-01-13T16:22:22.963950+00:00'
+    modified: '2026-01-26T09:10:02.100415+00:00'
     owner: nepturnal
   The Starforged/Lore/Epistolary/Epistolary Letters - The Starforged.md:
     checksum: d9db219bf0e01962c609bff5dd109cff6065a43e7814851b0424a0c60738d5e1
