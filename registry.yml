@@ -160,25 +160,10 @@ files:
     created: '2026-01-19T17:23:56.005152+00:00'
     modified: '2026-01-26T20:21:12.100080+00:00'
     owner: nepturnal
-  The Starforged/Journals/Sable/Sable - 01 2.md:
-    checksum: c438e676016a7d1c9be638bdbb8d13418f3c89a05c059594133281e03d9df395
-    created: '2026-01-29T03:09:01.575759+00:00'
-    modified: '2026-01-29T03:09:01.575759+00:00'
-    owner: fragile-entropy
-  The Starforged/Journals/Sable/Sable - 01 3.md:
-    checksum: ee8ce4b3dc4c6ddc266420be9079be3f52363815391144686664d1fe0ec36726
-    created: '2026-01-29T03:09:01.575878+00:00'
-    modified: '2026-01-29T03:09:01.575878+00:00'
-    owner: fragile-entropy
-  The Starforged/Journals/Sable/Sable - 01 4.md:
-    checksum: 562676e133c1d55c2afb0540d511b4640970e77ba425932903f095c2c88968f8
-    created: '2026-01-29T03:09:01.575972+00:00'
-    modified: '2026-01-29T03:09:01.575972+00:00'
-    owner: fragile-entropy
-  The Starforged/Journals/Sable/Sable - 01(1).md:
+  The Starforged/Journals/Sable/Sable - 01.md:
     checksum: 3f1bed64c38f2c1647ba1cb1ed98b6e63aad33e02274c513166f75c92f530129
     created: '2026-01-29T03:01:32.679950+00:00'
-    modified: '2026-01-29T03:09:01.576125+00:00'
+    modified: '2026-01-29T03:09:49.180081+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
