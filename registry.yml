@@ -140,6 +140,11 @@ files:
     created: '2025-12-17T20:28:29.565663+00:00'
     modified: '2026-01-09T03:44:17.265408+00:00'
     owner: nickarrow
+  The Starforged/Factions/Courier Guild.md:
+    checksum: 7c8f46fbfe5eb8bddd7261f0f81b1504a85cb8d84bdde719cdaed4b44eab76f8
+    created: '2026-01-29T20:34:12.834993+00:00'
+    modified: '2026-01-29T20:34:12.834993+00:00'
+    owner: fragile-entropy
   The Starforged/Factions/Household Serrato.md:
     checksum: f68e4524b4256a4313531337b21ac72e6db0b3f49e08ecc066102c86b4ff2fc0
     created: '2026-01-13T13:52:42.734217+00:00'
@@ -171,9 +176,9 @@ files:
     modified: '2026-01-26T20:21:12.100080+00:00'
     owner: nepturnal
   The Starforged/Journals/Sable/Sable 00 - The Black Service Package.md:
-    checksum: db3e36028006eeec01427018f214c5dfb300d294c30d4ebfc6377c85a472d52d
+    checksum: c7b42c29563822623ca44e23e55f45253cc017538652f718819df55508c9907c
     created: '2026-01-29T20:14:24.024287+00:00'
-    modified: '2026-01-29T20:14:24.024287+00:00'
+    modified: '2026-01-29T20:34:12.835113+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
