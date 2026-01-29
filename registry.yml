@@ -80,6 +80,11 @@ files:
     created: '2026-01-09T03:25:57.169336+00:00'
     modified: '2026-01-09T03:44:17.265051+00:00'
     owner: nickarrow
+  The Starforged/Characters/NPCs/Leela Asper.md:
+    checksum: f51d3a00dfe3a84e5693cfb30b985030eb443c747f98d55012921937a2ff88bf
+    created: '2026-01-29T03:44:18.022710+00:00'
+    modified: '2026-01-29T03:44:18.022710+00:00'
+    owner: fragile-entropy
   The Starforged/Characters/NPCs/Rowena Jensen.md:
     checksum: 1e475e4fa52ce606184395f031923c4f17fe524cd13a2f8da1211e3ca8993adf
     created: '2026-01-02T20:55:42.070156+00:00'
@@ -161,9 +166,9 @@ files:
     modified: '2026-01-26T20:21:12.100080+00:00'
     owner: nepturnal
   The Starforged/Journals/Sable/Sable - 01.md:
-    checksum: 3f1bed64c38f2c1647ba1cb1ed98b6e63aad33e02274c513166f75c92f530129
+    checksum: 8f6ba470e65cf8e62ba882649fbf75bda515a9faa44749413d196bf97109f317
     created: '2026-01-29T03:01:32.679950+00:00'
-    modified: '2026-01-29T03:09:49.180081+00:00'
+    modified: '2026-01-29T03:44:18.096084+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
