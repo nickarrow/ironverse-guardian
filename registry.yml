@@ -181,9 +181,9 @@ files:
     modified: '2026-01-30T01:23:59.792669+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Sable/Sable 01.md:
-    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    checksum: e5b24e4bcd89c94955bf07bfed7734d771964d369261e38444b0a0c327d8ac14
     created: '2026-01-30T00:11:24.931595+00:00'
-    modified: '2026-01-30T18:33:12.046532+00:00'
+    modified: '2026-01-30T21:04:00.118498+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -255,6 +255,11 @@ files:
     created: '2026-01-29T05:19:09.768816+00:00'
     modified: '2026-01-30T18:33:12.046554+00:00'
     owner: fragile-entropy
+  The Starforged/Locations/Settlements/Karma Station.md:
+    checksum: 5067ac24e4a5e31240f3892c251a8e07c930a33fd02bb9bf18f6a7262f248a07
+    created: '2026-01-30T21:04:00.118638+00:00'
+    modified: '2026-01-30T21:04:00.118638+00:00'
+    owner: fragile-entropy
   The Starforged/Locations/Settlements/Pinnacle.md:
     checksum: 8343237ca3382d993ae7a083c482dbc7ef069fd1a35f4e9682630313e89ee7a8
     created: '2025-12-25T20:47:06.061388+00:00'
@@ -290,6 +295,11 @@ files:
     created: '2026-01-09T12:17:43.098461+00:00'
     modified: '2026-01-10T07:04:58.334008+00:00'
     owner: solarblaster
+  The Starforged/Lore/Epistolary/Message 03 - Sable Rowe.md:
+    checksum: af6494e72a3b82118db168644c910c8652e0f002e1babcad91579992a0679a2c
+    created: '2026-01-30T21:04:00.118745+00:00'
+    modified: '2026-01-30T21:04:00.118745+00:00'
+    owner: fragile-entropy
   The Starforged/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 9a4e1cd1c68f9c461b21677b28e72c7c9cdfbac9cb7d23b3d0908b686d1b3789
     created: '2025-12-17T20:28:29.566428+00:00'
@@ -360,10 +370,10 @@ files:
     created: '2026-01-30T01:23:59.792842+00:00'
     modified: '2026-01-30T01:23:59.792842+00:00'
     owner: fragile-entropy
-  The Starforged/Progress/Sable/Survive the Electrical Storm.md:
+  The Starforged/Progress/Sable/Sable Completed Progress/Survive the Electrical Storm.md:
     checksum: 83c250e99ac949d4c7bef5a645a9d4cc9ba1e1cfd5622974ae8f5c09d457a537
     created: '2026-01-29T05:19:09.769001+00:00'
-    modified: '2026-01-29T14:25:07.646537+00:00'
+    modified: '2026-01-30T21:04:00.118864+00:00'
     owner: fragile-entropy
   The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md:
     checksum: 47af0a70ef213bf1bf6ec6d28d62650287a28fd91a1290f115b87b83f55cae5b
