@@ -101,9 +101,9 @@ files:
     modified: '2026-01-29T21:44:50.901758+00:00'
     owner: fragile-entropy
   The Starforged/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: 88a9cbe1050468aab68ba6b716b0e053722d8024af402c3eabc1ecba5750e6cd
+    checksum: d16e2e6a478c90b267c2eee38e50d5dbdcea15c1e8cd6f0eb9d2c59bc9d12b48
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-01-30T00:11:24.931382+00:00'
+    modified: '2026-01-30T01:23:59.792603+00:00'
     owner: fragile-entropy
   The Starforged/Characters/Tybalt Attachments/Pasted image 20260107182957.png:
     checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
@@ -176,14 +176,14 @@ files:
     modified: '2026-01-26T20:21:12.100080+00:00'
     owner: nepturnal
   The Starforged/Journals/Sable/Sable 00 - The Black Service Package.md:
-    checksum: 46465365381d9192d92251c84f3fa42784abb945d9b631c49dfc263f9af476ee
+    checksum: 6565bb1e00c5cde24523cb3fd044a184cd3ccc7f1091e7d405a7adb08688d9f8
     created: '2026-01-29T20:14:24.024287+00:00'
-    modified: '2026-01-30T00:11:24.931469+00:00'
+    modified: '2026-01-30T01:23:59.792669+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Sable/Sable 01.md:
-    checksum: e9beebc521bd748d1e92e0fce8849f4b05559be7277197f12dd824a896253842
+    checksum: c4bcceb6adf1121fa694a54ef968d5ca3f34ca81a1062adb7ca47b0527b2c3f6
     created: '2026-01-30T00:11:24.931595+00:00'
-    modified: '2026-01-30T00:11:24.931595+00:00'
+    modified: '2026-01-30T01:23:59.792708+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -349,6 +349,11 @@ files:
     checksum: 71ce1886653583311a293f989ca6e655570f063610a081378f79d6201df9c550
     created: '2026-01-29T03:01:32.680040+00:00'
     modified: '2026-01-29T03:01:32.680040+00:00'
+    owner: fragile-entropy
+  The Starforged/Progress/Sable/Leela Asper.md:
+    checksum: 4b5eb2bb1541e2706d659fee04fafecd1c07f57d97565512974690dc159ae9ee
+    created: '2026-01-30T01:23:59.792842+00:00'
+    modified: '2026-01-30T01:23:59.792842+00:00'
     owner: fragile-entropy
   The Starforged/Progress/Sable/Survive the Electrical Storm.md:
     checksum: 83c250e99ac949d4c7bef5a645a9d4cc9ba1e1cfd5622974ae8f5c09d457a537
