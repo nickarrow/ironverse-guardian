@@ -181,9 +181,9 @@ files:
     modified: '2026-01-30T01:23:59.792669+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Sable/Sable 01.md:
-    checksum: 7e94d548f22c7aac4ab67a095b2a2711a487c2c67120915902f1daf7f65261c5
+    checksum: 4d65a0f00538e55895479bcfc08fac15a789f9d4a743333cfc477e872c08daa3
     created: '2026-01-30T00:11:24.931595+00:00'
-    modified: '2026-01-30T01:25:33.475457+00:00'
+    modified: '2026-01-30T03:19:20.521654+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -359,6 +359,11 @@ files:
     checksum: 83c250e99ac949d4c7bef5a645a9d4cc9ba1e1cfd5622974ae8f5c09d457a537
     created: '2026-01-29T05:19:09.769001+00:00'
     modified: '2026-01-29T14:25:07.646537+00:00'
+    owner: fragile-entropy
+  The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md:
+    checksum: 0f4e63c1220c480ab30b3a5f7cc9fbf3c26c980a5607c5c61efdcb3d7cf3b2a2
+    created: '2026-01-30T03:19:20.521797+00:00'
+    modified: '2026-01-30T03:19:20.521797+00:00'
     owner: fragile-entropy
   The Starforged/Progress/Tybalt-Yhen Serrato/Command-Duel with Epathus.md:
     checksum: 1cc839fee1c3e13a1f970d1b9ebafeb03f3a316d270911e0339e2750498bb89d
