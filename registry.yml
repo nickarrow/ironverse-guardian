@@ -101,9 +101,9 @@ files:
     modified: '2026-01-29T21:44:50.901758+00:00'
     owner: fragile-entropy
   The Starforged/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: 8b3cda7c27dc1ad0c96484ccb51cc2969f6cae437da4c49546aa102e9a87c759
+    checksum: 88a9cbe1050468aab68ba6b716b0e053722d8024af402c3eabc1ecba5750e6cd
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-01-29T20:14:24.024144+00:00'
+    modified: '2026-01-30T00:11:24.931382+00:00'
     owner: fragile-entropy
   The Starforged/Characters/Tybalt Attachments/Pasted image 20260107182957.png:
     checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
@@ -141,9 +141,9 @@ files:
     modified: '2026-01-09T03:44:17.265408+00:00'
     owner: nickarrow
   The Starforged/Factions/Courier Guild.md:
-    checksum: 7c8f46fbfe5eb8bddd7261f0f81b1504a85cb8d84bdde719cdaed4b44eab76f8
+    checksum: b568f5922decf0d8446ef6de81d799219cba0c2d7ab73df929d2ad1c2d5db2dc
     created: '2026-01-29T20:34:12.834993+00:00'
-    modified: '2026-01-29T20:34:12.834993+00:00'
+    modified: '2026-01-30T00:11:24.931423+00:00'
     owner: fragile-entropy
   The Starforged/Factions/Household Serrato.md:
     checksum: f68e4524b4256a4313531337b21ac72e6db0b3f49e08ecc066102c86b4ff2fc0
@@ -176,9 +176,14 @@ files:
     modified: '2026-01-26T20:21:12.100080+00:00'
     owner: nepturnal
   The Starforged/Journals/Sable/Sable 00 - The Black Service Package.md:
-    checksum: c7b42c29563822623ca44e23e55f45253cc017538652f718819df55508c9907c
+    checksum: 46465365381d9192d92251c84f3fa42784abb945d9b631c49dfc263f9af476ee
     created: '2026-01-29T20:14:24.024287+00:00'
-    modified: '2026-01-29T20:34:12.835113+00:00'
+    modified: '2026-01-30T00:11:24.931469+00:00'
+    owner: fragile-entropy
+  The Starforged/Journals/Sable/Sable 01.md:
+    checksum: e9beebc521bd748d1e92e0fce8849f4b05559be7277197f12dd824a896253842
+    created: '2026-01-30T00:11:24.931595+00:00'
+    modified: '2026-01-30T00:11:24.931595+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -334,6 +339,11 @@ files:
     checksum: 16c29bbc5b1bd8d84c11fbfc578bde1b4381c3d41fbbdff61b8d341edd1393f8
     created: '2026-01-29T05:19:09.768918+00:00'
     modified: '2026-01-29T05:19:09.768918+00:00'
+    owner: fragile-entropy
+  The Starforged/Progress/Sable/Expand the Influence of the Courier Guild in Devil's Reach.md:
+    checksum: eac82406f64ef50fbea89dcab63080c50c757d4290e27735e09e3d6e94a0e6a5
+    created: '2026-01-30T00:11:24.931684+00:00'
+    modified: '2026-01-30T00:11:24.931684+00:00'
     owner: fragile-entropy
   The Starforged/Progress/Sable/Find Her Parents Ship.md:
     checksum: 71ce1886653583311a293f989ca6e655570f063610a081378f79d6201df9c550
