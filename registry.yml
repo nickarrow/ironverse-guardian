@@ -71,9 +71,9 @@ files:
     modified: '2026-01-09T03:44:17.264931+00:00'
     owner: nickarrow
   The Starforged/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md:
-    checksum: 52b14990f63d7895251f80b40d2f4255cf122bbaa62cb7a5da528dd21b46b0c4
+    checksum: 63913a16934415ad06bf3ac669620fc76d155dc6130ec0df53aa206fe8716083
     created: '2026-01-12T17:59:42.857432+00:00'
-    modified: '2026-01-26T20:21:12.100036+00:00'
+    modified: '2026-01-30T15:57:50.254405+00:00'
     owner: nepturnal
   The Starforged/Characters/NPCs/Epathus-Barabas Serrato.md:
     checksum: 6707d1d6501bb7309370189d2b69c61d515170286ef132003c98d35f9f837873
@@ -166,14 +166,14 @@ files:
     modified: '2026-01-29T20:32:35.303021+00:00'
     owner: nickarrow
   The Starforged/Journals/Echo/Echo 01 - From the past.md:
-    checksum: da2bd77bd05f0bb8b589e400da455e5707d44709052d94373e574162a708c4e8
+    checksum: bbfe3f0bcd12b3dd825dac79f532f1cdfd67b960678d3bacbce9dea583a258e0
     created: '2026-01-12T17:59:42.857650+00:00'
-    modified: '2026-01-19T17:24:49.103362+00:00'
+    modified: '2026-01-30T15:57:50.254469+00:00'
     owner: nepturnal
   The Starforged/Journals/Echo/Echo 02 - The Bones of Giants.md:
-    checksum: c167660eb04ea23a29c65034889a99ab93610b1eeaf30b90a27943225fec0532
+    checksum: 792b06a7e5734bc0c6ec2bb614228195af7875271d3af27fb0283deed81ff096
     created: '2026-01-19T17:23:56.005152+00:00'
-    modified: '2026-01-26T20:21:12.100080+00:00'
+    modified: '2026-01-30T15:57:50.254520+00:00'
     owner: nepturnal
   The Starforged/Journals/Sable/Sable 00 - The Black Service Package.md:
     checksum: 6565bb1e00c5cde24523cb3fd044a184cd3ccc7f1091e7d405a7adb08688d9f8
@@ -316,19 +316,19 @@ files:
     modified: '2026-01-12T17:59:42.857739+00:00'
     owner: nepturnal
   The Starforged/Progress/Echo/Find your way through the Mausefort to the Hourglass.md:
-    checksum: cefb848649c02e4076147161548812c4136a210c8e2fa76c79358ebf3f42c82c
+    checksum: cc4ee04c81425dd8e48d9a326361670205ca63cff7991f2fa22dde5fc615c581
     created: '2026-01-13T16:22:22.964034+00:00'
-    modified: '2026-01-22T23:39:47.364509+00:00'
+    modified: '2026-01-30T15:57:50.254552+00:00'
     owner: nepturnal
   The Starforged/Progress/Echo/Stop those who want to take the Hourglass.md:
     checksum: eb9e6d5ebbebe0c4611731d49a8d5b430fc1bb51c392a106bf4344bec867ce5c
     created: '2026-01-14T15:56:19.107434+00:00'
     modified: '2026-01-26T20:21:12.100103+00:00'
     owner: nepturnal
-  The Starforged/Progress/Echo/Take the Hourglass Relic.md:
-    checksum: 2d75d00a416c8b21842b80455810206cf6602a29f26d8f0885fd8f3c92c06689
+  The Starforged/Progress/Echo/Take the Hourglass relic and keep it safe.md:
+    checksum: 88d3f87841e5e48a2d22eff97c08d0976bac1ee4820bbe986adcd16da45acded
     created: '2026-01-12T17:59:42.857820+00:00'
-    modified: '2026-01-13T16:22:22.964068+00:00'
+    modified: '2026-01-30T15:57:50.254722+00:00'
     owner: nepturnal
   The Starforged/Progress/Echo/Will Echo ever forgive Vesper.md:
     checksum: 0f2d595eecce00b95ee6de327c26a08a7306ff45d1fbbf3ba61d6423d3a78198
