@@ -30,6 +30,11 @@ files:
     created: '2025-12-25T20:28:31.641102+00:00'
     modified: '2025-12-26T06:40:28.892068+00:00'
     owner: nickarrow
+  Excalidraw/Drawing 2026-01-31 11.19.09.excalidraw.md:
+    checksum: cc1cc850c13a93c0c15239343a694a8d47179b981412142adef1d210f8eab9aa
+    created: '2026-01-31T19:19:27.190084+00:00'
+    modified: '2026-01-31T19:19:27.190084+00:00'
+    owner: fragile-entropy
   Getting Started.md:
     checksum: 9fe36e5826b4bfe79515bbc292cd5840a1cccd291eb83fb85272bc52606ac405
     created: '2025-12-17T17:41:15.770317+00:00'
@@ -181,9 +186,9 @@ files:
     modified: '2026-01-30T01:23:59.792669+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Sable/Sable 01.md:
-    checksum: 92e6d736c16bf5bdf4dac0cef8023b3d0212ca428a64295f84d938887993a595
+    checksum: d2b26a250686b8eb9dac7e81e1d2ee0a809a4ce3b0d9b741a1a4aeff5b46aa42
     created: '2026-01-30T00:11:24.931595+00:00'
-    modified: '2026-01-31T06:31:03.507668+00:00'
+    modified: '2026-01-31T19:19:27.190140+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -296,9 +301,9 @@ files:
     modified: '2026-01-10T07:04:58.334008+00:00'
     owner: solarblaster
   The Starforged/Lore/Epistolary/Message 03 - Sable Rowe.md:
-    checksum: 87347fd4b14c8f5b0087bf50688a88c6a8abc64b771f520b8e4892a9741e6548
+    checksum: 3b56507be0048921d82cd6e96f95eed6ee06f979674cb126f376125bbb836054
     created: '2026-01-30T21:04:00.118745+00:00'
-    modified: '2026-01-31T00:09:11.263278+00:00'
+    modified: '2026-01-31T19:19:27.190177+00:00'
     owner: fragile-entropy
   The Starforged/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 9a4e1cd1c68f9c461b21677b28e72c7c9cdfbac9cb7d23b3d0908b686d1b3789
@@ -450,11 +455,6 @@ files:
     created: '2025-12-17T17:41:15.770246+00:00'
     modified: '2026-01-01T21:39:22.704442+00:00'
     owner: nickarrow
-  Welcome.md:
-    checksum: ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8
-    created: '2026-01-31T18:58:29.357019+00:00'
-    modified: '2026-01-31T18:58:29.357019+00:00'
-    owner: fragile-entropy
   main.js:
     checksum: 7b7c4feebca9aaf0b23d305a970936a9dc45137a442ef05182465be725b65a10
     created: '2026-01-09T06:31:01.267156+00:00'
@@ -474,6 +474,9 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
+  Excalidraw:
+    created: '2026-01-31T19:19:27.190043+00:00'
+    structural_owner: fragile-entropy
   The Starforged:
     created: '2026-01-09T03:44:17.263114+00:00'
     structural_owner: nickarrow
