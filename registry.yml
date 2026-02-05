@@ -75,6 +75,11 @@ files:
     created: '2026-01-12T17:59:42.857432+00:00'
     modified: '2026-01-30T15:57:50.254405+00:00'
     owner: nepturnal
+  The Starforged/Characters/Jett Foley/Jett Foley.md:
+    checksum: 5aef30e9fc5de8941c73617f6358291c1afece6488d1ac77002515ed3213c032
+    created: '2026-02-05T16:52:14.277188+00:00'
+    modified: '2026-02-05T16:52:14.277188+00:00'
+    owner: thathulsguy
   The Starforged/Characters/NPCs/Epathus-Barabas Serrato.md:
     checksum: 6707d1d6501bb7309370189d2b69c61d515170286ef132003c98d35f9f837873
     created: '2026-01-09T03:25:57.169336+00:00'
@@ -185,6 +190,11 @@ files:
     created: '2026-01-19T17:23:56.005152+00:00'
     modified: '2026-02-02T17:00:19.550452+00:00'
     owner: nepturnal
+  The Starforged/Journals/Jett/00 - Prologue.md:
+    checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
+    created: '2026-02-05T16:52:14.277300+00:00'
+    modified: '2026-02-05T16:52:14.277300+00:00'
+    owner: thathulsguy
   The Starforged/Journals/Sable/Sable 00 - The Black Service Package.md:
     checksum: d2ade19bcc64e8581df60bc41d9b86bf1a3235cef01e9d0f2afcd492791441a4
     created: '2026-01-29T20:14:24.024287+00:00'
@@ -370,6 +380,11 @@ files:
     created: '2025-12-26T06:31:18.141226+00:00'
     modified: '2026-01-27T02:29:26.015885+00:00'
     owner: nickarrow
+  The Starforged/Progress/Jett/Find and fulfil my destiny.md:
+    checksum: 41a13df22fe5546cdaab550a41a4651beadd81f8a6f2bfc89de5daf062bbcf12
+    created: '2026-02-05T16:52:14.277390+00:00'
+    modified: '2026-02-05T16:52:14.277390+00:00'
+    owner: thathulsguy
   The Starforged/Progress/Sable/Courier Job Glimmer Outpost.md:
     checksum: c61f30bbe9e23cfb4ce556dffd14aa724ebc67bf283856fe9b7a8d668d66659f
     created: '2026-01-29T05:19:09.768918+00:00'
@@ -470,11 +485,6 @@ files:
     created: '2025-12-17T17:41:15.770246+00:00'
     modified: '2026-01-01T21:39:22.704442+00:00'
     owner: nickarrow
-  Welcome.md:
-    checksum: ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8
-    created: '2026-02-05T14:35:36.968605+00:00'
-    modified: '2026-02-05T14:35:36.968605+00:00'
-    owner: thathulsguy
   main.js:
     checksum: 7b7c4feebca9aaf0b23d305a970936a9dc45137a442ef05182465be725b65a10
     created: '2026-01-09T06:31:01.267156+00:00'
