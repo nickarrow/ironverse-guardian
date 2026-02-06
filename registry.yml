@@ -90,6 +90,11 @@ files:
     created: '2026-01-29T03:44:18.022710+00:00'
     modified: '2026-01-29T03:44:18.022710+00:00'
     owner: fragile-entropy
+  The Starforged/Characters/NPCs/Merrick Arden.md:
+    checksum: cfbd57ee78619ffad1697a3ca4aeadd1811b552217775ab4ef9ce8ac0c486708
+    created: '2026-02-06T01:25:01.069527+00:00'
+    modified: '2026-02-06T01:25:01.069527+00:00'
+    owner: fragile-entropy
   The Starforged/Characters/NPCs/Rowena Jensen.md:
     checksum: 1e475e4fa52ce606184395f031923c4f17fe524cd13a2f8da1211e3ca8993adf
     created: '2026-01-02T20:55:42.070156+00:00'
@@ -211,9 +216,9 @@ files:
     modified: '2026-02-06T01:00:29.610966+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Sable/Sable 02.md:
-    checksum: d241e2c7cb7c0ce4c3655af036290349f2aa9cf084173e50e5452d8bb171874b
+    checksum: 16e58f8a6806faaf4e79f265ad67470b97cda82316b39bce16d170e21da51235
     created: '2026-02-06T01:00:29.611118+00:00'
-    modified: '2026-02-06T01:00:29.611118+00:00'
+    modified: '2026-02-06T01:25:01.069580+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
