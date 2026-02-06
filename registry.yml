@@ -140,16 +140,16 @@ files:
     created: '2026-01-06T10:42:32.726002+00:00'
     modified: '2026-01-25T13:34:09.094416+00:00'
     owner: solarblaster
+  The Starforged/Clocks/Echo/The Hourglass protections overwhelm Echo.md:
+    checksum: 23e9b4808f3ce6b847a2d01f3949f5a3a2ebf50929d7c119273a916fc966503e
+    created: '2026-02-02T17:00:19.550378+00:00'
+    modified: '2026-02-06T17:55:25.795582+00:00'
+    owner: nepturnal
   The Starforged/Clocks/Sable/The Electrical Storm Overtakes the Port.md:
     checksum: 380a7a990bd2391337a58c1c4f19b3996ba7810c2a9e606770ef7062dc337fbc
     created: '2026-01-29T05:19:09.768603+00:00'
     modified: '2026-01-29T14:25:07.646451+00:00'
     owner: fragile-entropy
-  The Starforged/Clocks/The Hourglass protections overwhelm Echo.md:
-    checksum: 23e9b4808f3ce6b847a2d01f3949f5a3a2ebf50929d7c119273a916fc966503e
-    created: '2026-02-02T17:00:19.550378+00:00'
-    modified: '2026-02-06T16:35:48.015403+00:00'
-    owner: nepturnal
   The Starforged/Clocks/Tybalt-Yhen Serrato/Meet & Greet concluded.md:
     checksum: 5818642cab7d0d6e09e248e31e55b67c54f41e874eaf1489a00918b1ddf43222
     created: '2026-01-13T13:52:42.734133+00:00'
@@ -375,6 +375,11 @@ files:
     created: '2026-02-06T08:25:37.630587+00:00'
     modified: '2026-02-06T08:25:37.630587+00:00'
     owner: thathulsguy
+  The Starforged/Lore/Epistolary/Message 05 - Echo 'Phantom' Stirling.md:
+    checksum: 3fd6d88e923f87fef407cb895e2d232b2ea88b57e499cde1476236e45177a324
+    created: '2026-02-06T17:55:25.795695+00:00'
+    modified: '2026-02-06T17:55:25.795695+00:00'
+    owner: nepturnal
   The Starforged/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: 9a4e1cd1c68f9c461b21677b28e72c7c9cdfbac9cb7d23b3d0908b686d1b3789
     created: '2025-12-17T20:28:29.566428+00:00'
