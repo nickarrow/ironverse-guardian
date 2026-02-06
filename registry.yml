@@ -106,9 +106,9 @@ files:
     modified: '2026-02-01T16:58:09.806957+00:00'
     owner: fragile-entropy
   The Starforged/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: d02f4088622a85058591b6af09366b3a7fc0c614969719f264def155a17d3a1c
+    checksum: 2d4c3c31ef3fd2ad76d2325b76f7bacee396c214e65bc39f7ea18e6fa63fbd13
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-02-02T02:35:26.898983+00:00'
+    modified: '2026-02-06T01:00:29.610887+00:00'
     owner: fragile-entropy
   The Starforged/Characters/Tybalt Attachments/Pasted image 20260107182957.png:
     checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
@@ -206,14 +206,14 @@ files:
     modified: '2026-01-31T21:15:12.260747+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Sable/Sable 01 - Boy Trouble & Close Encounters.md:
-    checksum: a9737ee29a04d3fc195238ac3d7243767bef8837371c87f2e47133be7d145c1c
+    checksum: 46e48597512fadc155099e70665caf6e73d3768ec2e45948c0ea75c26b037b24
     created: '2026-01-30T00:11:24.931595+00:00'
-    modified: '2026-01-31T22:59:37.714399+00:00'
+    modified: '2026-02-06T01:00:29.610966+00:00'
     owner: fragile-entropy
-  The Starforged/Journals/Sable/Sable 03.md:
-    checksum: bcea86a1db1bec4e514f9f2221430bb9d0db8500e7da0f5bb416b44a622cd062
-    created: '2026-02-06T00:17:56.746302+00:00'
-    modified: '2026-02-06T00:17:56.746302+00:00'
+  The Starforged/Journals/Sable/Sable 02.md:
+    checksum: d241e2c7cb7c0ce4c3655af036290349f2aa9cf084173e50e5452d8bb171874b
+    created: '2026-02-06T01:00:29.611118+00:00'
+    modified: '2026-02-06T01:00:29.611118+00:00'
     owner: fragile-entropy
   The Starforged/Journals/Tybalt-Yhen Serrato/Tybalt 00- Impatience Bites.md:
     checksum: 300a354d8bcf85161c8d384b9e369392450dca6c26e0f432a8b3aa9cdc6a81b4
@@ -396,9 +396,9 @@ files:
     modified: '2026-02-05T16:52:14.277390+00:00'
     owner: thathulsguy
   The Starforged/Progress/Sable/Courier Job Glimmer Outpost.md:
-    checksum: c61f30bbe9e23cfb4ce556dffd14aa724ebc67bf283856fe9b7a8d668d66659f
+    checksum: 4aad80fa13f8c4566c06ae0ac8b3d521314696a7ad1b37087be6be49c15c3626
     created: '2026-01-29T05:19:09.768918+00:00'
-    modified: '2026-01-31T21:15:12.261014+00:00'
+    modified: '2026-02-06T01:00:29.611164+00:00'
     owner: fragile-entropy
   The Starforged/Progress/Sable/Dustcloud Battle.md:
     checksum: cfd9da13eedea60b7e235134121301acf823945c870c257e2877c2485e441cef
@@ -426,9 +426,9 @@ files:
     modified: '2026-01-31T21:15:12.261251+00:00'
     owner: fragile-entropy
   The Starforged/Progress/Sable/To the Delivery Point Glimmer Job.md:
-    checksum: 4aea762b812d4e57b8b0175d68531c70e56057c759614b88a042acdaf826181e
+    checksum: 51767692b98af4d977972808e95818a31525ee1d59b29c1a20bc5c5a79f9a71f
     created: '2026-01-30T03:19:20.521797+00:00'
-    modified: '2026-01-31T00:09:11.263310+00:00'
+    modified: '2026-02-06T01:00:29.611196+00:00'
     owner: fragile-entropy
   The Starforged/Progress/Tybalt-Yhen Serrato/Command-Duel with Epathus.md:
     checksum: 1cc839fee1c3e13a1f970d1b9ebafeb03f3a316d270911e0339e2750498bb89d
