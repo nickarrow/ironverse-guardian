@@ -76,9 +76,9 @@ files:
     modified: '2026-01-30T15:57:50.254405+00:00'
     owner: nepturnal
   The Starforged/Characters/Jett Foley/Jett Foley.md:
-    checksum: 5aef30e9fc5de8941c73617f6358291c1afece6488d1ac77002515ed3213c032
+    checksum: 9bd8962b1771a148709f737fb73f8ae3e4dac217b3d3106dec8cda7cc4e0e2b2
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-05T16:52:14.277188+00:00'
+    modified: '2026-02-06T04:00:46.098186+00:00'
     owner: thathulsguy
   The Starforged/Characters/NPCs/Epathus-Barabas Serrato.md:
     checksum: 6707d1d6501bb7309370189d2b69c61d515170286ef132003c98d35f9f837873
@@ -90,6 +90,11 @@ files:
     created: '2026-01-29T03:44:18.022710+00:00'
     modified: '2026-01-29T03:44:18.022710+00:00'
     owner: fragile-entropy
+  The Starforged/Characters/NPCs/Machete.md:
+    checksum: 0c79dcbc8ee3becdb6494c188e8b4e8cd82ec263ea4ad318bd3fd6dde1c20384
+    created: '2026-02-06T04:00:46.170983+00:00'
+    modified: '2026-02-06T04:00:46.170983+00:00'
+    owner: thathulsguy
   The Starforged/Characters/NPCs/Merrick Arden.md:
     checksum: cfbd57ee78619ffad1697a3ca4aeadd1811b552217775ab4ef9ce8ac0c486708
     created: '2026-02-06T01:25:01.069527+00:00'
@@ -170,6 +175,11 @@ files:
     created: '2025-12-17T20:28:29.565713+00:00'
     modified: '2026-01-09T03:44:17.265506+00:00'
     owner: nickarrow
+  The Starforged/Factions/The Void Cobras.md:
+    checksum: 9dc7469dc878fd8c2b6961a77a8fa175200207f469af547d6971b847e9296b75
+    created: '2026-02-06T04:00:46.177402+00:00'
+    modified: '2026-02-06T04:00:46.177402+00:00'
+    owner: thathulsguy
   The Starforged/Journals/Barille/Barille 01 - Beginnings.md:
     checksum: 0367e81dd1ae1ac4a401e9ea78a40470f91230de3cb2bc3b75421d1f0516d225
     created: '2025-12-17T20:18:04.220298+00:00'
@@ -195,15 +205,15 @@ files:
     created: '2026-01-19T17:23:56.005152+00:00'
     modified: '2026-02-02T17:00:19.550452+00:00'
     owner: nepturnal
-  The Starforged/Journals/Jett/00 - Prologue.md:
+  The Starforged/Journals/Jett/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
     created: '2026-02-05T16:52:14.277300+00:00'
-    modified: '2026-02-05T16:52:14.277300+00:00'
+    modified: '2026-02-06T04:00:46.177542+00:00'
     owner: thathulsguy
-  The Starforged/Journals/Jett/01 -.md:
-    checksum: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
-    created: '2026-02-05T23:14:13.017741+00:00'
-    modified: '2026-02-05T23:14:13.017741+00:00'
+  The Starforged/Journals/Jett/Jett 01 - Finding Sofia.md:
+    checksum: c537cbaceabd4ea7052bfe468a454789b7e8fde21f0cc3a40360d6229362640b
+    created: '2026-02-06T04:00:46.177634+00:00'
+    modified: '2026-02-06T04:00:46.177634+00:00'
     owner: thathulsguy
   The Starforged/Journals/Sable/Sable 00 - The Black Service Package.md:
     checksum: d2ade19bcc64e8581df60bc41d9b86bf1a3235cef01e9d0f2afcd492791441a4
@@ -260,6 +270,11 @@ files:
     created: '2026-01-13T16:22:22.963851+00:00'
     modified: '2026-01-13T16:22:22.963851+00:00'
     owner: nepturnal
+  The Starforged/Locations/Planets/Erra.md:
+    checksum: 5e4a8934c0e84c960fe5baed92c88124f0d18a2d0035b6abaa1d689d8ed03ad4
+    created: '2026-02-06T04:00:46.177713+00:00'
+    modified: '2026-02-06T04:00:46.177713+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
     created: '2025-12-31T05:31:28.285319+00:00'
@@ -295,6 +310,11 @@ files:
     created: '2026-01-30T21:04:00.118638+00:00'
     modified: '2026-01-30T21:04:00.118638+00:00'
     owner: fragile-entropy
+  The Starforged/Locations/Settlements/Paxton Memorial.md:
+    checksum: 15a9fd4de5acb9993f7fe65f02c95636bbcf23fe3c02c39571aca5e1b413e5ed
+    created: '2026-02-06T04:00:46.177789+00:00'
+    modified: '2026-02-06T04:00:46.177789+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Settlements/Pinnacle.md:
     checksum: 8343237ca3382d993ae7a083c482dbc7ef069fd1a35f4e9682630313e89ee7a8
     created: '2025-12-25T20:47:06.061388+00:00'
@@ -310,6 +330,11 @@ files:
     created: '2025-12-17T20:28:29.566400+00:00'
     modified: '2026-01-25T19:05:16.090108+00:00'
     owner: nickarrow
+  The Starforged/Locations/Settlements/The Snakepit.md:
+    checksum: f10eaaf321722c1c33b847365f0a4e49bc0f3874839ce2c34a444fabe19ddaae
+    created: '2026-02-06T04:00:46.177864+00:00'
+    modified: '2026-02-06T04:00:46.177864+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Vaults/Mausefort Vault.md:
     checksum: db539cabb5a796913863129ba3a5e2803e240fe29e9409a0b15ec8e6f47e9040
     created: '2026-01-13T16:22:22.963950+00:00'
@@ -395,10 +420,35 @@ files:
     created: '2025-12-26T06:31:18.141226+00:00'
     modified: '2026-01-27T02:29:26.015885+00:00'
     owner: nickarrow
+  The Starforged/Progress/Jett/Completed/Find Sofia Legrand.md:
+    checksum: b7ce882553bcee5d2d94d811d0c525b556a0fb1aeef6604d8f4bb47d397c00f2
+    created: '2026-02-06T04:00:46.177958+00:00'
+    modified: '2026-02-06T04:00:46.177958+00:00'
+    owner: thathulsguy
+  The Starforged/Progress/Jett/Connections/Connection Eris.md:
+    checksum: da159d8929548a9a6ea574442e499847e40259adf6dac03f71e126524427b325
+    created: '2026-02-06T04:00:46.178051+00:00'
+    modified: '2026-02-06T04:00:46.178051+00:00'
+    owner: thathulsguy
+  The Starforged/Progress/Jett/Connections/Connection Machete.md:
+    checksum: 560daaa751346b77ed8ffa6a04522db31226de49abcb25c70b794fe317e98a73
+    created: '2026-02-06T04:00:46.178179+00:00'
+    modified: '2026-02-06T04:00:46.178179+00:00'
+    owner: thathulsguy
+  The Starforged/Progress/Jett/Find Sofia Legrand.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-02-06T04:00:46.178252+00:00'
+    modified: '2026-02-06T04:00:46.178252+00:00'
+    owner: thathulsguy
   The Starforged/Progress/Jett/Find and fulfil my destiny.md:
     checksum: 41a13df22fe5546cdaab550a41a4651beadd81f8a6f2bfc89de5daf062bbcf12
     created: '2026-02-05T16:52:14.277390+00:00'
     modified: '2026-02-05T16:52:14.277390+00:00'
+    owner: thathulsguy
+  The Starforged/Progress/Jett/Find out who is following Shen.md:
+    checksum: 95674faf360e63dce5181df4b5bb46763efdd02b239d99962d9766b659243c7d
+    created: '2026-02-06T04:00:46.178366+00:00'
+    modified: '2026-02-06T04:00:46.178366+00:00'
     owner: thathulsguy
   The Starforged/Progress/Sable/Courier Job Glimmer Outpost.md:
     checksum: 4aad80fa13f8c4566c06ae0ac8b3d521314696a7ad1b37087be6be49c15c3626
