@@ -40,8 +40,9 @@ files:
     created: '2026-02-07T03:18:07.292864+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: jzoutis
-  The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
-    checksum: e3d270d8e4fe2b8568fdbdc504b5c1f581a5035f14bc9158f6b5f4068feeb1a5
+  ? The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Barille/Establish a new noble
+    house in the Circle of the Elder Stars.md
+  : checksum: e3d270d8e4fe2b8568fdbdc504b5c1f581a5035f14bc9158f6b5f4068feeb1a5
     created: '2025-12-17T20:28:29.566428+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
@@ -95,8 +96,9 @@ files:
     created: '2026-01-14T15:56:19.107526+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
-  The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Expose the darkness behind the attacks across the sector and stop it from spreading.md:
-    checksum: 65f80b893fdf553f72c51cfbd3ee2fc1322bdb9bad6df64a3b4a2b6b0042a31e
+  ? The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Expose the darkness behind
+    the attacks across the sector and stop it from spreading.md
+  : checksum: 65f80b893fdf553f72c51cfbd3ee2fc1322bdb9bad6df64a3b4a2b6b0042a31e
     created: '2025-12-26T06:31:18.141226+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
@@ -236,9 +238,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 03 - Searching Through Reck.md:
-    checksum: cc218b05f639467aec8d82d7b4afe70f991ed404b698ff60e02e722fd435ddfe
+    checksum: a43ccd15770db02d95d4936468666681814b4b051b68fbace5343612aaab2e45
     created: '2026-02-07T22:15:39.913915+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-07T22:32:25.529657+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: e3d270d8e4fe2b8568fdbdc504b5c1f581a5035f14bc9158f6b5f4068feeb1a5
@@ -749,9 +751,6 @@ folders:
     created: '2026-02-07T22:21:52.606000+00:00'
     structural_owner: nickarrow
   The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai:
-    created: '2026-02-07T22:21:52.606000+00:00'
-    structural_owner: nickarrow
-  The Starforged/Campaign Alex 'The Ogre' Bai/Journals:
     created: '2026-02-07T22:21:52.606000+00:00'
     structural_owner: nickarrow
   The Starforged/Campaign Alex 'The Ogre' Bai/Progress:
