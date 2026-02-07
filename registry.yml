@@ -196,9 +196,9 @@ files:
     modified: '2026-02-06T04:00:46.177402+00:00'
     owner: thathulsguy
   The Starforged/Journals/Barille/Barille 01 - Beginnings.md:
-    checksum: c07900ae9d125b891df43c5d83a46df138b313fdb7cc8c9134e19d3ba1bcca90
+    checksum: 0367e81dd1ae1ac4a401e9ea78a40470f91230de3cb2bc3b75421d1f0516d225
     created: '2025-12-17T20:18:04.220298+00:00'
-    modified: '2026-02-07T20:41:32.740824+00:00'
+    modified: '2026-02-07T20:45:13.131051+00:00'
     owner: nickarrow
   The Starforged/Journals/Barille/Barille 02 - Reck.md:
     checksum: 2da730f4962d7e83523c5bcefadb5270998e5de84b8a86652930f31db002232c
@@ -371,9 +371,9 @@ files:
     modified: '2026-02-07T20:41:32.740873+00:00'
     owner: nickarrow
   The Starforged/Lore/Epistolary/Message 01 - Barille Black.md:
-    checksum: 45218bf4d6eda563a96639b6991171bc72b70de67a46a52c4e1eab86b84ad964
+    checksum: a780799a1360f644b70ceabebd6b7aa06569c0595fca99a2083bf6ace74f5e14
     created: '2025-12-27T20:36:06.781834+00:00'
-    modified: '2026-02-07T20:41:32.740907+00:00'
+    modified: '2026-02-07T20:45:13.131104+00:00'
     owner: nickarrow
   The Starforged/Lore/Epistolary/Message 02 - Tybalt-Yhen Serrato.md:
     checksum: e1a5ad41e31c2d1f416db32e340950c316e9c833e49657a64e731c76305b62e2
@@ -396,24 +396,24 @@ files:
     modified: '2026-02-06T18:56:47.729570+00:00'
     owner: nepturnal
   The Starforged/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
-    checksum: c98c593c7482e68cab8f9d5968fcfd80fbcc456932352f768539b4668e01ded5
+    checksum: 9a4e1cd1c68f9c461b21677b28e72c7c9cdfbac9cb7d23b3d0908b686d1b3789
     created: '2025-12-17T20:28:29.566428+00:00'
-    modified: '2026-02-07T20:41:32.740940+00:00'
+    modified: '2026-02-07T20:45:13.131138+00:00'
     owner: nickarrow
   The Starforged/Progress/Barille/Fend off attackers until the transport can escape.md:
-    checksum: 76d3698b0a9cb079a72654bbe86120c269a9c3a34bf9a824bda9c305365aa3af
+    checksum: 55e68d0de9fe7fee2c20e3b7b9de42ea12aaf74dac46fe870f4f4b9211dac961
     created: '2025-12-17T20:28:29.566467+00:00'
-    modified: '2026-02-07T20:41:32.740970+00:00'
+    modified: '2026-02-07T20:45:13.131169+00:00'
     owner: nickarrow
   The Starforged/Progress/Barille/Investigate and report on the rumored horrors of Reck.md:
-    checksum: 2efc4ff353d7751e5cb71951728f5770ca84f53d5dc7b0cde4c04ca2910de00a
+    checksum: 8d3eb2be2742d530fab26265bddb00e50f3e668002b9931f6691b6fbb3f0951a
     created: '2025-12-17T20:28:29.566496+00:00'
-    modified: '2026-02-07T20:41:32.741003+00:00'
+    modified: '2026-02-07T20:45:13.131204+00:00'
     owner: nickarrow
   The Starforged/Progress/Barille/Track the other-world entity to its source.md:
-    checksum: a9d791b292d56a0323e7ff7c646bf352b7226e8638656e3702b769a270a8e481
+    checksum: 4852e128fe934e29823782d36862b47add666bff05370f8e9914b151e7d4525e
     created: '2026-01-31T23:04:10.585627+00:00'
-    modified: '2026-01-31T23:04:10.585627+00:00'
+    modified: '2026-02-07T20:45:13.131235+00:00'
     owner: nickarrow
   The Starforged/Progress/Echo/Escape the Statues.md:
     checksum: facb8d8555da89c7829b3d782288736b31eafc76457b9750aad8bcf257311fb6
@@ -561,9 +561,9 @@ files:
     modified: '2026-01-09T05:03:26.733566+00:00'
     owner: solarblaster
   The Starforged/The Starforged.md:
-    checksum: da8d0ea9fc20e413c29021754d2df80a6b8e035c6fe1e700e96a4c808c7c71a1
+    checksum: 43a38caad4abd2e5c29b7a3c5b830496e5b71ac5367201add6cffdbaf23b0b1d
     created: '2025-12-17T19:59:34.706075+00:00'
-    modified: '2026-02-07T20:41:32.741033+00:00'
+    modified: '2026-02-07T20:45:13.131266+00:00'
     owner: nickarrow
   The Starforged/Truths.md:
     checksum: f7a74ccce0b955ccb36b258c578806f7eb571d1dcbec8e9428e0171bb0c03711
