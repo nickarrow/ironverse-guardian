@@ -76,9 +76,9 @@ files:
     modified: '2026-02-06T16:35:48.015356+00:00'
     owner: nepturnal
   The Starforged/Characters/Jett Foley/Jett Foley.md:
-    checksum: 15e83e1e17b94a97be11f0490057dba269b3b2a82d9e74c63316cfdb5938bb69
+    checksum: 64bddbeda1cba3b1a9f61e58c02aab2a33d6928ebece6150214bd4390eb60be4
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-06T08:25:37.630193+00:00'
+    modified: '2026-02-07T01:52:46.996604+00:00'
     owner: thathulsguy
   The Starforged/Characters/NPCs/Epathus-Barabas Serrato.md:
     checksum: 6707d1d6501bb7309370189d2b69c61d515170286ef132003c98d35f9f837873
@@ -224,6 +224,11 @@ files:
     checksum: 5480d9ce71b2112510e4447cfe0f7e7f715ac918d099238a0f2bd79958f25a74
     created: '2026-02-06T08:25:37.630493+00:00'
     modified: '2026-02-06T08:25:37.630493+00:00'
+    owner: thathulsguy
+  The Starforged/Journals/Jett/Jett 03 - Failsafe.md:
+    checksum: 1b531c5b7374c7709ea3e178286aea3930a60dadad147e54bf8399697991d1c9
+    created: '2026-02-07T01:52:46.996780+00:00'
+    modified: '2026-02-07T01:52:46.996780+00:00'
     owner: thathulsguy
   The Starforged/Journals/Sable/Sable 00 - The Black Service Package.md:
     checksum: d2ade19bcc64e8581df60bc41d9b86bf1a3235cef01e9d0f2afcd492791441a4
@@ -456,9 +461,9 @@ files:
     modified: '2026-02-06T08:25:37.630890+00:00'
     owner: thathulsguy
   The Starforged/Progress/Jett/Find Sofia's missing ship.md:
-    checksum: ca80106c347ab588378ee8a7256bbf7d2b6b04ff4a43b922e43bdd05c1754ff0
+    checksum: 99a237b71190480ce0d6a30b79049e819eddd1c108261e03b787a9293798609a
     created: '2026-02-06T04:00:46.177958+00:00'
-    modified: '2026-02-06T08:25:37.630996+00:00'
+    modified: '2026-02-07T01:52:46.996821+00:00'
     owner: thathulsguy
   The Starforged/Progress/Jett/Find and fulfil my destiny.md:
     checksum: 41a13df22fe5546cdaab550a41a4651beadd81f8a6f2bfc89de5daf062bbcf12
