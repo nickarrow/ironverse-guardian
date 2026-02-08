@@ -328,9 +328,9 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: af6b7c6fee57857002a9aebd3741bf5424e81f65f096ec6bd0e7190c8940f707
+    checksum: 32ba70bd619e271d9e594bf5d29aabb7b758f6d69cb4171e6816556901f341fb
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-08T02:13:38.212982+00:00'
+    modified: '2026-02-08T23:23:43.981692+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
@@ -357,10 +357,20 @@ files:
     created: '2026-02-08T02:04:24.632172+00:00'
     modified: '2026-02-08T02:13:38.213179+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Journals/Jett/Jett 05 -.md:
-    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-    created: '2026-02-08T02:28:04.877256+00:00'
-    modified: '2026-02-08T02:28:04.877256+00:00'
+  The Starforged/Campaign Jett Foley/Journals/Jett/Jett 05 - Return to the Scene.md:
+    checksum: e998ce385abbdb8caf5118aee55c36eea0c82a73e77d14d925e369b670e774d7
+    created: '2026-02-08T23:23:43.981816+00:00'
+    modified: '2026-02-08T23:23:43.981816+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/05a - Get medical supplies for The Snakepit.md:
+    checksum: 73e9d2f3446bce9eb3de93ea469cd287d2d95acb99beef0eca3b39cf5b66b079
+    created: '2026-02-08T23:23:43.981896+00:00'
+    modified: '2026-02-08T23:23:43.981896+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/05b - Investigate the damaged Ascendancy ship.md:
+    checksum: f5b383fbcc2d94e51a1c70f605d1d798feef9ab89c497b491818d321bac1ce16
+    created: '2026-02-08T23:23:43.981954+00:00'
+    modified: '2026-02-08T23:23:43.981954+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Connection Eris.md:
     checksum: 16094d48c11ed84eebe4402b6f1e84aa692b0eaf590fa95c675563254099d2fa
@@ -368,9 +378,9 @@ files:
     modified: '2026-02-08T02:13:38.213220+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Connection Machete.md:
-    checksum: 1cefd3d54a11ef2927a1338da5215ed5c9d0f413a32aa66453a04ed4b3eb7d76
+    checksum: 1a96a8edd10f67f49ed038be09ea5d11edccbb4d45c31da9819fb2b02e60c590
     created: '2026-02-06T04:00:46.178179+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-08T23:23:43.981988+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
@@ -383,9 +393,9 @@ files:
     modified: '2026-02-08T02:13:38.213254+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md:
-    checksum: 2b4ac54441ffa74ae766f826dce5d2bdb594e8e7bf83d7b61ddfd8588e1ea8a5
+    checksum: e42ecf3996cc37e035ff8aad6f0e0f43c248f6a0337b128d345cb6a883eab995
     created: '2026-02-05T16:52:14.277390+00:00'
-    modified: '2026-02-08T02:13:38.213284+00:00'
+    modified: '2026-02-08T23:23:43.982017+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find out who is following Shen.md:
     checksum: 6712c8fc2036ce535bf71bb7a3a0538a480c244377f72926e4547eceb1b31122
@@ -628,9 +638,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
   The Starforged/Locations/Planets/Erra.md:
-    checksum: f90c188f8e53d3799a5b4d45feba974b7cf53ff38638b349a600d97c87d2661b
+    checksum: 2b467d590a8a794db28bbcf0abc54fc2401418d86d2bdc80ebca5d6e46309ca9
     created: '2026-02-06T04:00:46.177713+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-08T23:23:43.982050+00:00'
     owner: thathulsguy
   The Starforged/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
@@ -668,9 +678,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
   The Starforged/Locations/Settlements/Paxton Memorial.md:
-    checksum: 8354187e9717b4496e0837b4f486b12ad86c7981f3dd296a0034eb8468a3cf2f
+    checksum: 0d601c6d26373712e90f77fe5318fbac939ba8daa577d53cf699df8f85b0f1c0
     created: '2026-02-06T04:00:46.177789+00:00'
-    modified: '2026-02-08T02:16:15.113352+00:00'
+    modified: '2026-02-08T23:23:43.982080+00:00'
     owner: thathulsguy
   The Starforged/Locations/Settlements/Pinnacle.md:
     checksum: 88c3fd567094a6d58353bdad72b5e389ee71eba99b111f7681ccea626f89e091
