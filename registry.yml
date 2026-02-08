@@ -323,9 +323,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: 8dbba3dffdb97ce0ce03e696c49563e6d4ec8d9392298fbb283270e4651692cd
+    checksum: af6b7c6fee57857002a9aebd3741bf5424e81f65f096ec6bd0e7190c8940f707
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-08T02:13:38.212982+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
@@ -347,10 +347,15 @@ files:
     created: '2026-02-07T01:52:46.996780+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Journals/Jett/Jett 04 - Battle Stations.md:
+    checksum: 244b9423924319bb79903323debbdce5ce04bedb4158bde8582e05a47127a436
+    created: '2026-02-08T02:04:24.632172+00:00'
+    modified: '2026-02-08T02:13:38.213179+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Connection Eris.md:
-    checksum: cd7835ec21b1612a7aea5ec7b981f59654d0dfd0b1f3be69a7439b592df48f0b
+    checksum: 16094d48c11ed84eebe4402b6f1e84aa692b0eaf590fa95c675563254099d2fa
     created: '2026-02-06T04:00:46.178051+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-08T02:13:38.213220+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Connection Machete.md:
     checksum: 1cefd3d54a11ef2927a1338da5215ed5c9d0f413a32aa66453a04ed4b3eb7d76
@@ -363,19 +368,24 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia's missing ship.md:
-    checksum: 0357c797621db0a94681d501dab98c91b88f4d30523d11e64dc2de94bf277bb6
+    checksum: a8ff746001a5ee59e691032e343e82c4a3a710bfdd542a3786d326d7c4929d9f
     created: '2026-02-06T04:00:46.177958+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-08T02:13:38.213254+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md:
-    checksum: 8e4876ebbd192d2fb8f80fee9a6de0bc881b2ea2d21ee75437973a5a14bad5c3
+    checksum: 2b4ac54441ffa74ae766f826dce5d2bdb594e8e7bf83d7b61ddfd8588e1ea8a5
     created: '2026-02-05T16:52:14.277390+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-08T02:13:38.213284+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find out who is following Shen.md:
     checksum: 6712c8fc2036ce535bf71bb7a3a0538a480c244377f72926e4547eceb1b31122
     created: '2026-02-06T04:00:46.178366+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Jett 04-a Repel the Ascendancy.md:
+    checksum: 861a76f3c37dc454afc3c13706484ef6e1735fdcc8d4c97e48b885d511fc1b17
+    created: '2026-02-08T02:04:24.632315+00:00'
+    modified: '2026-02-08T02:13:38.213389+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Index.md:
     checksum: 8c8160c596a6b72a7a668e041694c527eda38fdcc6e798e36a37e4c20b35bbc2
@@ -522,11 +532,6 @@ files:
     created: '2026-01-09T05:03:26.733566+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
-  The Starforged/Characters/NPCs/Eris.md:
-    checksum: 9297402773dc1b7829ea34f75c976902de9e524c9cbd4ee27c18d53385406eb5
-    created: '2026-02-08T02:04:24.632021+00:00'
-    modified: '2026-02-08T02:04:24.632021+00:00'
-    owner: thathulsguy
   The Starforged/Epistolary/Epistolary Letters - The Starforged.md:
     checksum: 92b48abd52bcba98bf871dd7e2c0d90f386537d0e2aaca7018e95f4491a2a012
     created: '2025-12-26T06:21:16.116471+00:00'
@@ -591,11 +596,6 @@ files:
     checksum: 5b89122b8c81c06e561b9e31af4b138cb34f01f28e7cd1a57d79b187c694c4aa
     created: '2026-02-06T04:00:46.177402+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: thathulsguy
-  The Starforged/Journals/Jett/Jett 04 - Battle Stations.md:
-    checksum: 244b9423924319bb79903323debbdce5ce04bedb4158bde8582e05a47127a436
-    created: '2026-02-08T02:04:24.632172+00:00'
-    modified: '2026-02-08T02:04:24.632172+00:00'
     owner: thathulsguy
   The Starforged/Locations/Map - Devil's Chain.excalidraw.md:
     checksum: c47cbc8ba70404b7ff1c7c67f23597cc4baccebbfba141313acc6cf21d25072f
@@ -692,10 +692,15 @@ files:
     created: '2026-01-09T03:25:57.169336+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/NPCs/Eris.md:
+    checksum: 9297402773dc1b7829ea34f75c976902de9e524c9cbd4ee27c18d53385406eb5
+    created: '2026-02-08T02:04:24.632021+00:00'
+    modified: '2026-02-08T02:13:38.213479+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Jett's Minor Characters.md:
-    checksum: 9d731cbfdb285f3ca6d234f84e6ee321253ca13b443e3828f424fc473a674a5f
+    checksum: 2ab23b6c33d0ec701b4a5e26d1893b21382208840eb5b551fdd4be00759a8eca
     created: '2026-02-06T08:25:37.630332+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-08T02:13:38.213540+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Leela Asper.md:
     checksum: f60e97893eb10514d03df216c18fe698f566da5cb4ae03816a3542d0ff8a9284
@@ -722,11 +727,6 @@ files:
     created: '2026-01-12T17:59:42.857550+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
-  The Starforged/Progress/Jett/Jett 04-a Repel the Ascendancy.md:
-    checksum: 861a76f3c37dc454afc3c13706484ef6e1735fdcc8d4c97e48b885d511fc1b17
-    created: '2026-02-08T02:04:24.632315+00:00'
-    modified: '2026-02-08T02:04:24.632315+00:00'
-    owner: thathulsguy
   The Starforged/Truths.md:
     checksum: c8bbaeb120411d94149eefe269479b36f23ad209baffdafccfc54d3193218266
     created: '2025-12-17T19:59:34.706109+00:00'
