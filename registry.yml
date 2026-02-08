@@ -213,9 +213,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
   The Starforged/Campaign Barille Black/Campaign Barille Black.md:
-    checksum: 84af081276166d5effef40fff95cdf95c4dd907b86cb59c16f39ab6503013bb6
+    checksum: f89964f84cb52db76f23ae4425b558a4db874ca26c1e99f1c1dd0775dea028ea
     created: '2026-02-07T21:59:32.464447+00:00'
-    modified: '2026-02-07T22:35:05.774785+00:00'
+    modified: '2026-02-08T20:20:07.774959+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black - Gear.md:
     checksum: f163cdda17de3b8f547b608a28eb0128e86afd37ba3509fd59c826f5db0544b2
@@ -737,6 +737,11 @@ files:
     created: '2026-01-12T17:59:42.857550+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
+  The Starforged/The Starforged README.md:
+    checksum: f68dee77f59a5e651480d7cd7573e5da1e41fc7e373f3f25c101f16a320bb5ca
+    created: '2026-02-08T20:20:07.775044+00:00'
+    modified: '2026-02-08T20:20:07.775044+00:00'
+    owner: nickarrow
   The Starforged/Truths.md:
     checksum: c8bbaeb120411d94149eefe269479b36f23ad209baffdafccfc54d3193218266
     created: '2025-12-17T19:59:34.706109+00:00'
