@@ -522,6 +522,11 @@ files:
     created: '2026-01-09T05:03:26.733566+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
+  The Starforged/Characters/NPCs/Eris.md:
+    checksum: 9297402773dc1b7829ea34f75c976902de9e524c9cbd4ee27c18d53385406eb5
+    created: '2026-02-08T02:04:24.632021+00:00'
+    modified: '2026-02-08T02:04:24.632021+00:00'
+    owner: thathulsguy
   The Starforged/Epistolary/Epistolary Letters - The Starforged.md:
     checksum: 92b48abd52bcba98bf871dd7e2c0d90f386537d0e2aaca7018e95f4491a2a012
     created: '2025-12-26T06:21:16.116471+00:00'
@@ -587,6 +592,11 @@ files:
     created: '2026-02-06T04:00:46.177402+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: thathulsguy
+  The Starforged/Journals/Jett/Jett 04 - Battle Stations.md:
+    checksum: 244b9423924319bb79903323debbdce5ce04bedb4158bde8582e05a47127a436
+    created: '2026-02-08T02:04:24.632172+00:00'
+    modified: '2026-02-08T02:04:24.632172+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Map - Devil's Chain.excalidraw.md:
     checksum: c47cbc8ba70404b7ff1c7c67f23597cc4baccebbfba141313acc6cf21d25072f
     created: '2025-12-17T20:28:29.565815+00:00'
@@ -648,9 +658,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
   The Starforged/Locations/Settlements/Paxton Memorial.md:
-    checksum: 1f97a069b16b14c7bb0f852461233aa78b8a2d9e7c5731d5ba7fbe9207ad34cc
+    checksum: b3bf82db211cf354e53f8dc22bff0f71220ad7490b95a50efe2e7efbc6c3d46c
     created: '2026-02-06T04:00:46.177789+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-08T02:04:24.632216+00:00'
     owner: thathulsguy
   The Starforged/Locations/Settlements/Pinnacle.md:
     checksum: 88c3fd567094a6d58353bdad72b5e389ee71eba99b111f7681ccea626f89e091
@@ -712,6 +722,11 @@ files:
     created: '2026-01-12T17:59:42.857550+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
+  The Starforged/Progress/Jett/Jett 04-a Repel the Ascendancy.md:
+    checksum: 861a76f3c37dc454afc3c13706484ef6e1735fdcc8d4c97e48b885d511fc1b17
+    created: '2026-02-08T02:04:24.632315+00:00'
+    modified: '2026-02-08T02:04:24.632315+00:00'
+    owner: thathulsguy
   The Starforged/Truths.md:
     checksum: c8bbaeb120411d94149eefe269479b36f23ad209baffdafccfc54d3193218266
     created: '2025-12-17T19:59:34.706109+00:00'
