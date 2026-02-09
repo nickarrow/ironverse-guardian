@@ -328,9 +328,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: 32ba70bd619e271d9e594bf5d29aabb7b758f6d69cb4171e6816556901f341fb
+    checksum: 0afa46008c3701ab05963bbbb590c5d615b2bf654b23901797a64c00c770f276
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-08T23:23:43.981692+00:00'
+    modified: '2026-02-09T00:04:46.235822+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Drafts/Untitled.md:
+    checksum: 1cf9467094af0f8a8c5f31967c72dbfb9e656de1fc0ba5d88eaa1ab329bb89d1
+    created: '2026-02-09T00:04:46.235968+00:00'
+    modified: '2026-02-09T00:04:46.235968+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
@@ -363,14 +368,14 @@ files:
     modified: '2026-02-08T23:23:43.981816+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/05a - Get medical supplies for The Snakepit.md:
-    checksum: 73e9d2f3446bce9eb3de93ea469cd287d2d95acb99beef0eca3b39cf5b66b079
+    checksum: ca95af72c5141d241ab753a033a1cd3cb1f7330fc0a15af63a017e77adb0fd96
     created: '2026-02-08T23:23:43.981896+00:00'
-    modified: '2026-02-08T23:23:43.981896+00:00'
+    modified: '2026-02-09T00:04:46.236005+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/05b - Investigate the damaged Ascendancy ship.md:
-    checksum: f5b383fbcc2d94e51a1c70f605d1d798feef9ab89c497b491818d321bac1ce16
+    checksum: 481024c3032bc184faaa22b756abc51cdc225f808a72bb4f6074b606c5fa5d3d
     created: '2026-02-08T23:23:43.981954+00:00'
-    modified: '2026-02-08T23:23:43.981954+00:00'
+    modified: '2026-02-09T00:04:46.236035+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Connection Eris.md:
     checksum: 16094d48c11ed84eebe4402b6f1e84aa692b0eaf590fa95c675563254099d2fa
