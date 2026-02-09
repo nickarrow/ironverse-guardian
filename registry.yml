@@ -427,20 +427,20 @@ files:
     created: '2026-01-29T05:19:09.768603+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
-  The Starforged/Campaign Sable Rowe/Journals/Sable/Sable 00 - The Black Service Package.md:
-    checksum: 347cf7c3c27878e8fb55d17b41ac0e71486e92d3ea572754d0913fc8184ac88e
+  The Starforged/Campaign Sable Rowe/Journals/Sable 00 - The Black Service Package.md:
+    checksum: ab54fdb52e86de9e689ebd7d48110001a92b3bc74911552d754a70325d5c7926
     created: '2026-01-29T20:14:24.024287+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-09T03:52:04.764541+00:00'
     owner: fragile-entropy
-  The Starforged/Campaign Sable Rowe/Journals/Sable/Sable 01 - Boy Trouble & Close Encounters.md:
-    checksum: 1ed2b798ecb3fbb9337d3e29070e54dc1f8f8ee7bfd4c89e88c7121d1ab52016
+  The Starforged/Campaign Sable Rowe/Journals/Sable 01 - Boy Trouble & Close Encounters.md:
+    checksum: 480a6eafb26bf2c7d8f26c5b89c3720566cb3719448431ecb930b438d0e8da63
     created: '2026-01-30T00:11:24.931595+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-09T03:52:04.764666+00:00'
     owner: fragile-entropy
-  The Starforged/Campaign Sable Rowe/Journals/Sable/Sable 02.md:
-    checksum: dba1ff7dd02edec48c8acf71b3db91b7446650060a224bf7ce39a649b6d6a105
+  The Starforged/Campaign Sable Rowe/Journals/Sable 02.md:
+    checksum: 565d02a260736505fd54b74c64a133e2d004d2044db53286f7779769364dbd39
     created: '2026-02-06T01:00:29.611118+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-09T03:52:04.764750+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Courier Job Glimmer Outpost.md:
     checksum: e975284ffa5521d2a67e8f9f2230806dbbc2c9477c6327a3b1cb3254b769b683
@@ -909,9 +909,6 @@ folders:
     created: '2026-02-07T22:21:52.606000+00:00'
     structural_owner: nickarrow
   The Starforged/Campaign Sable Rowe/Journals:
-    created: '2026-02-07T22:21:52.606000+00:00'
-    structural_owner: nickarrow
-  The Starforged/Campaign Sable Rowe/Journals/Sable:
     created: '2026-02-07T22:21:52.606000+00:00'
     structural_owner: nickarrow
   The Starforged/Campaign Sable Rowe/Progress:
