@@ -267,25 +267,25 @@ files:
     created: '2026-01-31T23:04:10.585627+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
-  The Starforged/Campaign Echo 'Phantom' Stirling/Characters/Echo 'Phantom' Stirling/Echo 'Phantom' Stirling.md:
-    checksum: a9ba998751a3767cd8633a46bc92bd32217239c150adc27ab118b797b6c12d41
+  The Starforged/Campaign Echo 'Phantom' Stirling/Characters/Echo 'Phantom' Stirling.md:
+    checksum: 9ab29e8f43283793b55152738cdd49ccbb53eff4a05d351391c8b8eb66832cd6
     created: '2026-01-12T17:59:42.857432+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-09T13:18:16.284279+00:00'
     owner: nepturnal
-  The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Echo/The Hourglass protections overwhelm Echo.md:
-    checksum: b505972a196f3150c085b94ee244423a90eb4f6f077bce3b8b6a91ebb1ef3f25
+  The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Completed/The Hourglass protections overwhelm Echo.md:
+    checksum: 23e9b4808f3ce6b847a2d01f3949f5a3a2ebf50929d7c119273a916fc966503e
     created: '2026-02-02T17:00:19.550378+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-09T13:18:16.284418+00:00'
     owner: nepturnal
-  The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo/Echo 01 - From the past.md:
-    checksum: a4716d56edd3629a0de1668235df264f6a10e67b36ae44b6f21a61992d77941a
+  The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 01 - From the past.md:
+    checksum: e6f4351d3935c7e6ccbacbe894773b16d14757f6ba1e680ba8cd10d7d2f6ade2
     created: '2026-01-12T17:59:42.857650+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-09T13:18:16.284535+00:00'
     owner: nepturnal
-  The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo/Echo 02 - The Bones of Giants.md:
-    checksum: a3172faf74a89d326b3795c9795b971456389a32efbb1bcea5b867846b48e305
+  The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 02 - The Bones of Giants.md:
+    checksum: f6274816d362c80d13968284f427dfce5a521868462adb934351910aa6fcc5f2
     created: '2026-01-19T17:23:56.005152+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-09T13:18:16.284652+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Escape the Statues.md:
     checksum: 61ad5613ba3725cfcba139153c52243407026854dcd0274b6ac49e6c1a87cf99
@@ -856,19 +856,10 @@ folders:
   The Starforged/Campaign Echo 'Phantom' Stirling/Characters:
     created: '2026-02-07T22:21:52.606000+00:00'
     structural_owner: nickarrow
-  The Starforged/Campaign Echo 'Phantom' Stirling/Characters/Echo 'Phantom' Stirling:
-    created: '2026-02-07T22:21:52.606000+00:00'
-    structural_owner: nickarrow
   The Starforged/Campaign Echo 'Phantom' Stirling/Clocks:
     created: '2026-02-07T22:21:52.606000+00:00'
     structural_owner: nickarrow
-  The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Echo:
-    created: '2026-02-07T22:21:52.606000+00:00'
-    structural_owner: nickarrow
   The Starforged/Campaign Echo 'Phantom' Stirling/Journals:
-    created: '2026-02-07T22:21:52.606000+00:00'
-    structural_owner: nickarrow
-  The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo:
     created: '2026-02-07T22:21:52.606000+00:00'
     structural_owner: nickarrow
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress:
