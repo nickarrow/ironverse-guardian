@@ -428,9 +428,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: 0ec8ca7aaa7a774a8dd190efe06fcdde4df90da4924096e73fff2c7d1812aa2a
+    checksum: f832e01d5616ba46273a083a2abafe8a682d703861edc7e1e29a9e5ffd5537c4
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-09T21:01:58.267638+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Clocks/Sable/The Electrical Storm Overtakes the Port.md:
     checksum: 7354982fddcb192563f31836a6c07077e237582366f9d950d9b6ca8f54285da7
@@ -443,14 +443,14 @@ files:
     modified: '2026-02-09T03:52:04.764541+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Journals/Sable 01 - Boy Trouble & Close Encounters.md:
-    checksum: 480a6eafb26bf2c7d8f26c5b89c3720566cb3719448431ecb930b438d0e8da63
+    checksum: ffa4076f65c7579739a1d79029e285fa2c198badc979e86542eeac369e86414a
     created: '2026-01-30T00:11:24.931595+00:00'
-    modified: '2026-02-09T03:52:04.764666+00:00'
+    modified: '2026-02-09T21:01:58.267718+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Journals/Sable 02.md:
-    checksum: 565d02a260736505fd54b74c64a133e2d004d2044db53286f7779769364dbd39
+    checksum: ec306437db6d6b5babfe91657a98d62f6fef93cafeffe10143c9777749f4f5dd
     created: '2026-02-06T01:00:29.611118+00:00'
-    modified: '2026-02-09T03:52:04.764750+00:00'
+    modified: '2026-02-09T21:01:58.267760+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Courier Job Glimmer Outpost.md:
     checksum: e975284ffa5521d2a67e8f9f2230806dbbc2c9477c6327a3b1cb3254b769b683
@@ -652,6 +652,11 @@ files:
     created: '2026-02-06T04:00:46.177713+00:00'
     modified: '2026-02-08T23:23:43.982050+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Planets/Ory.md:
+    checksum: 29048f1fd5203ddca5ebf85ca21c761ace39ca7b225a39317a2784be391eb72b
+    created: '2026-02-09T21:01:58.267855+00:00'
+    modified: '2026-02-09T21:01:58.267855+00:00'
+    owner: fragile-entropy
   The Starforged/Locations/Planets/Pyla.md:
     checksum: b7820750ea1f3c2a3ed52226b33a36742d303472233dd12180bcf1affda97021
     created: '2026-02-09T05:32:01.138930+00:00'
@@ -691,6 +696,11 @@ files:
     checksum: 7cae78119aa7a3ad19582cb0cd50ad1ccbb5af5c33258095317b2ae7156df5b6
     created: '2026-01-30T21:04:00.118638+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
+    owner: fragile-entropy
+  The Starforged/Locations/Settlements/Meridian.md:
+    checksum: 155501472ca89059c0c9e4c0ecd1bcc10ff35d5d88bc98092697260ad8428f58
+    created: '2026-02-09T21:01:58.267931+00:00'
+    modified: '2026-02-09T21:01:58.267931+00:00'
     owner: fragile-entropy
   The Starforged/Locations/Settlements/Paxton Memorial.md:
     checksum: 0d601c6d26373712e90f77fe5318fbac939ba8daa577d53cf699df8f85b0f1c0
