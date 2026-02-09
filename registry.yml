@@ -328,14 +328,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: 6a80d1b1c2fa1baa3d737182a1dad21a75c195998ab727cc43a3f5bd7670058b
+    checksum: 795d4d4e06aa3124751bdf7930c9ab0f5f152406275e4b6f35139a08b801ad58
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-09T03:55:17.996685+00:00'
+    modified: '2026-02-09T05:32:01.138609+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled.md:
-    checksum: 85a4fa7edc53f20ae8a51c2bcf932e1d91283c481e5d67b231d4cd4ad91b40ba
+    checksum: 2db1c2ed64679105ef9296f8c933891357995fd290ef3f013d8e9f64f3d39f43
     created: '2026-02-09T00:04:46.235968+00:00'
-    modified: '2026-02-09T03:55:17.996750+00:00'
+    modified: '2026-02-09T05:32:01.138671+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
@@ -387,6 +387,11 @@ files:
     created: '2026-02-06T04:00:46.178179+00:00'
     modified: '2026-02-09T03:55:17.996818+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/06a - Expedition to find medical supplies.md:
+    checksum: de0d9d00a14a7fb91f483c60e65f420679dd0b7ebaaa148a82ea6063b9490250
+    created: '2026-02-09T05:32:01.138829+00:00'
+    modified: '2026-02-09T05:32:01.138829+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
     created: '2026-02-06T04:00:46.178252+00:00'
@@ -398,9 +403,9 @@ files:
     modified: '2026-02-08T02:13:38.213254+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md:
-    checksum: e42ecf3996cc37e035ff8aad6f0e0f43c248f6a0337b128d345cb6a883eab995
+    checksum: c00e6c3f14d0402654b4e2156d7e1a174e0584a8e587765c7f894a4b7e99bb42
     created: '2026-02-05T16:52:14.277390+00:00'
-    modified: '2026-02-08T23:23:43.982017+00:00'
+    modified: '2026-02-09T05:32:01.138866+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find out who is following Shen.md:
     checksum: 6712c8fc2036ce535bf71bb7a3a0538a480c244377f72926e4547eceb1b31122
@@ -647,6 +652,11 @@ files:
     created: '2026-02-06T04:00:46.177713+00:00'
     modified: '2026-02-08T23:23:43.982050+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Planets/Pyla.md:
+    checksum: b7820750ea1f3c2a3ed52226b33a36742d303472233dd12180bcf1affda97021
+    created: '2026-02-09T05:32:01.138930+00:00'
+    modified: '2026-02-09T05:32:01.138930+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
     created: '2025-12-31T05:31:28.285319+00:00'
@@ -723,9 +733,9 @@ files:
     modified: '2026-02-08T02:13:38.213479+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Jett's Minor Characters.md:
-    checksum: 2ab23b6c33d0ec701b4a5e26d1893b21382208840eb5b551fdd4be00759a8eca
+    checksum: ab8463407285d24ccd604e3d8fc84a4bd7d2da998949edf304aea096171370cc
     created: '2026-02-06T08:25:37.630332+00:00'
-    modified: '2026-02-08T02:13:38.213540+00:00'
+    modified: '2026-02-09T05:32:01.138967+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Leela Asper.md:
     checksum: f60e97893eb10514d03df216c18fe698f566da5cb4ae03816a3542d0ff8a9284
