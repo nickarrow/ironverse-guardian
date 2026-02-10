@@ -328,14 +328,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: 4f85d7c6b4a56acf5d2c4549a76cfc36d7d5c7a68c5b7603c674c4a657d45c02
+    checksum: cef5a3a89e0156aff78ed91433401a5ba14f4961d2b6a09e76b06bc17119931d
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-09T16:27:06.443431+00:00'
+    modified: '2026-02-10T06:00:22.517985+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled.md:
-    checksum: 805dbd248486e83270bfb298cb3266a6150345c454ced8550d10a4a8bbd1f767
+    checksum: a63aa7b11cc3215e8db2731ef0ae9f925ec52878a7b74bd1a629d626d56f32c5
     created: '2026-02-09T00:04:46.235968+00:00'
-    modified: '2026-02-09T16:02:41.192689+00:00'
+    modified: '2026-02-10T06:00:22.518045+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
@@ -397,6 +397,11 @@ files:
     created: '2026-02-09T05:32:01.138829+00:00'
     modified: '2026-02-09T10:34:36.907047+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/07b - Expedition to Pyla.md:
+    checksum: 696ec59dfecec951bb46df3c873ebb914f1541a18c1c786c042c0b05fae9f15f
+    created: '2026-02-10T06:00:22.518190+00:00'
+    modified: '2026-02-10T06:00:22.518190+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
     created: '2026-02-06T04:00:46.178252+00:00'
@@ -421,6 +426,11 @@ files:
     checksum: 861a76f3c37dc454afc3c13706484ef6e1735fdcc8d4c97e48b885d511fc1b17
     created: '2026-02-08T02:04:24.632315+00:00'
     modified: '2026-02-08T02:13:38.213389+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md:
+    checksum: 12c09429b8922341952d603bbd739c14972c2028241398de92778d3191e7d508
+    created: '2026-02-10T06:00:22.518295+00:00'
+    modified: '2026-02-10T06:00:22.518295+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -732,10 +742,20 @@ files:
     created: '2025-12-17T20:28:29.566400+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Locations/Settlements/Sagan.md:
+    checksum: 5fbe8ad006268720c9d399de8f8824bb5e74a076986d609342825821038ba237
+    created: '2026-02-10T06:00:22.518356+00:00'
+    modified: '2026-02-10T06:00:22.518356+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Settlements/The Snakepit.md:
     checksum: f5751c3528f685e822ec1fe65008fc4c2cfa0b2f23d2f235db89a0c5e11247a6
     created: '2026-02-06T04:00:46.177864+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
+    owner: thathulsguy
+  The Starforged/Locations/Vaults/Hewligan's Hope.md:
+    checksum: e349dc7ab6a8f2d031fa0172acd6b6e82561682ca6a774c7ef0ddf8e478e9b09
+    created: '2026-02-10T06:00:22.518414+00:00'
+    modified: '2026-02-10T06:00:22.518414+00:00'
     owner: thathulsguy
   The Starforged/Locations/Vaults/Mausefort Vault.md:
     checksum: e7108ff624d831117907160f04b3e63e50898dc7432490dc0b0d6747fcb77821
