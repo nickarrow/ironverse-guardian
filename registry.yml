@@ -443,9 +443,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: f832e01d5616ba46273a083a2abafe8a682d703861edc7e1e29a9e5ffd5537c4
+    checksum: c28d93265149e8f86d206dc28a0757744dbde209ddca38794c445371eb0a8112
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-02-09T21:01:58.267638+00:00'
+    modified: '2026-02-11T02:47:43.789408+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Clocks/Sable/The Electrical Storm Overtakes the Port.md:
     checksum: 7354982fddcb192563f31836a6c07077e237582366f9d950d9b6ca8f54285da7
@@ -463,9 +463,19 @@ files:
     modified: '2026-02-09T21:01:58.267718+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Journals/Sable 02.md:
-    checksum: a5091fca77e725166ab5093043dfe5ce51e2f4f9400431222ef7b3b9013eda87
+    checksum: c9bfc345525da468b3ecbc00b291799d4bc6623231255a113f5c6b1acf2cc19f
     created: '2026-02-06T01:00:29.611118+00:00'
-    modified: '2026-02-10T02:17:21.695202+00:00'
+    modified: '2026-02-11T02:47:43.789463+00:00'
+    owner: fragile-entropy
+  The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md:
+    checksum: 6fc3d5890c829b171fa11b657ffd895650829e38cd600fce6cdff794597306ad
+    created: '2026-02-11T02:47:43.789542+00:00'
+    modified: '2026-02-11T02:47:43.789542+00:00'
+    owner: fragile-entropy
+  The Starforged/Campaign Sable Rowe/Progress/Ganden's Courier Job.md:
+    checksum: 7c4417d19d75a93dbb3c99c4854a76c856a31ab0eb603bcdd3a1aa3793695ae1
+    created: '2026-02-11T02:47:43.789619+00:00'
+    modified: '2026-02-11T02:47:43.789619+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Courier Job Glimmer Outpost.md:
     checksum: e975284ffa5521d2a67e8f9f2230806dbbc2c9477c6327a3b1cb3254b769b683
