@@ -333,14 +333,14 @@ files:
     modified: '2026-02-11T05:05:18.410028+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 1.md:
-    checksum: f8be5ad9f8e95bec5dfdffc6da755ea3318ed211b825fe488fc406dba49d0b9e
+    checksum: 508b69184c0215e5ffc2bc6d72361359432b8e8268bd02c0a913858d23bc8790
     created: '2026-02-11T05:05:18.410156+00:00'
-    modified: '2026-02-11T14:05:10.739607+00:00'
+    modified: '2026-02-11T15:31:11.546745+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled.md:
-    checksum: 951ab08f990795e1ec81f5a06eae1f2a12528d883865fb0494e1c839dd1f83ff
+    checksum: 2a841bb29f5ddedb19751bb57568c763fed78dc48efbcb0f2ea75b594b23ba58
     created: '2026-02-11T05:05:18.410256+00:00'
-    modified: '2026-02-11T14:05:10.739663+00:00'
+    modified: '2026-02-11T15:31:11.546816+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
@@ -373,9 +373,9 @@ files:
     modified: '2026-02-08T23:23:43.981816+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 06 - Full Force.md:
-    checksum: a14e996eb5db64de291b76342dee5872cbb78209545d7dff7dafb8fe2b47bccd
+    checksum: f9df04affcdada5632eb93ba1c23c2d18b4ef91caa71edbefb3f74cb7d9454ee
     created: '2026-02-09T16:02:41.192636+00:00'
-    modified: '2026-02-10T00:00:27.951476+00:00'
+    modified: '2026-02-11T15:31:11.546853+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 07 - Sagan.md:
     checksum: 4053eeb2ee677228fb876f373ad31ea21c3bf2be24f9d7b9bf9b440085377677
@@ -787,20 +787,25 @@ files:
     created: '2026-01-13T16:22:22.963950+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
+  The Starforged/NPCs/Bri.md:
+    checksum: e5153bd075129013ca9afae24009cfb6b09c02b4e7e63a42c0f5904233b183ed
+    created: '2026-02-11T15:31:11.546934+00:00'
+    modified: '2026-02-11T15:31:11.546934+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Epathus-Barabas Serrato.md:
     checksum: 94098b23b45f699d7737dcd618628a57916044dbc0c03c60f5df470f2d10054d
     created: '2026-01-09T03:25:57.169336+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/NPCs/Eris.md:
-    checksum: 9297402773dc1b7829ea34f75c976902de9e524c9cbd4ee27c18d53385406eb5
+    checksum: 066b29c4927be963e989811696ee567f0f8c03aee13a5b18866ad57ce0e6f1a1
     created: '2026-02-08T02:04:24.632021+00:00'
-    modified: '2026-02-08T02:13:38.213479+00:00'
+    modified: '2026-02-11T15:31:11.546959+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Jett's Minor Characters.md:
-    checksum: ab8463407285d24ccd604e3d8fc84a4bd7d2da998949edf304aea096171370cc
+    checksum: c77a25723db271b26518bfdf6ce1c2ffb6e5a784c47a6c9bcfd4edbb9e0dc239
     created: '2026-02-06T08:25:37.630332+00:00'
-    modified: '2026-02-09T05:32:01.138967+00:00'
+    modified: '2026-02-11T15:31:11.546984+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Leela Asper.md:
     checksum: f60e97893eb10514d03df216c18fe698f566da5cb4ae03816a3542d0ff8a9284
