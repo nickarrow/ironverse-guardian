@@ -268,9 +268,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Campaign Echo 'Phantom' Stirling/Characters/Echo 'Phantom' Stirling.md:
-    checksum: 9ab29e8f43283793b55152738cdd49ccbb53eff4a05d351391c8b8eb66832cd6
+    checksum: 6f00c304498b39bb8e8a86c675dcec150416a1209f0a67e524159369eaa7afc1
     created: '2026-01-12T17:59:42.857432+00:00'
-    modified: '2026-02-09T13:18:16.284279+00:00'
+    modified: '2026-02-11T23:33:41.795570+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Completed/The Hourglass protections overwhelm Echo.md:
     checksum: 23e9b4808f3ce6b847a2d01f3949f5a3a2ebf50929d7c119273a916fc966503e
@@ -283,9 +283,14 @@ files:
     modified: '2026-02-09T13:18:16.284535+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 02 - The Bones of Giants.md:
-    checksum: f6274816d362c80d13968284f427dfce5a521868462adb934351910aa6fcc5f2
+    checksum: 698c118a42b2850bb12daecac2f506370bd1f212b32cc68749d96dc38d3b0eec
     created: '2026-01-19T17:23:56.005152+00:00'
-    modified: '2026-02-09T13:18:16.284652+00:00'
+    modified: '2026-02-11T23:33:41.795653+00:00'
+    owner: nepturnal
+  The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 3 -.md:
+    checksum: 4a61643237f80c83c3baa03d0a660361c622048f7dec477062afb9004a2a659d
+    created: '2026-02-11T23:33:41.795744+00:00'
+    modified: '2026-02-11T23:33:41.795744+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Escape the Statues.md:
     checksum: 61ad5613ba3725cfcba139153c52243407026854dcd0274b6ac49e6c1a87cf99
@@ -318,9 +323,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Will Echo ever forgive Vesper.md:
-    checksum: c48b32f1bd5006aafbc7de9463b760fea57005bd1026d328eaa1aff89e217f3a
+    checksum: f4606ea81632ea17ede6d18023b5328674c3a4ecbff5800a0451ffd38c220854
     created: '2026-01-14T15:56:19.107526+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-11T23:33:41.795782+00:00'
     owner: nepturnal
   The Starforged/Campaign Jett Foley/Campaign Jett Foley.md:
     checksum: 4a8e6a1bbe8948955a9e07eb7b281f98f086bf38f9d50d029ca7ed092d9f5ddc
@@ -643,9 +648,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: thathulsguy
   The Starforged/Epistolary/Message 05 - Echo 'Phantom' Stirling.md:
-    checksum: a61f0c67dfd69678258e4adefca651a44ff89bc0064a46cf746cb330127634a2
+    checksum: c3bfc78aefa5613fc602479c713546238b5ee82874414bcc31750641cc0d988d
     created: '2026-02-06T17:55:25.795695+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-11T23:33:41.795816+00:00'
     owner: nepturnal
   The Starforged/Factions/Ascendancy of the Awakened Worlds.md:
     checksum: c9fba5968cff3e60966d248202d15c300148df36f629317e0cc137f11610507c
@@ -667,6 +672,11 @@ files:
     created: '2026-01-13T13:52:42.734217+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
+  The Starforged/Factions/Library of Protected Lore.md:
+    checksum: 03a08b9d7f0d8f08e025d4585bd16b5f204c5761e10d7915008951d591c1db53
+    created: '2026-02-11T23:33:41.795882+00:00'
+    modified: '2026-02-11T23:33:41.795882+00:00'
+    owner: nepturnal
   The Starforged/Factions/Risen Union.md:
     checksum: 0bfc4bd8f846d17c56f440c0ecec6411599373d9519b95303822009f05ace8d4
     created: '2025-12-17T20:28:29.565713+00:00'
@@ -791,6 +801,11 @@ files:
     checksum: e7108ff624d831117907160f04b3e63e50898dc7432490dc0b0d6747fcb77821
     created: '2026-01-13T16:22:22.963950+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
+    owner: nepturnal
+  The Starforged/NPCs/Aparna Santos.md:
+    checksum: cbbced7e825ac0d97946a8e46106235fd320e73847e3a8b34777e8d82c99cd9d
+    created: '2026-02-11T23:33:41.795947+00:00'
+    modified: '2026-02-11T23:33:41.795947+00:00'
     owner: nepturnal
   The Starforged/NPCs/Bri.md:
     checksum: e5153bd075129013ca9afae24009cfb6b09c02b4e7e63a42c0f5904233b183ed
