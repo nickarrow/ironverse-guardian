@@ -288,9 +288,9 @@ files:
     modified: '2026-02-11T23:33:41.795653+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 3 -.md:
-    checksum: 5a2f85146e878747d58908feaa755532b7d8a43780fd230d0a3533fcb7be30f6
+    checksum: 7b662e320bb65f3efe80b831934fbbbc3d24dca02179ec3cb68c1a90f637addb
     created: '2026-02-11T23:33:41.795744+00:00'
-    modified: '2026-02-11T23:36:47.699375+00:00'
+    modified: '2026-02-12T16:44:46.026661+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Escape the Statues.md:
     checksum: 61ad5613ba3725cfcba139153c52243407026854dcd0274b6ac49e6c1a87cf99
@@ -673,9 +673,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
   The Starforged/Factions/Library of Protected Lore.md:
-    checksum: 03a08b9d7f0d8f08e025d4585bd16b5f204c5761e10d7915008951d591c1db53
+    checksum: 61143579ae2530f38ddc0241bef5aa531e3f6ef0781187cf6a22c40fd1dfad4f
     created: '2026-02-11T23:33:41.795882+00:00'
-    modified: '2026-02-11T23:33:41.795882+00:00'
+    modified: '2026-02-12T16:44:46.026718+00:00'
     owner: nepturnal
   The Starforged/Factions/Risen Union.md:
     checksum: 0bfc4bd8f846d17c56f440c0ecec6411599373d9519b95303822009f05ace8d4
@@ -702,6 +702,11 @@ files:
     created: '2026-01-09T12:17:43.098209+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
+  The Starforged/Locations/Planets/Celadon-2.md:
+    checksum: 75ed97714b580b587269dcb3d6b22bba11443d02a304a31166d43e1cb756dec4
+    created: '2026-02-12T16:44:46.026818+00:00'
+    modified: '2026-02-12T16:44:46.026818+00:00'
+    owner: nepturnal
   The Starforged/Locations/Planets/Croifols-4.md:
     checksum: 9c9238276e1c5ccd20c51e47d56ef0b74ce0f40e55d314f64385ba29c92a1207
     created: '2026-01-13T16:22:22.963851+00:00'
@@ -787,6 +792,11 @@ files:
     created: '2026-02-10T06:00:22.518356+00:00'
     modified: '2026-02-10T06:00:22.518356+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Settlements/Tethys.md:
+    checksum: af9bf527f1e793dca08725ab85d2f2bd1f73edbbdf6225b232e62c7d778aa46d
+    created: '2026-02-12T16:44:46.026901+00:00'
+    modified: '2026-02-12T16:44:46.026901+00:00'
+    owner: nepturnal
   The Starforged/Locations/Settlements/The Snakepit.md:
     checksum: f5751c3528f685e822ec1fe65008fc4c2cfa0b2f23d2f235db89a0c5e11247a6
     created: '2026-02-06T04:00:46.177864+00:00'
