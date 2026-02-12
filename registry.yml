@@ -288,9 +288,9 @@ files:
     modified: '2026-02-11T23:33:41.795653+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 3 -.md:
-    checksum: 7b662e320bb65f3efe80b831934fbbbc3d24dca02179ec3cb68c1a90f637addb
+    checksum: c5d5170ce7a254afff8a370162cbfe1687839214e8e8b98f69f0e23fcd647203
     created: '2026-02-11T23:33:41.795744+00:00'
-    modified: '2026-02-12T16:44:46.026661+00:00'
+    modified: '2026-02-12T17:35:10.045331+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Escape the Statues.md:
     checksum: 61ad5613ba3725cfcba139153c52243407026854dcd0274b6ac49e6c1a87cf99
@@ -677,6 +677,11 @@ files:
     created: '2026-02-11T23:33:41.795882+00:00'
     modified: '2026-02-12T16:44:46.026718+00:00'
     owner: nepturnal
+  The Starforged/Factions/RU Splinter Group.md:
+    checksum: 5341b4d20fc4d1112f8f7f27e7da797597c0e8fdfa2e9957bbedb7c95610b95f
+    created: '2026-02-12T17:35:10.045435+00:00'
+    modified: '2026-02-12T17:35:10.045435+00:00'
+    owner: nepturnal
   The Starforged/Factions/Risen Union.md:
     checksum: 0bfc4bd8f846d17c56f440c0ecec6411599373d9519b95303822009f05ace8d4
     created: '2025-12-17T20:28:29.565713+00:00'
@@ -813,9 +818,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
   The Starforged/NPCs/Aparna Santos.md:
-    checksum: cbbced7e825ac0d97946a8e46106235fd320e73847e3a8b34777e8d82c99cd9d
+    checksum: eeb898aace6defb874174393691503cf1369ff383ac48ddf5081553f68da5ed4
     created: '2026-02-11T23:33:41.795947+00:00'
-    modified: '2026-02-11T23:33:41.795947+00:00'
+    modified: '2026-02-12T17:35:10.045476+00:00'
     owner: nepturnal
   The Starforged/NPCs/Bri.md:
     checksum: e5153bd075129013ca9afae24009cfb6b09c02b4e7e63a42c0f5904233b183ed
