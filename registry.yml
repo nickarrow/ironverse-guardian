@@ -468,9 +468,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: b8c4f05d0e8c0bfe8ef9b6e7c13b03378e17390e580d8e45527ff897cad68063
+    checksum: cb2c8c95685baa3186a5015ced9660e35217c3933a99c25863887b4d4c0e0a72
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-02-12T20:33:16.228102+00:00'
+    modified: '2026-02-12T23:08:15.112882+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Clocks/Sable/The Electrical Storm Overtakes the Port.md:
     checksum: 7354982fddcb192563f31836a6c07077e237582366f9d950d9b6ca8f54285da7
@@ -488,24 +488,29 @@ files:
     modified: '2026-02-09T21:01:58.267718+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Journals/Sable 02.md:
-    checksum: fc5259f9d89cfb547c052f1ae7fcfeb3be77f46d0bb71c13964047a5ca11dd1e
+    checksum: f90d78f74e84605ef548428fce883bd948cb4b758f0a5ef8d54a6271138aaa26
     created: '2026-02-06T01:00:29.611118+00:00'
-    modified: '2026-02-12T20:34:08.401691+00:00'
+    modified: '2026-02-12T23:08:15.112947+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md:
-    checksum: 6fc3d5890c829b171fa11b657ffd895650829e38cd600fce6cdff794597306ad
+    checksum: d3bb970acdedddc06adeea23c609264e2fe576b687fc9192823d7cefadeafca3
     created: '2026-02-11T02:47:43.789542+00:00'
-    modified: '2026-02-11T02:47:43.789542+00:00'
+    modified: '2026-02-12T23:08:15.112985+00:00'
+    owner: fragile-entropy
+  The Starforged/Campaign Sable Rowe/Progress/Find the Branta Pod.md:
+    checksum: 5f1a0797c7e425dc7496bd9b909cc405c41456234ca4ab734d63734ac05ae192
+    created: '2026-02-12T23:08:15.113061+00:00'
+    modified: '2026-02-12T23:08:15.113061+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Ganden's Courier Job.md:
-    checksum: 7c4417d19d75a93dbb3c99c4854a76c856a31ab0eb603bcdd3a1aa3793695ae1
+    checksum: f1505e6ac0f89ebf084ac6ee9c4399a63ed701461c58454f20cdd428281d2cbd
     created: '2026-02-11T02:47:43.789619+00:00'
-    modified: '2026-02-11T02:47:43.789619+00:00'
+    modified: '2026-02-12T23:08:15.113097+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Courier Job Glimmer Outpost.md:
-    checksum: e975284ffa5521d2a67e8f9f2230806dbbc2c9477c6327a3b1cb3254b769b683
+    checksum: 5aec8afd2d73b3f483f6626cff86aff33404caec7e692eb68d6f8dbc618352d9
     created: '2026-01-29T05:19:09.768918+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-12T23:08:15.113130+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Dustcloud Battle.md:
     checksum: 995ebe95d24b5f60b5ea436978824fc80e3965e4195c19b2b005983367f446dd
@@ -513,24 +518,24 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Expand the Influence of the Courier Guild in Devil's Reach.md:
-    checksum: 43804e992d8c535a40cd9655e0f69446c823a7a1f122dc9cb7ed2c360b756fa6
+    checksum: cf188d2f84d50a276d21f732d654925731d96ac4766c04d954d95f66a25d54eb
     created: '2026-01-30T00:11:24.931684+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-12T23:08:15.113163+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Find Her Parents Ship.md:
-    checksum: fed8bc91c5afb98cdfec2893d60541c0f24a2778a26ca1a6e17c63e94f046888
+    checksum: d7da4f95e2244298f4a5b271898bd0387a3b4cda62ef2b3c8d1dbfe1f1447a97
     created: '2026-01-29T03:01:32.680040+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-12T23:08:15.113223+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Leela Asper.md:
-    checksum: e869d74e7ce738a4494d5291044019d1677c09d9d26254a13a5716a81702ee16
+    checksum: f0862d65764e3bf71194b96b89f5721e1c7d4af857f45bca448323e617acb08b
     created: '2026-01-30T01:23:59.792842+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-12T23:08:15.113260+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Merrick Arden.md:
-    checksum: 2e89fdf62025eeba0ba53549f2b3d6a0675a32c2003452eaf90cce3a32fa6e72
+    checksum: 9ae349666da85e9a94a8f1e70b479f6e808bdf9a056ccc4f7748f455581fc5d1
     created: '2026-02-10T02:17:21.695318+00:00'
-    modified: '2026-02-10T02:17:21.695318+00:00'
+    modified: '2026-02-12T23:08:15.113291+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Sable/Survive the Electrical Storm.md:
     checksum: c77f99c5e6ca2a7754b8dec5620d0556012bee4ae9514f3f96af06b3a83c8341
@@ -543,9 +548,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Tiny Sana.md:
-    checksum: fad1de64dc41da62e44cb6efd667689a72344b5046965d0816354d580f6637fe
+    checksum: 34dbb246129ad13228407af21a363725bc98bc5ec91b5267ab411de82940d3bf
     created: '2026-02-12T20:33:16.228247+00:00'
-    modified: '2026-02-12T20:33:16.228247+00:00'
+    modified: '2026-02-12T23:08:15.113320+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Tybalt-Yhen Serrato/Characters/Tybalt Attachments/Pasted image 20260107182957.png:
     checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
