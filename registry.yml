@@ -468,9 +468,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: c28d93265149e8f86d206dc28a0757744dbde209ddca38794c445371eb0a8112
+    checksum: b8c4f05d0e8c0bfe8ef9b6e7c13b03378e17390e580d8e45527ff897cad68063
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-02-11T02:47:43.789408+00:00'
+    modified: '2026-02-12T20:33:16.228102+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Clocks/Sable/The Electrical Storm Overtakes the Port.md:
     checksum: 7354982fddcb192563f31836a6c07077e237582366f9d950d9b6ca8f54285da7
@@ -488,9 +488,9 @@ files:
     modified: '2026-02-09T21:01:58.267718+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Journals/Sable 02.md:
-    checksum: b5fb41e3ecd6e1ae0c6ecc84193a1ffffb77cdd240ca80c7407502ca9f5edc28
+    checksum: d07077b8ddb343e960c11d0f548825e01f12f1c7845dc7da57077a79cee30df9
     created: '2026-02-06T01:00:29.611118+00:00'
-    modified: '2026-02-12T19:20:58.789335+00:00'
+    modified: '2026-02-12T20:33:16.228164+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md:
     checksum: 6fc3d5890c829b171fa11b657ffd895650829e38cd600fce6cdff794597306ad
@@ -541,6 +541,11 @@ files:
     checksum: 25cd115e0c8a4d42b94ea5519d5de4ea50383c9745265ede02f7f000871ef036
     created: '2026-01-30T03:19:20.521797+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
+    owner: fragile-entropy
+  The Starforged/Campaign Sable Rowe/Progress/Tiny Sana.md:
+    checksum: fad1de64dc41da62e44cb6efd667689a72344b5046965d0816354d580f6637fe
+    created: '2026-02-12T20:33:16.228247+00:00'
+    modified: '2026-02-12T20:33:16.228247+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Tybalt-Yhen Serrato/Characters/Tybalt Attachments/Pasted image 20260107182957.png:
     checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
