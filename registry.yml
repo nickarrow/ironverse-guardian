@@ -333,14 +333,19 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: a08e99116b48277592bd5b6d33680ff4cd903e86ba2ba0c0b0be5efd90d15b0a
+    checksum: ea50b66c37847cc5e233d765afd3b411acb2d20de2b85be00b343ba1bd39ad0b
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-12T04:28:21.086207+00:00'
+    modified: '2026-02-13T05:02:59.887376+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Drafts/Epistolary.md:
+    checksum: 95c0813b81e7855254dd33f2e7dc10c45713e103cc35017bb45ca91c19321f0b
+    created: '2026-02-13T05:02:59.887523+00:00'
+    modified: '2026-02-13T05:02:59.887523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 10.md:
-    checksum: aa31a20d4308a399d71bd560fd5142cb25eea55bb34092458a34e70d6a8e0321
+    checksum: 5e0ac7f7a4a4b4a8f11a4a639d69655259c799e4b944b64f4916f4abe6aa77ec
     created: '2026-02-13T02:54:18.067327+00:00'
-    modified: '2026-02-13T02:54:18.067327+00:00'
+    modified: '2026-02-13T05:02:59.887570+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
@@ -423,9 +428,9 @@ files:
     modified: '2026-02-09T10:34:36.907047+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/07b - Expedition to Pyla.md:
-    checksum: 696ec59dfecec951bb46df3c873ebb914f1541a18c1c786c042c0b05fae9f15f
+    checksum: d3fbe2d4b32bcaaba6f1665e38258fb49a9035aa180e2d40ad14ce83105efa90
     created: '2026-02-10T06:00:22.518190+00:00'
-    modified: '2026-02-10T06:00:22.518190+00:00'
+    modified: '2026-02-13T05:02:59.887616+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
@@ -453,9 +458,9 @@ files:
     modified: '2026-02-08T02:13:38.213389+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Vows/07a - Get to Pyla.md:
-    checksum: 9ba478c2aa53e10c498b026626170c61c994044bc7a773de1d8b0d0f96d1e163
+    checksum: f3793784cca35ba29c012f14b0c3ad54f968cad795fc934defa78313b3297491
     created: '2026-02-10T06:00:22.518295+00:00'
-    modified: '2026-02-12T16:03:39.698228+00:00'
+    modified: '2026-02-13T05:02:59.887651+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Vows/08a - Ghost Hunt.md:
     checksum: 447c7a50afe7b405cbbcd628f6f557e75e568b9ffedeb96bccec09e6b504b607
