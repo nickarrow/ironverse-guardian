@@ -268,9 +268,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Campaign Echo 'Phantom' Stirling/Characters/Echo 'Phantom' Stirling.md:
-    checksum: 6f00c304498b39bb8e8a86c675dcec150416a1209f0a67e524159369eaa7afc1
+    checksum: 11ff138cc9c6e75967227d79a91aae0c798d81e61f296c4921e0ac2508e84c55
     created: '2026-01-12T17:59:42.857432+00:00'
-    modified: '2026-02-11T23:33:41.795570+00:00'
+    modified: '2026-02-13T16:38:24.808151+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Clocks/Completed/The Hourglass protections overwhelm Echo.md:
     checksum: 23e9b4808f3ce6b847a2d01f3949f5a3a2ebf50929d7c119273a916fc966503e
@@ -283,14 +283,14 @@ files:
     modified: '2026-02-09T13:18:16.284535+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 02 - The Bones of Giants.md:
-    checksum: 698c118a42b2850bb12daecac2f506370bd1f212b32cc68749d96dc38d3b0eec
+    checksum: 7e60b172efffe5e26cf988b9617b8acc04f133529ae6a5592b2afea3f1c910d0
     created: '2026-01-19T17:23:56.005152+00:00'
-    modified: '2026-02-11T23:33:41.795653+00:00'
+    modified: '2026-02-13T16:38:24.808231+00:00'
     owner: nepturnal
-  The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 3 -.md:
-    checksum: fee453853b4986712bb08e8b7891216eba7e76c63dffaca856e6d38c7d4e47a0
+  The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 3 - Echo's Trail of Misfortunes.md:
+    checksum: b36bc7caf30539f297c43cab81ac885dc0fbc5a43c5bdcb7bb3cd059684a6a95
     created: '2026-02-11T23:33:41.795744+00:00'
-    modified: '2026-02-12T19:47:23.291293+00:00'
+    modified: '2026-02-13T16:38:24.808374+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Escape the Statues.md:
     checksum: 61ad5613ba3725cfcba139153c52243407026854dcd0274b6ac49e6c1a87cf99
@@ -321,6 +321,11 @@ files:
     checksum: ecf00871f81b3bf401f27296720829f53463841583f6be0fdf34646f5076137c
     created: '2026-01-12T17:59:42.857820+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
+    owner: nepturnal
+  The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Trailblazing Croifols-4 to Celadon-2.md:
+    checksum: 7e2d55d804574e5bdcaf29097d911d0ae1bc7b062d0f35fe6bd9a60687beeefa
+    created: '2026-02-13T16:38:24.808446+00:00'
+    modified: '2026-02-13T16:38:24.808446+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Will Echo ever forgive Vesper.md:
     checksum: f4606ea81632ea17ede6d18023b5328674c3a4ecbff5800a0451ffd38c220854
