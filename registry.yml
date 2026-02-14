@@ -707,6 +707,11 @@ files:
     created: '2025-12-27T20:36:06.781765+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Factions/Cartographers Guild.md:
+    checksum: fe7dd8e0cd2685da7b69825c1f66aa5de99acebe4fc1e0dc81b2d3cf8ff7a03c
+    created: '2026-02-14T14:10:59.256680+00:00'
+    modified: '2026-02-14T14:10:59.256680+00:00'
+    owner: thathulsguy
   The Starforged/Factions/Circle of the Elder Stars.md:
     checksum: a0fc94cf9948cee4f9673e883b6fdf01ce69563a3c2fa0f5bd754ce69ddbcaee
     created: '2025-12-17T20:28:29.565663+00:00'
@@ -768,9 +773,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
   The Starforged/Locations/Planets/Dusk.md:
-    checksum: 539e9cc051f44a3ac488946a852264ce6efe455081630efbbe6093aa94e1d635
+    checksum: fcc35743bdd6627471a4fb3e0b427eed7090aec3a258f93a7f8e381c9eb95189
     created: '2026-02-14T13:49:06.679191+00:00'
-    modified: '2026-02-14T13:49:06.679191+00:00'
+    modified: '2026-02-14T14:10:59.256735+00:00'
     owner: thathulsguy
   The Starforged/Locations/Planets/Erra.md:
     checksum: 2b467d590a8a794db28bbcf0abc54fc2401418d86d2bdc80ebca5d6e46309ca9
@@ -778,9 +783,9 @@ files:
     modified: '2026-02-08T23:23:43.982050+00:00'
     owner: thathulsguy
   The Starforged/Locations/Planets/Hope.md:
-    checksum: dee265024a9ea8c22fa4079d7611ce962a3b4ec431d56576b18dfe7b085770cf
+    checksum: d077f740ff160956036686ca7c0dddc5646db87789d1df4b690b1186fc2333e7
     created: '2026-02-14T13:49:06.679266+00:00'
-    modified: '2026-02-14T13:49:06.679266+00:00'
+    modified: '2026-02-14T14:10:59.256770+00:00'
     owner: thathulsguy
   The Starforged/Locations/Planets/Ory.md:
     checksum: fd1f7c6d8d7ef2be53abd992eea0cd4817d396a8b6b4547278e22d5e7730e7c8
@@ -813,9 +818,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Locations/Settlements/Burrow.md:
-    checksum: 539e9cc051f44a3ac488946a852264ce6efe455081630efbbe6093aa94e1d635
+    checksum: 7bc140c09609c6d4de1f9e7a6aa3620370fb84cf018ac729ac1ee4b3a42fe154
     created: '2026-02-14T13:49:06.679333+00:00'
-    modified: '2026-02-14T13:49:06.679333+00:00'
+    modified: '2026-02-14T14:10:59.256804+00:00'
     owner: thathulsguy
   The Starforged/Locations/Settlements/First Light.md:
     checksum: fd9bd119703407e205d695ef1f011e29de3bba030a6cae025bfa0438aedb7b4a
