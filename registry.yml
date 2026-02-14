@@ -343,9 +343,9 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: d906df65460f293a4bba1b09afd9023821065c118a93cc16873507de5d0cd283
+    checksum: 16f053a2d5e754090224d9de0655a11ac68d7793554d40837fcc92233d28edf1
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-14T13:49:06.678748+00:00'
+    modified: '2026-02-14T15:40:53.452007+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 11.md:
     checksum: b8f12a85b8ba051113dca5bb1b04eb718a42410f6e7867715d409d0a08fe356d
@@ -353,9 +353,9 @@ files:
     modified: '2026-02-14T13:49:06.678819+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 12.md:
-    checksum: bb4dd96739c417b4256897148e1e6c628b6e538941691def2a4548aa88a51574
+    checksum: e3878d4babb595d646cc88550cc8bf4c8939fa629a88c9c430b1e61c3035ac7f
     created: '2026-02-14T13:49:06.678960+00:00'
-    modified: '2026-02-14T14:39:32.400392+00:00'
+    modified: '2026-02-14T15:40:53.452062+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
@@ -452,6 +452,11 @@ files:
     created: '2026-02-14T03:19:10.225226+00:00'
     modified: '2026-02-14T04:02:25.719021+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/12 - Expedition to Burrow.md:
+    checksum: 1c3c0aaa59b602df0fbe0d1d802a8d25b67989657d981936ac9999846e9816bf
+    created: '2026-02-14T15:40:53.452212+00:00'
+    modified: '2026-02-14T15:40:53.452212+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
     created: '2026-02-06T04:00:46.178252+00:00'
@@ -486,6 +491,11 @@ files:
     checksum: 447c7a50afe7b405cbbcd628f6f557e75e568b9ffedeb96bccec09e6b504b607
     created: '2026-02-11T05:05:18.410326+00:00'
     modified: '2026-02-11T05:05:18.410326+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Vows/12 - Deliver Burrow Nav Data.md:
+    checksum: 858c66f097b6206d55c15102aa8cb063d9f5aa60c4e99468e6522001adc73035
+    created: '2026-02-14T15:40:53.452312+00:00'
+    modified: '2026-02-14T15:40:53.452312+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
