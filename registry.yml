@@ -342,21 +342,6 @@ files:
     created: '2026-02-05T16:52:14.277188+00:00'
     modified: '2026-02-13T23:41:27.261777+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Drafts/Epistolary 2nd Attempt.md:
-    checksum: e3990a0ba9228253c0e68a310fdd359d83eb756e05006f3ab013a7995d2fa7fe
-    created: '2026-02-13T08:30:03.328112+00:00'
-    modified: '2026-02-13T17:33:57.990577+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Drafts/Epistolary.md:
-    checksum: e07af57fde521a98702d1f8205be1f683040a4748ec97aab539def87658719bb
-    created: '2026-02-13T05:02:59.887523+00:00'
-    modified: '2026-02-13T05:46:31.021953+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Drafts/Untitled 10.md:
-    checksum: 50eb62c486b1a838e818b7ea99d139c1b103c1b81e2426f2fa2bf5ccc3e56959
-    created: '2026-02-13T02:54:18.067327+00:00'
-    modified: '2026-02-13T20:07:47.891924+00:00'
-    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
     created: '2026-02-05T16:52:14.277300+00:00'
@@ -407,6 +392,11 @@ files:
     created: '2026-02-12T04:28:21.086366+00:00'
     modified: '2026-02-13T02:54:18.067462+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Journals/Jett/Jett 10 - Port Koshiba.md:
+    checksum: 73dce760d4cae4738433f978ab7da136a709f26bfdba2b8bd5f42eb26f869000
+    created: '2026-02-13T02:54:18.067327+00:00'
+    modified: '2026-02-14T00:19:29.780803+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md:
     checksum: 0a29441476eadb13c86353228401ca54fe65f8b0176c56e538b296456367d840
     created: '2026-02-11T17:49:28.917884+00:00'
@@ -453,9 +443,9 @@ files:
     modified: '2026-02-08T02:13:38.213254+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find and fulfil my destiny.md:
-    checksum: c00e6c3f14d0402654b4e2156d7e1a174e0584a8e587765c7f894a4b7e99bb42
+    checksum: a822e3d2a656a49793b7489bbb756f9f2732da1b181bd0c9548e1cb6ea7ecd16
     created: '2026-02-05T16:52:14.277390+00:00'
-    modified: '2026-02-09T05:32:01.138866+00:00'
+    modified: '2026-02-14T00:19:29.780847+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find out who is following Shen.md:
     checksum: 6712c8fc2036ce535bf71bb7a3a0538a480c244377f72926e4547eceb1b31122
@@ -692,6 +682,11 @@ files:
     created: '2026-02-06T17:55:25.795695+00:00'
     modified: '2026-02-11T23:33:41.795816+00:00'
     owner: nepturnal
+  The Starforged/Epistolary/Message 06 - Jett Foley.md:
+    checksum: fc9d0094ab3dcd5e2bda4e6498b02181779270f0f080fb787c55c5b89acc3d64
+    created: '2026-02-13T08:30:03.328112+00:00'
+    modified: '2026-02-14T00:19:29.780953+00:00'
+    owner: thathulsguy
   The Starforged/Factions/Ascendancy of the Awakened Worlds.md:
     checksum: c9fba5968cff3e60966d248202d15c300148df36f629317e0cc137f11610507c
     created: '2025-12-27T20:36:06.781765+00:00'
@@ -863,9 +858,9 @@ files:
     modified: '2026-02-12T17:35:10.045476+00:00'
     owner: nepturnal
   The Starforged/NPCs/Bri.md:
-    checksum: e5153bd075129013ca9afae24009cfb6b09c02b4e7e63a42c0f5904233b183ed
+    checksum: c599efa3bec73c15220e3c407d7e25d2acfef3217f2e3d3aed44e071ea33e388
     created: '2026-02-11T15:31:11.546934+00:00'
-    modified: '2026-02-11T15:31:11.546934+00:00'
+    modified: '2026-02-14T00:19:29.780990+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Epathus-Barabas Serrato.md:
     checksum: 94098b23b45f699d7737dcd618628a57916044dbc0c03c60f5df470f2d10054d
