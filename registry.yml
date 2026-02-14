@@ -5,6 +5,11 @@
 # DO NOT EDIT MANUALLY - Managed automatically by the Ironverse enforcement system.
 
 files:
+  '"The Starforged/Campaign Sable Rowe/Journals/Sable 02 - Meeting Merrick and Tracking Branta\342\200\231s.md"':
+    checksum: ''
+    created: '2026-02-06T01:00:29.611118+00:00'
+    modified: '2026-02-14T02:30:17.051231+00:00'
+    owner: fragile-entropy
   Epistolary Framework/Epistolary Guide.md:
     checksum: f809203ede6f619383215d5d40db855d6712f6417f753fb6f79b7957f3a8958e
     created: '2025-12-25T20:28:31.641056+00:00'
@@ -507,20 +512,15 @@ files:
     created: '2026-01-30T00:11:24.931595+00:00'
     modified: '2026-02-09T21:01:58.267718+00:00'
     owner: fragile-entropy
-  The Starforged/Campaign Sable Rowe/Journals/Sable 02.md:
-    checksum: 375371c06464f8333e3c18f94da01468c11771ceb6b501af8a80a693bfcf8c05
-    created: '2026-02-06T01:00:29.611118+00:00'
-    modified: '2026-02-14T02:11:29.809498+00:00'
-    owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md:
     checksum: 3fa590e43d5154c1b4ef555ff5f9859f3a38e209a65ead835299d0c383f9f2ec
     created: '2026-02-11T02:47:43.789542+00:00'
     modified: '2026-02-13T00:56:00.565138+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Find the Branta Pod.md:
-    checksum: 5f1a0797c7e425dc7496bd9b909cc405c41456234ca4ab734d63734ac05ae192
+    checksum: aafbce1fbd4c1df3d67238493e2618682c692f67145edec38e58bbeb354bc63d
     created: '2026-02-12T23:08:15.113061+00:00'
-    modified: '2026-02-12T23:08:15.113061+00:00'
+    modified: '2026-02-14T02:30:17.051282+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Ganden's Courier Job.md:
     checksum: f1505e6ac0f89ebf084ac6ee9c4399a63ed701461c58454f20cdd428281d2cbd
@@ -943,6 +943,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
 folders:
+  '"The Starforged':
+    created: '2026-02-14T02:30:17.051146+00:00'
+    structural_owner: fragile-entropy
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
