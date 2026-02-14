@@ -343,14 +343,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: 7967d4013d69265ac9389e6796bc966d4b05eefa14990ac19640d0558b2fab5a
+    checksum: 72f676483ea6c21b3239af0ca402e7f5c79d5d59e966288ca00e114d78b9c231
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-14T02:49:22.170393+00:00'
+    modified: '2026-02-14T03:19:10.225024+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 11.md:
-    checksum: f86fe51a985a1eebe42b3b7ef290ca7b3a809d3e38fbc58bd586731e1c51df6a
+    checksum: 0d5c1534c365725e72eb48b64b7d30e874efb6d886c31cb35c67918f2ab6403e
     created: '2026-02-14T01:23:31.933266+00:00'
-    modified: '2026-02-14T02:49:22.170447+00:00'
+    modified: '2026-02-14T03:19:10.225083+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett/Jett 00 - Prologue.md:
     checksum: b51ce133be49b4e9c993e5b4988c51eda11e495236b40d7103cc6a9f319e0b14
@@ -441,6 +441,11 @@ files:
     checksum: 175d752b8692a09fb48fd35d960888fd5365f17aeee3d55eb74c6e48178dc48a
     created: '2026-02-10T06:00:22.518190+00:00'
     modified: '2026-02-13T14:38:31.441677+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/11a - Get Supplies from The Eclipse.md:
+    checksum: 0258066705ae8517d882e8ad3cd0cc03c930fcbae2ea9fa2e8879e4ed00051bd
+    created: '2026-02-14T03:19:10.225226+00:00'
+    modified: '2026-02-14T03:19:10.225226+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
