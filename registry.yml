@@ -347,11 +347,6 @@ files:
     created: '2026-02-05T16:52:14.277188+00:00'
     modified: '2026-02-14T15:40:53.452007+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Drafts/Untitled 11.md:
-    checksum: 255ec21ace76131e6f2a9659d085db003ed01356cde890896bee1b72b377c14a
-    created: '2026-02-14T01:23:31.933266+00:00'
-    modified: '2026-02-14T16:22:02.756480+00:00'
-    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 12.md:
     checksum: e3878d4babb595d646cc88550cc8bf4c8939fa629a88c9c430b1e61c3035ac7f
     created: '2026-02-14T13:49:06.678960+00:00'
@@ -411,6 +406,11 @@ files:
     checksum: 73dce760d4cae4738433f978ab7da136a709f26bfdba2b8bd5f42eb26f869000
     created: '2026-02-13T02:54:18.067327+00:00'
     modified: '2026-02-14T11:54:57.117658+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Journals/Jett 11 - Setback at Pyla.md:
+    checksum: 702de6d46993280bd35fbf434a830fcc924fd64b6f7810925c009e8e1a4b5458
+    created: '2026-02-14T01:23:31.933266+00:00'
+    modified: '2026-02-15T05:33:13.079535+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md:
     checksum: 0a29441476eadb13c86353228401ca54fe65f8b0176c56e538b296456367d840
