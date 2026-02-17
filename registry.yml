@@ -343,14 +343,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: 9433bee31ad88c0e28641b304a84637ff42c4e8fd5c12ef791326a2697d821df
+    checksum: 71c23c47e759f3e57ee81eddac8e4c5b5ba28e94d92a7e6f82ec991db038cafd
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-15T07:39:40.168660+00:00'
+    modified: '2026-02-17T15:51:33.089926+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Drafts/Untitled 12.md:
-    checksum: 2df892889f7f17c29fe4dbd597d4fc7379838f1bc30cdeb7e462499437439029
-    created: '2026-02-14T13:49:06.678960+00:00'
-    modified: '2026-02-15T07:39:40.168713+00:00'
+  The Starforged/Campaign Jett Foley/Drafts/Untitled 13.md:
+    checksum: f96bac46760b391a0bd788f275215d8db8b522ac9f3a7e2cef5bd0c67be1d4bf
+    created: '2026-02-17T15:51:33.090085+00:00'
+    modified: '2026-02-17T15:51:33.090085+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
@@ -412,6 +412,11 @@ files:
     created: '2026-02-14T01:23:31.933266+00:00'
     modified: '2026-02-15T05:33:13.079535+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Journals/Jett 12 - Burrow.md:
+    checksum: 2df892889f7f17c29fe4dbd597d4fc7379838f1bc30cdeb7e462499437439029
+    created: '2026-02-14T13:49:06.678960+00:00'
+    modified: '2026-02-17T15:51:33.090216+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md:
     checksum: 0a29441476eadb13c86353228401ca54fe65f8b0176c56e538b296456367d840
     created: '2026-02-11T17:49:28.917884+00:00'
@@ -456,6 +461,11 @@ files:
     checksum: 886edf03df86fc8508c9191c2cbd66db3604b2d63e564e4580494678fd503d8c
     created: '2026-02-14T15:40:53.452212+00:00'
     modified: '2026-02-15T07:04:38.093015+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/13 - Expedition on Hope.md:
+    checksum: d52dec580605127d2274d1a5f34920a142cdc339aaee1008031ab3bc4cc71640
+    created: '2026-02-17T15:51:33.090338+00:00'
+    modified: '2026-02-17T15:51:33.090338+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
@@ -793,9 +803,9 @@ files:
     modified: '2026-02-08T23:23:43.982050+00:00'
     owner: thathulsguy
   The Starforged/Locations/Planets/Hope.md:
-    checksum: d077f740ff160956036686ca7c0dddc5646db87789d1df4b690b1186fc2333e7
+    checksum: ca48348c88702001d1a616434003a34f8a59e2b942663e22eca1e67fadee7ddb
     created: '2026-02-14T13:49:06.679266+00:00'
-    modified: '2026-02-14T14:10:59.256770+00:00'
+    modified: '2026-02-17T15:51:33.090380+00:00'
     owner: thathulsguy
   The Starforged/Locations/Planets/Ory.md:
     checksum: fd1f7c6d8d7ef2be53abd992eea0cd4817d396a8b6b4547278e22d5e7730e7c8
