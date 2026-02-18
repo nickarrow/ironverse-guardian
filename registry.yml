@@ -372,11 +372,6 @@ files:
     created: '2026-02-05T16:52:14.277188+00:00'
     modified: '2026-02-17T15:51:33.089926+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Drafts/Untitled 13.md:
-    checksum: 77fc653348262a714d8103afe2ce9d8daaaac20685643917f6cd45b03cf6ef07
-    created: '2026-02-17T15:51:33.090085+00:00'
-    modified: '2026-02-18T11:54:19.084142+00:00'
-    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
     created: '2026-02-05T16:52:14.277300+00:00'
@@ -441,6 +436,11 @@ files:
     checksum: 2df892889f7f17c29fe4dbd597d4fc7379838f1bc30cdeb7e462499437439029
     created: '2026-02-14T13:49:06.678960+00:00'
     modified: '2026-02-17T15:51:33.090216+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Journals/Jett 13 - The Underground City.md:
+    checksum: 77fc653348262a714d8103afe2ce9d8daaaac20685643917f6cd45b03cf6ef07
+    created: '2026-02-17T15:51:33.090085+00:00'
+    modified: '2026-02-18T12:06:47.081052+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md:
     checksum: 0a29441476eadb13c86353228401ca54fe65f8b0176c56e538b296456367d840
