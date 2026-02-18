@@ -40,15 +40,40 @@ files:
     created: '2025-12-31T04:59:31.082903+00:00'
     modified: '2026-02-08T00:22:49.408772+00:00'
     owner: nickarrow
-  The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai/Alex 'The Ogre' Bai.md:
-    checksum: 23324ac0183e50e869c30f4e888e54fedab0e1f65beb6da584f96cf4d431fff6
-    created: '2026-02-07T03:18:07.292744+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: jzoutis
-  The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai/Alex attatchments.md:
+  The Starforged.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-02-07T03:18:07.292864+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-18T01:42:29.846507+00:00'
+    owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai/Alex 'The Ogre' Bai.md:
+    checksum: beabf7fb37cf19dce0e02206e623acd2d9d543ccc3273c2e7f08a946b7ec8963
+    created: '2026-02-07T03:18:07.292744+00:00'
+    modified: '2026-02-18T01:42:29.846556+00:00'
+    owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai/Alex's Stuff/Shattered Siege.md:
+    checksum: feabddea8d56b707229b098b64bc85c7c5409a1c7132bc429f109218c2c2870d
+    created: '2026-02-18T01:42:29.846665+00:00'
+    modified: '2026-02-18T01:42:29.846665+00:00'
+    owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai/Hub.canvas:
+    checksum: 07537597151a4de8f082a64ffa444e602bc7a4d2b0ec2b934f7cb4b332e56a3b
+    created: '2026-02-18T01:42:29.846730+00:00'
+    modified: '2026-02-18T01:42:29.846730+00:00'
+    owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Characters/NPC's/Doctor.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-02-18T01:42:29.846816+00:00'
+    modified: '2026-02-18T01:42:29.846816+00:00'
+    owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Journals/Session 0.md:
+    checksum: 346e62b12f6be04cb24fc8398806b1a38eaf5690edadf0eabcf524d6879edc7a
+    created: '2026-02-18T01:42:29.846954+00:00'
+    modified: '2026-02-18T01:42:29.846954+00:00'
+    owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Alex/Remove the symbiote and return home.md:
+    checksum: 8ddeef60f7298bc92ea683540352bb5aee801188d89d27284a7a770542e71647
+    created: '2026-02-18T01:42:29.847040+00:00'
+    modified: '2026-02-18T01:42:29.847040+00:00'
     owner: jzoutis
   ? The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Barille/Establish a new noble
     house in the Circle of the Elder Stars.md
@@ -972,6 +997,11 @@ files:
     created: '2025-12-17T17:41:15.770365+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  Untitled.base:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-02-18T01:42:29.847089+00:00'
+    modified: '2026-02-18T01:42:29.847089+00:00'
+    owner: jzoutis
   Welcome to Ironverse.md:
     checksum: 72f487baa3df045af3f89f4f061e50a1a8a53d1d2372da6a8a9445161902746b
     created: '2026-01-06T21:34:41.219346+00:00'
