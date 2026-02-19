@@ -678,9 +678,14 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Journals/Tybalt-Yhen Serrato/Tybalt 03 - The Bonds of Blood.md:
-    checksum: 177a25ed1a51c59f922f3a5c8bb8c1c9a71416bdc56d7f179a6cd4fb5d2cc6fa
+    checksum: 08516ae1e5edb52e45261e4754db54c6302fa4f13a4063d6d1f91caf0a303a09
     created: '2026-01-30T08:57:59.480711+00:00'
-    modified: '2026-02-19T14:53:27.853442+00:00'
+    modified: '2026-02-19T15:19:55.395245+00:00'
+    owner: solarblaster
+  The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Dr. Telrai's Bizarre Company.md:
+    checksum: 39ba18aa6ae36e484f913f2ebcf0cffe4d15d67abb72d4effcfd0d4c44950edb
+    created: '2026-02-19T15:19:55.395366+00:00'
+    modified: '2026-02-19T15:19:55.395366+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Command-Duel with Epathus.md:
     checksum: 9e84b301b5334aff4e28bac3fa2ce823d5201e7ef3d3c4171834987dcf40bfee
@@ -987,6 +992,11 @@ files:
     created: '2026-01-02T20:55:42.070156+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/NPCs/Telrai Telemachon.md:
+    checksum: 6742eb4446ebc999497169cb6106d4af9808b836a849dd79a20c30a191ffa4d5
+    created: '2026-02-19T15:19:55.395453+00:00'
+    modified: '2026-02-19T15:19:55.395453+00:00'
+    owner: solarblaster
   The Starforged/NPCs/Vesper Savela.md:
     checksum: 6ff068705cfa64b59fd8e5b953c98d66b754e5be55f265590c9a7c447a5113c7
     created: '2026-01-12T17:59:42.857550+00:00'
