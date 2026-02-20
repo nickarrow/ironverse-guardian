@@ -373,14 +373,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: 71c23c47e759f3e57ee81eddac8e4c5b5ba28e94d92a7e6f82ec991db038cafd
+    checksum: d059e0143b35e679f997efa72c5e25c754c8633c8a2fb0d6a53c9cd18e4352f8
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-17T15:51:33.089926+00:00'
+    modified: '2026-02-20T03:11:35.796479+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 14.md:
-    checksum: ba998b318d9fe3ce55ca3b03fb3fdfabac69f359936188044df962b4e31aaa54
+    checksum: 8808ab51a29ca7b59e03b633133314c2936c3c300f4ee38f6b372e7d641b4c54
     created: '2026-02-19T13:39:36.313262+00:00'
-    modified: '2026-02-20T02:00:55.568306+00:00'
+    modified: '2026-02-20T03:11:35.796568+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
@@ -541,6 +541,11 @@ files:
     checksum: 45dee72ee4689f5fb59160efd4bb276e02f7809be90ace22990134b1e15fa0d4
     created: '2026-02-14T15:40:53.452312+00:00'
     modified: '2026-02-15T07:39:40.168740+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md:
+    checksum: bff234277e4de7f68a5276dc64d5d5fb7d0cfc3e0ee9f2eda71c944453229797
+    created: '2026-02-20T03:11:35.796808+00:00'
+    modified: '2026-02-20T03:11:35.796808+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -968,9 +973,9 @@ files:
     modified: '2026-02-14T13:01:28.252242+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Jett's Minor Characters.md:
-    checksum: 7a7e127ff21dd29a2a29713bf06abe88074ee323045c20465dba85a67bed6e1b
+    checksum: 3490cb20a29310f5b906a67bcf67ad34bb70cbbbf9306622c5114e0f7a9c4d8a
     created: '2026-02-06T08:25:37.630332+00:00'
-    modified: '2026-02-15T07:04:38.093089+00:00'
+    modified: '2026-02-20T03:11:35.796888+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Leela Asper.md:
     checksum: f60e97893eb10514d03df216c18fe698f566da5cb4ae03816a3542d0ff8a9284
