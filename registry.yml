@@ -373,14 +373,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: d059e0143b35e679f997efa72c5e25c754c8633c8a2fb0d6a53c9cd18e4352f8
+    checksum: 658c9fb41a40a7550b49c900c5c65ad02385aa698abdd906f886085882081370
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-20T03:11:35.796479+00:00'
+    modified: '2026-02-20T06:31:05.544774+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 14.md:
-    checksum: 37c4e764bb1bd52ed7b82788e0e53f83721b63302e1e9922c369a14cb39c7742
+    checksum: 5a6db5be7dd860bd187d9689296706ff17851eabfe8698ffcd95e2ccd9a1a721
     created: '2026-02-19T13:39:36.313262+00:00'
-    modified: '2026-02-20T03:26:49.992793+00:00'
+    modified: '2026-02-20T06:31:05.544825+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
@@ -502,6 +502,11 @@ files:
     created: '2026-02-17T15:51:33.090338+00:00'
     modified: '2026-02-17T15:52:22.641443+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/14 - Expedition on derelict.md:
+    checksum: 2b6a9215f04b2c56a10cf8581ef5ea59c555ca4eb6ad7db6a4add57e5892730e
+    created: '2026-02-20T06:31:05.544972+00:00'
+    modified: '2026-02-20T06:31:05.544972+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
     created: '2026-02-06T04:00:46.178252+00:00'
@@ -543,9 +548,9 @@ files:
     modified: '2026-02-15T07:39:40.168740+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md:
-    checksum: bff234277e4de7f68a5276dc64d5d5fb7d0cfc3e0ee9f2eda71c944453229797
+    checksum: 4ac68ac3611458eaaa9a77b3fc731705240b72aa222339f685e91f940558518c
     created: '2026-02-20T03:11:35.796808+00:00'
-    modified: '2026-02-20T03:11:35.796808+00:00'
+    modified: '2026-02-20T06:31:05.544999+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
