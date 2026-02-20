@@ -673,9 +673,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Characters/Tybalt-Yhen Serrato.md:
-    checksum: 225db0539e2c42780a4e0cdce3b5ee4290cf7c126ee49bee80c345be41523db3
+    checksum: dbc2331bb686a015570c747a8dab828e169f5a8c90b358cd804a5345bf9dde0e
     created: '2026-01-06T10:42:32.726002+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-02-20T14:04:09.342691+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Clocks/Tybalt-Yhen Serrato/Meet & Greet concluded.md:
     checksum: 2134721e14759ae4e3d657befd9a894ab76feca42e847482ac867278e798d62a
@@ -698,14 +698,19 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Journals/Tybalt-Yhen Serrato/Tybalt 03 - The Bonds of Blood.md:
-    checksum: 08516ae1e5edb52e45261e4754db54c6302fa4f13a4063d6d1f91caf0a303a09
+    checksum: ad0b7d97e2de77a854c73287ef9b9cb53b633b42d4c0a5902445dc8ed773a373
     created: '2026-01-30T08:57:59.480711+00:00'
-    modified: '2026-02-19T15:19:55.395245+00:00'
+    modified: '2026-02-20T14:04:09.342756+00:00'
     owner: solarblaster
-  The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Dr. Telrai's Bizarre Company.md:
+  The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Dr. Telrai's Concerning Company.md:
     checksum: 39ba18aa6ae36e484f913f2ebcf0cffe4d15d67abb72d4effcfd0d4c44950edb
     created: '2026-02-19T15:19:55.395366+00:00'
-    modified: '2026-02-19T15:19:55.395366+00:00'
+    modified: '2026-02-20T14:04:09.342908+00:00'
+    owner: solarblaster
+  The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Raze the RU Offices in Port Koshiba to the ground.md:
+    checksum: ecfaacda89298cc1c0aa4d322c0eef05d21b6bdddf2566d5158a94a5f479f359
+    created: '2026-02-20T14:04:09.342976+00:00'
+    modified: '2026-02-20T14:04:09.342976+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Command-Duel with Epathus.md:
     checksum: 9e84b301b5334aff4e28bac3fa2ce823d5201e7ef3d3c4171834987dcf40bfee
