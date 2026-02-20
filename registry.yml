@@ -373,14 +373,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: e5b32e59a49f38645e97cdd281010dff9fbc27a14dfb4093712db149f3fd5d05
+    checksum: 5de970ed1ac8ffd4231d8ceb4566945f402dd066e4423031976beec77203ced8
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-20T08:00:22.440001+00:00'
+    modified: '2026-02-20T12:35:20.938052+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Drafts/Untitled 14.md:
-    checksum: 71e93f03c0549b5bd82e44c8e8bbd5284c7757f59ed21ef102d2e287e09fe2a3
+    checksum: e85287f7d43c74b3068f4e646abb8da3cacaeb1feae73e12f92b2fe904cc7618
     created: '2026-02-19T13:39:36.313262+00:00'
-    modified: '2026-02-20T08:00:22.440066+00:00'
+    modified: '2026-02-20T12:35:20.938119+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
@@ -477,6 +477,11 @@ files:
     created: '2026-02-06T04:00:46.178179+00:00'
     modified: '2026-02-14T13:49:06.679071+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Connections/Connection - Althea Taylan.md:
+    checksum: d26564b56a6b3a9831da53fb1e3506230c6c644bd440e7d82fe2ace7ad543955
+    created: '2026-02-20T12:35:20.938266+00:00'
+    modified: '2026-02-20T12:35:20.938266+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/06a - Expedition to find medical supplies.md:
     checksum: d1f8b31ae170a946980d8aefa1bbc690d692df876df29156d0b4a789ef7a27bc
     created: '2026-02-09T05:32:01.138829+00:00'
@@ -546,6 +551,11 @@ files:
     checksum: a672d770d0ea44fbe82c2df97a3672e972395eebf57ef59480ffbe196e16bccd
     created: '2026-02-14T15:40:53.452312+00:00'
     modified: '2026-02-20T08:00:22.440136+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Record Space Battle Data and Return It To Apollo.md:
+    checksum: 5f3ab7a32d69b293e5d8d2d67fce9c4f466185f9c2b74b386bc09933e3ed517f
+    created: '2026-02-20T12:35:20.938362+00:00'
+    modified: '2026-02-20T12:35:20.938362+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Vows/14 - Send a tech with an e-drive to help Sage.md:
     checksum: 4ac68ac3611458eaaa9a77b3fc731705240b72aa222339f685e91f940558518c
@@ -802,6 +812,11 @@ files:
     created: '2026-02-11T23:33:41.795882+00:00'
     modified: '2026-02-12T16:44:46.026718+00:00'
     owner: nepturnal
+  The Starforged/Factions/Polestar Institute.md:
+    checksum: 220b5fc0b6fc63c9cfcd1faacb184d8c7f843c56f1fb7e3a20bb59312c0a0a14
+    created: '2026-02-20T12:35:20.938421+00:00'
+    modified: '2026-02-20T12:35:20.938421+00:00'
+    owner: thathulsguy
   The Starforged/Factions/RU Splinter Group.md:
     checksum: 5341b4d20fc4d1112f8f7f27e7da797597c0e8fdfa2e9957bbedb7c95610b95f
     created: '2026-02-12T17:35:10.045435+00:00'
@@ -887,6 +902,11 @@ files:
     created: '2025-12-17T20:28:29.566370+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Locations/Settlements/Apollo Center.md:
+    checksum: 2dc9a763cc4084ea1cba99173bcce80ce9870dfb1239c49d46e09faeccc24470
+    created: '2026-02-20T12:35:20.938481+00:00'
+    modified: '2026-02-20T12:35:20.938481+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Settlements/Burrow.md:
     checksum: 1c7ba49c72dd79db623ed24cd527be3ec9638c968f6892e944bad6bf9e78967c
     created: '2026-02-14T13:49:06.679333+00:00'
@@ -957,6 +977,11 @@ files:
     created: '2026-01-13T16:22:22.963950+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
+  The Starforged/NPCs/Althea Taylan.md:
+    checksum: 0658bbe4e6bef76f3924b403b146ca2d4160d94768bf62c116521ae03634ebf4
+    created: '2026-02-20T12:35:20.938535+00:00'
+    modified: '2026-02-20T12:35:20.938535+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Aparna Santos.md:
     checksum: eeb898aace6defb874174393691503cf1369ff383ac48ddf5081553f68da5ed4
     created: '2026-02-11T23:33:41.795947+00:00'
