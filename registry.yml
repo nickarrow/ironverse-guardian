@@ -373,14 +373,14 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: 5de970ed1ac8ffd4231d8ceb4566945f402dd066e4423031976beec77203ced8
+    checksum: b555546965ea722519e0a6296e17af64aca6e18dcfeecec12b72eca44191d0b9
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-20T12:35:20.938052+00:00'
+    modified: '2026-02-21T05:10:23.778895+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Drafts/Untitled 14.md:
-    checksum: 9faa0896e449356b217a7c0e8e5ecfb66ee01a049c4398dfc46c4d554e23605f
-    created: '2026-02-19T13:39:36.313262+00:00'
-    modified: '2026-02-20T13:49:56.856616+00:00'
+  The Starforged/Campaign Jett Foley/Drafts/Plot Hooks.md:
+    checksum: 25ffe87663431232a6cb62fa665d9e0fc35d6821953c0e9731fb5aff5ea1490f
+    created: '2026-02-21T05:10:23.779018+00:00'
+    modified: '2026-02-21T05:10:23.779018+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
@@ -451,6 +451,11 @@ files:
     checksum: 77fc653348262a714d8103afe2ce9d8daaaac20685643917f6cd45b03cf6ef07
     created: '2026-02-17T15:51:33.090085+00:00'
     modified: '2026-02-18T12:06:47.081052+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Journals/Jett 14 - Homecoming.md:
+    checksum: d565a985e177e0ef7beed7a52d7544689c4dc1ec84348bbc0163d9af945ebbda
+    created: '2026-02-19T13:39:36.313262+00:00'
+    modified: '2026-02-21T05:10:23.779145+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md:
     checksum: 0a29441476eadb13c86353228401ca54fe65f8b0176c56e538b296456367d840
