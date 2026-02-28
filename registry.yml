@@ -373,9 +373,9 @@ files:
     modified: '2026-02-08T02:22:47.022523+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Characters/Jett Foley/Jett Foley.md:
-    checksum: f5f40768f59e2c732577becbc58db7c7dd383e3451bd76124fd5405c9798643f
+    checksum: 374db50225f0104e64cc93c9e36b2185895844857ec491bffa54281012cae6c1
     created: '2026-02-05T16:52:14.277188+00:00'
-    modified: '2026-02-22T16:07:28.792131+00:00'
+    modified: '2026-02-28T09:13:29.989637+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Journals/Jett 00 - Prologue.md:
     checksum: 8790450e90652e5d4ff500cc60bed1af88f784074fd1f2dde6c4b0b79f55b3cb
@@ -452,20 +452,20 @@ files:
     created: '2026-02-19T13:39:36.313262+00:00'
     modified: '2026-02-21T05:10:23.779145+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Notes/Asha Braddock.md:
-    checksum: 68248dee4369365d6519a0ecb0462a1beca3739e6f3b02c9bbadb3c8355988fb
-    created: '2026-02-26T16:37:19.373966+00:00'
-    modified: '2026-02-26T16:37:19.373966+00:00'
+  The Starforged/Campaign Jett Foley/Journals/Jett 15 - Following a Lead.md:
+    checksum: 10de4a57e05cb93523e297da324576468ec012a875cb1214b3278538c031c829
+    created: '2026-02-26T16:37:19.374225+00:00'
+    modified: '2026-02-28T09:13:29.989816+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Notes/16 -.md:
+    checksum: 3b6d90bcb178c2bce8d8a91755ecd7218ba2da3123962a234e32e93e2ea1c424
+    created: '2026-02-28T09:13:29.989952+00:00'
+    modified: '2026-02-28T09:13:29.989952+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Notes/Plot Hooks.md:
     checksum: 78f9707ba62001a0f07f0f573848a429840127ef3bfe1f6de053625e35ff4ffd
     created: '2026-02-21T05:10:23.779018+00:00'
     modified: '2026-02-26T16:37:19.374138+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Notes/Untitled 15.md:
-    checksum: 655810a21661c1521d91deee5e29e6b380792f4396a2c35fad350d4e9f10b3d2
-    created: '2026-02-26T16:37:19.374225+00:00'
-    modified: '2026-02-27T16:46:49.552269+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/09a - Prove or disprove the ghost sightings.md:
     checksum: 0a29441476eadb13c86353228401ca54fe65f8b0176c56e538b296456367d840
@@ -532,6 +532,11 @@ files:
     created: '2026-02-20T06:31:05.544972+00:00'
     modified: '2026-02-20T06:31:05.544972+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Expeditions/16 - Expedition to find Tomiko.md:
+    checksum: 1f5b8927efab7e21e0cf0d252419c84b8f4ca5924469febbf9822ac15e4c1d34
+    created: '2026-02-28T09:13:29.990063+00:00'
+    modified: '2026-02-28T09:13:29.990063+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Jett Foley/Progress/Jett/Find Sofia Legrand.md:
     checksum: cc8f1eac52374244663f91aad4b6d9de6411337f17ca484872ef6eb2aa477eec
     created: '2026-02-06T04:00:46.178252+00:00'
@@ -581,6 +586,11 @@ files:
     checksum: 4ac68ac3611458eaaa9a77b3fc731705240b72aa222339f685e91f940558518c
     created: '2026-02-20T03:11:35.796808+00:00'
     modified: '2026-02-20T06:31:05.544999+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Progress/Jett/Vows/15 - Find Tomiko's Relic.md:
+    checksum: bd0cea827e8174ff3e02e6957eb5ec90c38b1f524a61413b25ce9045f9acc9c1
+    created: '2026-02-28T09:13:29.990155+00:00'
+    modified: '2026-02-28T09:13:29.990155+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -952,6 +962,11 @@ files:
     created: '2026-01-30T21:04:00.118638+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
+  The Starforged/Locations/Settlements/Lodestar Station.md:
+    checksum: 6017244bd0d27d961b277e56a21d24ab6f4676aa1e362fc73e0e1a15ed190818
+    created: '2026-02-28T09:13:29.990216+00:00'
+    modified: '2026-02-28T09:13:29.990216+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Settlements/Meridian.md:
     checksum: 9c7295deef3694290cfb7f4e8aa64af9f8c1476a5fd804f0a4c9c28374e33f69
     created: '2026-02-09T21:01:58.267931+00:00'
@@ -1012,6 +1027,11 @@ files:
     created: '2026-02-11T23:33:41.795947+00:00'
     modified: '2026-02-12T17:35:10.045476+00:00'
     owner: nepturnal
+  The Starforged/NPCs/Asha Braddock.md:
+    checksum: f9f16c28f82608cec77fab82a8ae06de075b6d053b115072886c4b6f1060ddb7
+    created: '2026-02-26T16:37:19.373966+00:00'
+    modified: '2026-02-28T09:13:29.990300+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Bri.md:
     checksum: c599efa3bec73c15220e3c407d7e25d2acfef3217f2e3d3aed44e071ea33e388
     created: '2026-02-11T15:31:11.546934+00:00'
