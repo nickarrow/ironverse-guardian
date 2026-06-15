@@ -55,6 +55,21 @@ files:
     created: '2026-04-13T02:32:54.667329+00:00'
     modified: '2026-04-13T02:58:39.527237+00:00'
     owner: danten66
+  Ironsworn/The Starforged/Campaign Julius Gamble/Campaign Julius Gamble.md:
+    checksum: 990d74a6fcf1fc9c83ccd94d719e3c8ff6e5c37e67c19ed30248a7cc7025639a
+    created: '2026-06-15T18:56:19.144504+00:00'
+    modified: '2026-06-15T18:56:19.144504+00:00'
+    owner: alargefallinganvil
+  Ironsworn/The Starforged/Campaign Julius Gamble/Characters/Julius Gamble.md:
+    checksum: 1ca4efbffaa99d271eaeea7d02f0d6068cb5fb992e97d362a789fa4bd7390c08
+    created: '2026-06-15T18:56:19.144649+00:00'
+    modified: '2026-06-15T18:56:19.144649+00:00'
+    owner: alargefallinganvil
+  Ironsworn/The Starforged/Campaign Julius Gamble/Journals/Session 0.md:
+    checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
+    created: '2026-06-15T18:56:19.144762+00:00'
+    modified: '2026-06-15T18:56:19.144762+00:00'
+    owner: alargefallinganvil
   Ironverse Changelog Base.base:
     checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
     created: '2026-02-08T00:21:37.373636+00:00'
@@ -1239,6 +1254,9 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
+  Ironsworn:
+    created: '2026-06-15T18:56:19.144360+00:00'
+    structural_owner: alargefallinganvil
   Ironsworn - The Rustlands:
     created: '2026-04-13T02:52:00.833798+00:00'
     structural_owner: danten66
