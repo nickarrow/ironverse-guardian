@@ -703,14 +703,34 @@ files:
     modified: '2026-06-15T18:56:55.028869+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Characters/Julius Gamble.md:
-    checksum: 1ca4efbffaa99d271eaeea7d02f0d6068cb5fb992e97d362a789fa4bd7390c08
+    checksum: ccbe28a86fb9dc1d0c7092850f43b73646a9d5098bab0aa8d856c5da97a455fb
     created: '2026-06-15T18:56:19.144649+00:00'
-    modified: '2026-06-15T18:56:55.029013+00:00'
+    modified: '2026-06-16T01:00:06.900378+00:00'
     owner: alargefallinganvil
-  The Starforged/Campaign Julius Gamble/Journals/Session 0.md:
-    checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
-    created: '2026-06-15T18:56:19.144762+00:00'
-    modified: '2026-06-15T18:56:55.029163+00:00'
+  The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md:
+    checksum: f2ce2d5f46b789f40a3bc258eaed3d01420f09f7a68822e7d4351ac11946a728
+    created: '2026-06-16T01:00:06.900550+00:00'
+    modified: '2026-06-16T01:00:06.900550+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Journals/Captain's Log 1 - Rebirth.md:
+    checksum: 40ee8c27d32d241987280b499fa0b3a264da2e571a152f7871cd52921cc64d76
+    created: '2026-06-16T01:00:06.900658+00:00'
+    modified: '2026-06-16T01:00:06.900658+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
+    checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
+    created: '2026-06-16T01:00:06.900756+00:00'
+    modified: '2026-06-16T01:00:06.900756+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Progress/Become A Legend.md:
+    checksum: 5c893ff73d0d9060dd5dece568bf3afdb6307d1e35554adbbe82f26673eb63da
+    created: '2026-06-16T01:00:06.900836+00:00'
+    modified: '2026-06-16T01:00:06.900836+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md:
+    checksum: 16f9d756da144d1c889e2787eb12ae20d4aefdabe38bd03e409a2f8fc4d82cf3
+    created: '2026-06-16T01:00:06.900912+00:00'
+    modified: '2026-06-16T01:00:06.900912+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -1047,6 +1067,11 @@ files:
     created: '2026-02-09T05:32:01.138930+00:00'
     modified: '2026-02-14T13:01:28.252205+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Planets/Taraxus.md:
+    checksum: 44df0b200627a9136df43b496c524842fd211903f4fb8dd365568bfe6257d866
+    created: '2026-06-16T01:00:06.900965+00:00'
+    modified: '2026-06-16T01:00:06.900965+00:00'
+    owner: alargefallinganvil
   The Starforged/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
     created: '2025-12-31T05:31:28.285319+00:00'
