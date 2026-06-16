@@ -55,11 +55,6 @@ files:
     created: '2026-04-13T02:32:54.667329+00:00'
     modified: '2026-04-13T02:58:39.527237+00:00'
     owner: danten66
-  Ironsworn/Untitled.md:
-    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-    created: '2026-06-16T01:25:30.405170+00:00'
-    modified: '2026-06-16T01:25:30.405170+00:00'
-    owner: alargefallinganvil
   Ironverse Changelog Base.base:
     checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
     created: '2026-02-08T00:21:37.373636+00:00'
@@ -708,19 +703,19 @@ files:
     modified: '2026-06-15T18:56:55.028869+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Characters/Julius Gamble.md:
-    checksum: a31a14a008cc962ea381b5efd14b770d1121007e832f2d99ab7e3b83cfbe4749
+    checksum: 44dde82dbfe6ce75b60b7077e62833a04394b5aaf8518482455616b6a674edbb
     created: '2026-06-15T18:56:19.144649+00:00'
-    modified: '2026-06-16T01:25:30.405229+00:00'
+    modified: '2026-06-16T17:25:22.048030+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md:
-    checksum: f2ce2d5f46b789f40a3bc258eaed3d01420f09f7a68822e7d4351ac11946a728
+    checksum: 753e6226fb06a14e31ef70b9c2726a3cfbb2538fc76ed7050715c340a7d771e6
     created: '2026-06-16T01:00:06.900550+00:00'
-    modified: '2026-06-16T01:00:06.900550+00:00'
+    modified: '2026-06-16T17:25:22.048075+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 1 - Rebirth.md:
-    checksum: b60108b8f71d3a5c0c9f59b2ed8884874c5a975fffaace38990951da34e7c5e2
+    checksum: 16d85a21cf3b5364b2d4ae53ae2453e54e428fa107269f7acb403f0d7611c284
     created: '2026-06-16T01:00:06.900658+00:00'
-    modified: '2026-06-16T01:25:30.405262+00:00'
+    modified: '2026-06-16T17:25:22.048118+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
@@ -733,9 +728,9 @@ files:
     modified: '2026-06-16T01:00:06.900836+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md:
-    checksum: 16f9d756da144d1c889e2787eb12ae20d4aefdabe38bd03e409a2f8fc4d82cf3
+    checksum: d4f0c10cb340e69ca84f24201b0284f5507fa0ab86391c9f6d79e94ff1c181e6
     created: '2026-06-16T01:00:06.900912+00:00'
-    modified: '2026-06-16T01:00:06.900912+00:00'
+    modified: '2026-06-16T17:25:22.048145+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -1067,6 +1062,11 @@ files:
     created: '2026-02-14T13:49:06.679266+00:00'
     modified: '2026-02-17T15:51:33.090380+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Planets/Iron Mesa.md:
+    checksum: dfe4d897bf8ecbbfbadd537eb35957c26b8fb5c3e97333b55e2e8bb949e4f5a7
+    created: '2026-06-16T17:25:22.048231+00:00'
+    modified: '2026-06-16T17:25:22.048231+00:00'
+    owner: alargefallinganvil
   The Starforged/Locations/Planets/Ory.md:
     checksum: fd1f7c6d8d7ef2be53abd992eea0cd4817d396a8b6b4547278e22d5e7730e7c8
     created: '2026-02-09T21:01:58.267855+00:00'
@@ -1083,9 +1083,9 @@ files:
     modified: '2026-06-16T05:47:45.080747+00:00'
     owner: jannythespartan
   The Starforged/Locations/Planets/Taraxus.md:
-    checksum: 44df0b200627a9136df43b496c524842fd211903f4fb8dd365568bfe6257d866
+    checksum: a3f54fc851e09b7cbb3710fccf412995822fc820181af3b91b5b6b2cb4646454
     created: '2026-06-16T01:00:06.900965+00:00'
-    modified: '2026-06-16T01:00:06.900965+00:00'
+    modified: '2026-06-16T17:25:22.048266+00:00'
     owner: alargefallinganvil
   The Starforged/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
@@ -1097,6 +1097,11 @@ files:
     created: '2025-12-17T20:28:29.566122+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Locations/Sectors/Gorrick.md:
+    checksum: a689e4640399f114892e2e84bd6447bb45d414c0bc6fd497562186f31b72269b
+    created: '2026-06-16T17:25:22.048328+00:00'
+    modified: '2026-06-16T17:25:22.048328+00:00'
+    owner: alargefallinganvil
   The Starforged/Locations/Sectors/attachments/ackriss-system.svg:
     checksum: 7c4dae219e5acee5e48b7c31320f0c9ee3c35af899587c83d9773bea38475dbf
     created: '2025-12-17T20:28:29.566154+00:00'
@@ -1117,6 +1122,16 @@ files:
     created: '2026-02-14T13:49:06.679333+00:00'
     modified: '2026-02-15T07:39:40.168763+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Settlements/Cyrus Station.md:
+    checksum: ab2738780e28efb67d245c3a0158e29f36882dad6fb9684691b5f7b867450a02
+    created: '2026-06-16T17:25:22.048377+00:00'
+    modified: '2026-06-16T17:25:22.048377+00:00'
+    owner: alargefallinganvil
+  The Starforged/Locations/Settlements/Dredgewater.md:
+    checksum: 7b84f652e5112785bee173afc99e94f769f59f9455aa326937be7ed763e8d380
+    created: '2026-06-16T17:25:22.048419+00:00'
+    modified: '2026-06-16T17:25:22.048419+00:00'
+    owner: alargefallinganvil
   The Starforged/Locations/Settlements/First Light.md:
     checksum: fd9bd119703407e205d695ef1f011e29de3bba030a6cae025bfa0438aedb7b4a
     created: '2026-01-26T09:10:02.100374+00:00'
@@ -1242,6 +1257,11 @@ files:
     created: '2026-02-06T01:25:01.069527+00:00'
     modified: '2026-02-08T00:12:57.572057+00:00'
     owner: fragile-entropy
+  The Starforged/NPCs/Nix Cargor.md:
+    checksum: d70d16437593d01b518d542382f1c48d30b7a9bd4ebd9b53a8d2d4f4a4c455de
+    created: '2026-06-16T17:25:22.092160+00:00'
+    modified: '2026-06-16T17:25:22.092160+00:00'
+    owner: alargefallinganvil
   The Starforged/NPCs/Rowena Jensen.md:
     checksum: 28f1acfdc9dddd46ba70f80fadfc88216b68ce294052448fb470abba5322776a
     created: '2026-01-02T20:55:42.070156+00:00'
@@ -1253,9 +1273,9 @@ files:
     modified: '2026-03-12T16:58:28.230602+00:00'
     owner: solarblaster
   The Starforged/NPCs/Vega Khan.md:
-    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    checksum: 52387a4d3572a520fe3a854f2c205e159d185b13a380312c8be0c5afdc2b87a8
     created: '2026-06-16T01:25:30.405310+00:00'
-    modified: '2026-06-16T01:25:30.405310+00:00'
+    modified: '2026-06-16T17:25:22.092204+00:00'
     owner: alargefallinganvil
   The Starforged/NPCs/Vesper Savela.md:
     checksum: 6ff068705cfa64b59fd8e5b953c98d66b754e5be55f265590c9a7c447a5113c7
@@ -1279,9 +1299,9 @@ files:
     owner: nickarrow
   Untitled.base:
     checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
-    created: '2026-02-18T01:42:29.847089+00:00'
-    modified: '2026-03-22T21:33:33.496347+00:00'
-    owner: jzoutis
+    created: '2026-06-16T17:25:22.092245+00:00'
+    modified: '2026-06-16T17:25:22.092245+00:00'
+    owner: alargefallinganvil
   Untitled.canvas:
     checksum: 44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a
     created: '2026-06-16T06:35:39.169613+00:00'
@@ -1297,11 +1317,6 @@ files:
     created: '2026-01-06T21:34:41.219346+00:00'
     modified: '2026-03-30T01:23:42.141007+00:00'
     owner: nickarrow
-  Welcome.md:
-    checksum: ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8
-    created: '2026-06-14T18:50:23.287855+00:00'
-    modified: '2026-06-14T18:50:23.287855+00:00'
-    owner: alargefallinganvil
 folders:
   '"The Starforged':
     created: '2026-02-14T02:30:17.051146+00:00'
@@ -1309,9 +1324,6 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
-  Ironsworn:
-    created: '2026-06-16T01:25:30.405099+00:00'
-    structural_owner: alargefallinganvil
   Ironsworn - The Rustlands:
     created: '2026-04-13T02:52:00.833798+00:00'
     structural_owner: danten66
