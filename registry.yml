@@ -927,6 +927,11 @@ files:
     created: '2026-01-09T12:17:43.098620+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
+  The Starforged/Epistolary/Arrival.md:
+    checksum: f2bc917389147a7b63d37e808a27a84ef1ce98041a7de659ebb60cced2db9d98
+    created: '2026-06-16T06:35:39.169431+00:00'
+    modified: '2026-06-16T06:35:39.169431+00:00'
+    owner: jannythespartan
   The Starforged/Epistolary/Epistolary Letters - The Starforged.md:
     checksum: 92b48abd52bcba98bf871dd7e2c0d90f386537d0e2aaca7018e95f4491a2a012
     created: '2025-12-26T06:21:16.116471+00:00'
@@ -1222,6 +1227,11 @@ files:
     created: '2026-01-29T03:44:18.022710+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
+  The Starforged/NPCs/Luna Palmer.md:
+    checksum: 5664256a9ced8f27159229d9c913365d8dc759e0dd386bc98da9fd2b5420c27f
+    created: '2026-06-16T06:01:13.270314+00:00'
+    modified: '2026-06-16T06:35:39.169560+00:00'
+    owner: jannythespartan
   The Starforged/NPCs/Machete.md:
     checksum: ceb665c85a7bbdf74f3044443da188bd896c6989f844358321dd9557519c7a8a
     created: '2026-02-06T04:00:46.170983+00:00'
@@ -1232,11 +1242,6 @@ files:
     created: '2026-02-06T01:25:01.069527+00:00'
     modified: '2026-02-08T00:12:57.572057+00:00'
     owner: fragile-entropy
-  The Starforged/NPCs/Paladin Luna Palmer.md:
-    checksum: 5664256a9ced8f27159229d9c913365d8dc759e0dd386bc98da9fd2b5420c27f
-    created: '2026-06-16T06:01:13.270314+00:00'
-    modified: '2026-06-16T06:01:13.270314+00:00'
-    owner: jannythespartan
   The Starforged/NPCs/Rowena Jensen.md:
     checksum: 28f1acfdc9dddd46ba70f80fadfc88216b68ce294052448fb470abba5322776a
     created: '2026-01-02T20:55:42.070156+00:00'
@@ -1277,6 +1282,11 @@ files:
     created: '2026-02-18T01:42:29.847089+00:00'
     modified: '2026-03-22T21:33:33.496347+00:00'
     owner: jzoutis
+  Untitled.canvas:
+    checksum: 44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a
+    created: '2026-06-16T06:35:39.169613+00:00'
+    modified: '2026-06-16T06:35:39.169613+00:00'
+    owner: jannythespartan
   Untitled.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-02-18T15:54:29.914762+00:00'
