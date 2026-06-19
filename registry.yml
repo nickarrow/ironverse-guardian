@@ -718,9 +718,9 @@ files:
     modified: '2026-06-16T22:59:28.093832+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 2 - Heavy Metal.md:
-    checksum: 22b4d50d8499f9c78d68f7d5c3b45a32beab739d3e43d5a05f43d3cb41b9d409
+    checksum: a6cc4570e8c9090da35b7cca1ffcb873d55b85aa32fb7ed34ef2dfa66ab14dbc
     created: '2026-06-16T22:59:28.093973+00:00'
-    modified: '2026-06-18T23:27:04.761302+00:00'
+    modified: '2026-06-19T00:22:30.286886+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
@@ -1128,9 +1128,9 @@ files:
     modified: '2026-02-15T07:39:40.168763+00:00'
     owner: thathulsguy
   The Starforged/Locations/Settlements/Cyrus Station.md:
-    checksum: ab2738780e28efb67d245c3a0158e29f36882dad6fb9684691b5f7b867450a02
+    checksum: b6c9e14d29145e720014259bfcfc3e39499a78168638d30e0e3a2b72893b4052
     created: '2026-06-16T17:25:22.048377+00:00'
-    modified: '2026-06-16T17:25:22.048377+00:00'
+    modified: '2026-06-19T00:22:30.286939+00:00'
     owner: alargefallinganvil
   The Starforged/Locations/Settlements/Dredgewater.md:
     checksum: 7b84f652e5112785bee173afc99e94f769f59f9455aa326937be7ed763e8d380
@@ -1282,6 +1282,11 @@ files:
     created: '2026-02-06T01:25:01.069527+00:00'
     modified: '2026-02-08T00:12:57.572057+00:00'
     owner: fragile-entropy
+  The Starforged/NPCs/Mia Hobbs.md:
+    checksum: 82bfd8df06523f3883e11bb93d7c688e01299f337d07175a410f94d52c436a6e
+    created: '2026-06-19T00:22:30.287024+00:00'
+    modified: '2026-06-19T00:22:30.287024+00:00'
+    owner: alargefallinganvil
   The Starforged/NPCs/Nix Cargor.md:
     checksum: d70d16437593d01b518d542382f1c48d30b7a9bd4ebd9b53a8d2d4f4a4c455de
     created: '2026-06-16T17:25:22.092160+00:00'
