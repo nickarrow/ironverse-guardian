@@ -5,6 +5,31 @@
 # DO NOT EDIT MANUALLY - Managed automatically by the Ironverse enforcement system.
 
 files:
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Project (20260620085102).jpg"':
+    checksum: ''
+    created: '2026-06-21T05:59:00.504092+00:00'
+    modified: '2026-06-21T06:09:54.362878+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Project (20260620091437).jpg"':
+    checksum: ''
+    created: '2026-06-21T05:59:00.505459+00:00'
+    modified: '2026-06-21T06:09:54.362992+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Project (20260620105200).jpg"':
+    checksum: ''
+    created: '2026-06-21T05:59:00.505591+00:00'
+    modified: '2026-06-21T06:09:54.363079+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Screenshot_2026-04-19_21-09-11 1.png"':
+    checksum: ''
+    created: '2026-06-20T06:06:17.936937+00:00'
+    modified: '2026-06-21T06:09:54.363165+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Screenshot_2026-04-19_21-09-11.png"':
+    checksum: ''
+    created: '2026-06-21T06:09:54.363226+00:00'
+    modified: '2026-06-21T06:09:54.363226+00:00'
+    owner: jannythespartan
   '"The Starforged/Campaign Sable Rowe/Journals/Sable 02 - Meeting Merrick and Tracking Branta\342\200\231s.md"':
     checksum: ''
     created: '2026-02-06T01:00:29.611118+00:00'
@@ -70,31 +95,11 @@ files:
     created: '2026-01-07T03:37:12.771398+00:00'
     modified: '2026-02-08T00:21:51.780339+00:00'
     owner: nickarrow
-  Project (20260620085102).jpg:
-    checksum: 8c8aa4f7efddf14c2372a8e2b53b5b7cf3091e47efc0285cb9ffc70da94833c3
-    created: '2026-06-21T05:59:00.504092+00:00'
-    modified: '2026-06-21T05:59:00.504092+00:00'
-    owner: jannythespartan
-  Project (20260620091437).jpg:
-    checksum: be9e81bffebabeb55b0f74f079950ab766597faa7d59d79f385a6022db1cfae0
-    created: '2026-06-21T05:59:00.505459+00:00'
-    modified: '2026-06-21T05:59:00.505459+00:00'
-    owner: jannythespartan
-  Project (20260620105200).jpg:
-    checksum: b7b41515ac176479fc1623f0dcae0a915a631de511207f48a9416f352f521bc2
-    created: '2026-06-21T05:59:00.505591+00:00'
-    modified: '2026-06-21T05:59:00.505591+00:00'
-    owner: jannythespartan
   README.md:
     checksum: 29570d27aa1289ceaaf183a3516f06da3bd19ca43f03b04982573e622fd7a8ce
     created: '2025-12-31T04:59:31.082903+00:00'
     modified: '2026-02-08T00:22:49.408772+00:00'
     owner: nickarrow
-  Screenshot_2026-04-19_21-09-11.png:
-    checksum: de16507ee38ca9ef07c15ea0f92ed03415ac6461053e150893ab42ec3326404e
-    created: '2026-06-20T06:06:17.936937+00:00'
-    modified: '2026-06-20T06:06:17.936937+00:00'
-    owner: jannythespartan
   Starforged Root/Barille Black/Truths.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-03-22T21:33:33.496204+00:00'
@@ -1043,9 +1048,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Factions/The Congregation of Ethereal Paladins.md:
-    checksum: 53f1daf9d20cc2ebd1b9f9d910712bd1a41cfd909185aab54895be3e11feaacd
+    checksum: d8c3641b895d00dea09b2ba5bf88cd310444c0e704d22f1d204cb5af2ed17aaf
     created: '2026-04-20T02:27:19.335262+00:00'
-    modified: '2026-06-21T05:59:00.505639+00:00'
+    modified: '2026-06-21T06:09:54.363298+00:00'
     owner: jannythespartan
   The Starforged/Factions/The Serene Order.md:
     checksum: 06dae787c499703503514abfc408b7b952160a1bb02addd80764ddef43d50ae4
