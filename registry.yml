@@ -328,14 +328,19 @@ files:
     modified: '2026-02-08T20:20:07.774959+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black.md:
-    checksum: e852e6074315586c9ea5295c4cc8f8f8eb8472a9b33e20a5a8d7e19ba58312f4
+    checksum: 159be2ffa451c629684d4b8bf67ed237889daa35510707d233b9030d9a2b0486
     created: '2025-12-17T19:59:34.705988+00:00'
-    modified: '2026-06-21T19:13:05.288561+00:00'
+    modified: '2026-06-21T20:26:11.912746+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/attachments/barille black profile.png:
     checksum: 283585c27eb05c9acdcc972e3aa9c21afa873a62f1bf4710905332bd34f1a746
     created: '2025-12-17T20:16:20.630620+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Clocks/Bone creature gets Hollodo.md:
+    checksum: 6975758a78adae2d1fb1b9fcdee411cdb8378ac7e8369bfb346ee766c277b4a5
+    created: '2026-06-21T20:26:11.912887+00:00'
+    modified: '2026-06-21T20:26:11.912887+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 01 - Beginnings.md:
     checksum: b7e90bf88ce05e124ef56f952e737a0674a0ff225a475871c420853677974414
@@ -353,14 +358,14 @@ files:
     modified: '2026-04-11T19:23:47.532781+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 04 - Name TBD.md:
-    checksum: 6403eae16325eee4d70bea10e065a5635dbeb72f53bfcab65eeaffd519e8ef91
+    checksum: 61f3ed63d6beb12557adfb5ee4cd493961e0143a65b9afd6c2498e31402f9110
     created: '2026-04-11T19:23:47.532864+00:00'
-    modified: '2026-06-21T19:14:01.284370+00:00'
+    modified: '2026-06-21T20:26:11.912934+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/scene-framing-v11.md:
-    checksum: 40f83e458a6d09ab427f56b8a7b1392e0dc16f3773c6abd00a549b927c2bd6a0
+    checksum: 507c34f6ef8f1bd569576a98b9bd50e705fbbc06414e3c491c0b2b0ff00a6e1c
     created: '2026-05-25T20:02:31.054178+00:00'
-    modified: '2026-05-25T20:02:31.054178+00:00'
+    modified: '2026-06-21T20:26:11.913014+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/scene-zero-v11.md:
     checksum: 8e26ce5720245c91d9aecc5af0a2c19ec01eeefe9959813b0dcc416bf728d51b
@@ -388,9 +393,9 @@ files:
     modified: '2026-04-11T19:23:47.532901+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Save Hollodo from the entity.md:
-    checksum: 8bfc8f5241926e0ed3499959457367fbd237cc316d9715dc2eb4053589e66752
+    checksum: f282472a4edf514199b6ae6ebd30f2069e03765f6afae10d7570b47448d21547
     created: '2026-04-11T20:01:29.636504+00:00'
-    modified: '2026-04-11T20:01:29.636504+00:00'
+    modified: '2026-06-21T20:26:11.913045+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Track the other-world entity to its source.md:
     checksum: 3cf6ef414c393e33df4d4622dc22862b08d7224bd2097b7a70faac5b36243213
