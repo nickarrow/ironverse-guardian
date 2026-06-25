@@ -743,9 +743,9 @@ files:
     modified: '2026-06-16T22:59:28.093770+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md:
-    checksum: 753e6226fb06a14e31ef70b9c2726a3cfbb2538fc76ed7050715c340a7d771e6
+    checksum: c5c22364f658bbb5c98d3ae3039df94f6316bd1bcad6c0bb2f6f05e8993fdf99
     created: '2026-06-16T01:00:06.900550+00:00'
-    modified: '2026-06-16T17:25:22.048075+00:00'
+    modified: '2026-06-25T15:42:56.603460+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 1 - Rebirth.md:
     checksum: b5686535a3881bcf895fc1bec723a6302fee59799932651d9bce36ab7f207bc7
@@ -753,9 +753,9 @@ files:
     modified: '2026-06-16T22:59:28.093832+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 2 - Heavy Metal.md:
-    checksum: f0545a0b2c4ba771dc2c04741b6c9537b6c04cb468cdd88268c4d9d34c83e438
+    checksum: 26ec44069dcf0a4981225752aa8a68e404ad41a602b9d79af37a07c85ad6dc49
     created: '2026-06-16T22:59:28.093973+00:00'
-    modified: '2026-06-19T17:15:30.718183+00:00'
+    modified: '2026-06-25T15:42:56.603538+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
@@ -1063,9 +1063,9 @@ files:
     modified: '2026-06-21T13:24:21.763477+00:00'
     owner: jannythespartan
   The Starforged/Factions/The Serene Order.md:
-    checksum: 06dae787c499703503514abfc408b7b952160a1bb02addd80764ddef43d50ae4
+    checksum: 64cb7260b212dfb75da21225bf4346e91cd7ec0df38901153b92af82358d2066
     created: '2026-06-19T17:15:30.718295+00:00'
-    modified: '2026-06-19T17:15:30.718295+00:00'
+    modified: '2026-06-25T15:42:56.603575+00:00'
     owner: alargefallinganvil
   The Starforged/Factions/The Void Cobras.md:
     checksum: 5b89122b8c81c06e561b9e31af4b138cb34f01f28e7cd1a57d79b187c694c4aa
@@ -1327,11 +1327,6 @@ files:
     created: '2026-02-06T01:25:01.069527+00:00'
     modified: '2026-02-08T00:12:57.572057+00:00'
     owner: fragile-entropy
-  The Starforged/NPCs/Mia Hobbs.md:
-    checksum: f23ffffb94ec880618917100e3c59f1542567216b59d58007c4cc1233fdd8b51
-    created: '2026-06-19T00:22:30.287024+00:00'
-    modified: '2026-06-19T17:15:30.718334+00:00'
-    owner: alargefallinganvil
   The Starforged/NPCs/Nix Cargor.md:
     checksum: d70d16437593d01b518d542382f1c48d30b7a9bd4ebd9b53a8d2d4f4a4c455de
     created: '2026-06-16T17:25:22.092160+00:00'
@@ -1347,6 +1342,11 @@ files:
     created: '2026-02-19T15:19:55.395453+00:00'
     modified: '2026-03-12T16:58:28.230602+00:00'
     owner: solarblaster
+  The Starforged/NPCs/The Whisper.md:
+    checksum: f23ffffb94ec880618917100e3c59f1542567216b59d58007c4cc1233fdd8b51
+    created: '2026-06-19T00:22:30.287024+00:00'
+    modified: '2026-06-25T15:42:56.603730+00:00'
+    owner: alargefallinganvil
   The Starforged/NPCs/Vega Khan.md:
     checksum: 52387a4d3572a520fe3a854f2c205e159d185b13a380312c8be0c5afdc2b87a8
     created: '2026-06-16T01:25:30.405310+00:00'
