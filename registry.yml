@@ -55,6 +55,21 @@ files:
     created: '2026-04-29T16:59:53.847895+00:00'
     modified: '2026-04-29T16:59:53.847895+00:00'
     owner: jeanne-jammer
+  Campaign Magnus/Character/Magnus.md:
+    checksum: 7cd6248d6655455b77902454bb551f615983a8a1ee3993cf4fd5f902da9eb7a8
+    created: '2026-07-02T15:08:49.701585+00:00'
+    modified: '2026-07-02T15:08:49.701585+00:00'
+    owner: midas-881
+  Campaign Magnus/Clocks/Quicksand.md:
+    checksum: 10de17e41159c0114e4cdb28ee959214e1e028d3329000035761484ff55e9cae
+    created: '2026-07-02T15:08:49.701665+00:00'
+    modified: '2026-07-02T15:08:49.701665+00:00'
+    owner: midas-881
+  Campaign Magnus/Journal/Secession 0.md:
+    checksum: 6990d39ca99642485b4ea726c392a5dfb8eb86d3a51a2c53819751f54260e099
+    created: '2026-07-02T15:08:49.701721+00:00'
+    modified: '2026-07-02T15:08:49.701721+00:00'
+    owner: midas-881
   Epistolary Framework/Epistolary Guide.md:
     checksum: f809203ede6f619383215d5d40db855d6712f6417f753fb6f79b7957f3a8958e
     created: '2025-12-25T20:28:31.641056+00:00'
@@ -1399,9 +1414,9 @@ files:
     owner: alargefallinganvil
   Untitled.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-    created: '2026-02-18T15:54:29.914762+00:00'
-    modified: '2026-02-18T15:54:29.914762+00:00'
-    owner: nepturnal
+    created: '2026-07-02T15:08:49.701756+00:00'
+    modified: '2026-07-02T15:08:49.701756+00:00'
+    owner: midas-881
   Welcome to Ironverse.md:
     checksum: 72f487baa3df045af3f89f4f061e50a1a8a53d1d2372da6a8a9445161902746b
     created: '2026-01-06T21:34:41.219346+00:00'
@@ -1416,6 +1431,9 @@ folders:
   '"The Starforged':
     created: '2026-02-14T02:30:17.051146+00:00'
     structural_owner: fragile-entropy
+  Campaign Magnus:
+    created: '2026-07-02T15:08:49.701486+00:00'
+    structural_owner: midas-881
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
