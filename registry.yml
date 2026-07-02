@@ -55,21 +55,6 @@ files:
     created: '2026-04-29T16:59:53.847895+00:00'
     modified: '2026-04-29T16:59:53.847895+00:00'
     owner: jeanne-jammer
-  Campaign Magnus/Character/Magnus.md:
-    checksum: 7cd6248d6655455b77902454bb551f615983a8a1ee3993cf4fd5f902da9eb7a8
-    created: '2026-07-02T15:08:49.701585+00:00'
-    modified: '2026-07-02T15:08:49.701585+00:00'
-    owner: midas-881
-  Campaign Magnus/Clocks/Quicksand.md:
-    checksum: 10de17e41159c0114e4cdb28ee959214e1e028d3329000035761484ff55e9cae
-    created: '2026-07-02T15:08:49.701665+00:00'
-    modified: '2026-07-02T15:08:49.701665+00:00'
-    owner: midas-881
-  Campaign Magnus/Journal/Secession 0.md:
-    checksum: 6990d39ca99642485b4ea726c392a5dfb8eb86d3a51a2c53819751f54260e099
-    created: '2026-07-02T15:08:49.701721+00:00'
-    modified: '2026-07-02T15:08:49.701721+00:00'
-    owner: midas-881
   Epistolary Framework/Epistolary Guide.md:
     checksum: f809203ede6f619383215d5d40db855d6712f6417f753fb6f79b7957f3a8958e
     created: '2025-12-25T20:28:31.641056+00:00'
@@ -802,6 +787,21 @@ files:
     created: '2026-06-16T01:00:06.900912+00:00'
     modified: '2026-06-16T17:25:22.048145+00:00'
     owner: alargefallinganvil
+  The Starforged/Campaign Magnus/Character/Magnus.md:
+    checksum: d8ce67c234afb3c12ebec6e9817de61add880d9cc8257cf8de5d97eb7739eddd
+    created: '2026-07-02T15:11:03.846437+00:00'
+    modified: '2026-07-02T15:11:03.846437+00:00'
+    owner: midas-881
+  The Starforged/Campaign Magnus/Clocks/Quicksand - Finished.md:
+    checksum: 6cc82a5e474345d4c856461b023a208e5d3e822c94f9f3a1ba31be5c65a632d7
+    created: '2026-07-02T15:08:49.701665+00:00'
+    modified: '2026-07-02T15:11:03.846600+00:00'
+    owner: midas-881
+  The Starforged/Campaign Magnus/Journal/Episode 1.md:
+    checksum: 937d1e587b86df3a9b368294e1805eeb94a0bfa0587773ca1a20ae497c6f25b9
+    created: '2026-07-02T15:08:49.701721+00:00'
+    modified: '2026-07-02T15:11:03.846730+00:00'
+    owner: midas-881
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
     created: '2026-02-10T02:17:21.695139+00:00'
@@ -1431,9 +1431,6 @@ folders:
   '"The Starforged':
     created: '2026-02-14T02:30:17.051146+00:00'
     structural_owner: fragile-entropy
-  Campaign Magnus:
-    created: '2026-07-02T15:08:49.701486+00:00'
-    structural_owner: midas-881
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
