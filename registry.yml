@@ -5,11 +5,56 @@
 # DO NOT EDIT MANUALLY - Managed automatically by the Ironverse enforcement system.
 
 files:
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Project (20260620085102).jpg"':
+    checksum: ''
+    created: '2026-06-21T05:59:00.504092+00:00'
+    modified: '2026-06-21T06:09:54.362878+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Project (20260620091437).jpg"':
+    checksum: ''
+    created: '2026-06-21T05:59:00.505459+00:00'
+    modified: '2026-06-21T06:09:54.362992+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Project (20260620105200).jpg"':
+    checksum: ''
+    created: '2026-06-21T05:59:00.505591+00:00'
+    modified: '2026-06-21T06:09:54.363079+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Screenshot_2026-04-19_21-09-11 1.png"':
+    checksum: ''
+    created: '2026-06-20T06:06:17.936937+00:00'
+    modified: '2026-06-21T06:09:54.363165+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Attachments/Screenshot_2026-04-19_21-09-11.png"':
+    checksum: ''
+    created: '2026-06-21T06:09:54.363226+00:00'
+    modified: '2026-06-21T06:09:54.363226+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Journals/00 Outpost.md"':
+    checksum: ''
+    created: '2026-06-28T02:53:03.535681+00:00'
+    modified: '2026-06-28T02:53:03.535681+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Journals/01 Assignment.md"':
+    checksum: ''
+    created: '2026-06-28T02:53:03.535785+00:00'
+    modified: '2026-06-28T02:53:03.535785+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Journals/02 Trust.md"':
+    checksum: ''
+    created: '2026-06-28T02:53:03.535859+00:00'
+    modified: '2026-06-28T02:53:03.535859+00:00'
+    owner: jannythespartan
   '"The Starforged/Campaign Sable Rowe/Journals/Sable 02 - Meeting Merrick and Tracking Branta\342\200\231s.md"':
     checksum: ''
     created: '2026-02-06T01:00:29.611118+00:00'
     modified: '2026-02-14T02:30:17.051231+00:00'
     owner: fragile-entropy
+  2026-04-29.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-04-29T16:59:53.847895+00:00'
+    modified: '2026-04-29T16:59:53.847895+00:00'
+    owner: jeanne-jammer
   Epistolary Framework/Epistolary Guide.md:
     checksum: f809203ede6f619383215d5d40db855d6712f6417f753fb6f79b7957f3a8958e
     created: '2025-12-25T20:28:31.641056+00:00'
@@ -20,11 +65,41 @@ files:
     created: '2025-12-25T20:28:31.641102+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  Excalidraw/Drawing 2026-06-20 22.41.41.excalidraw.md:
+    checksum: af902d8eec11a212af21333957aeece08febdf5ad5fdac4992de4fba75291a9b
+    created: '2026-06-21T05:59:00.503010+00:00'
+    modified: '2026-06-21T05:59:00.503010+00:00'
+    owner: jannythespartan
   Getting Started.md:
     checksum: 1d6a964065abc8e76605d9f9be9c7603bcddbca273907e71e3214cf38860fffd
     created: '2025-12-17T17:41:15.770317+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  Ironsworn - The Rustlands/Campaign - Colrum/Characters/Colrum.md:
+    checksum: 73bc08ae08da45da9f28a914abf86290ad505f96d681ef02926ec3a54b2f65aa
+    created: '2026-04-13T02:32:54.667161+00:00'
+    modified: '2026-04-15T02:32:26.249523+00:00'
+    owner: danten66
+  Ironsworn - The Rustlands/Campaign - Colrum/Journals/Session 0.md:
+    checksum: be56e31d10ee2d4d53eb58eea25a3834e8e45993e85c30bcfa4b3878d89a528c
+    created: '2026-04-13T02:32:54.667287+00:00'
+    modified: '2026-04-15T02:32:26.249569+00:00'
+    owner: danten66
+  Ironsworn - The Rustlands/Ironsworn - The Rustlands.md:
+    checksum: d1e209c85272d2d6bdd81e0ccdc8408e92e22a53fc995f8267cd5575178bbe9a
+    created: '2026-04-13T02:32:54.667222+00:00'
+    modified: '2026-04-13T02:52:00.834042+00:00'
+    owner: danten66
+  Ironsworn - The Rustlands/Locations/Runswick.md:
+    checksum: 8d0f7e125912bfb9daf71d497d7e6bcacd94d6eb5f24700b6c6b424bc89bfc48
+    created: '2026-04-15T02:21:34.032393+00:00'
+    modified: '2026-04-15T02:23:34.962830+00:00'
+    owner: danten66
+  Ironsworn - The Rustlands/Truths.md:
+    checksum: c9fc03a71a6624b63f00d6f0068e47d20b91ef40dd45e5bacba9f6805056e77d
+    created: '2026-04-13T02:32:54.667329+00:00'
+    modified: '2026-04-13T02:58:39.527237+00:00'
+    owner: danten66
   Ironverse Changelog Base.base:
     checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
     created: '2026-02-08T00:21:37.373636+00:00'
@@ -40,20 +115,30 @@ files:
     created: '2025-12-31T04:59:31.082903+00:00'
     modified: '2026-02-08T00:22:49.408772+00:00'
     owner: nickarrow
+  Starforged Root/Barille Black/Truths.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-03-22T21:33:33.496204+00:00'
+    modified: '2026-03-22T21:33:33.496204+00:00'
+    owner: jzoutis
   The Starforged.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-02-07T03:18:07.292864+00:00'
     modified: '2026-02-18T01:42:29.846507+00:00'
     owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Campaign Alex _The Ogre_ Bai/Campaign Alex _The Ogre_ Bai.md:
+    checksum: 1a7ff09020ea466cee371d0501be0ec581fa0eb8064b0acf8b4ed6f8790cad61
+    created: '2026-04-20T03:09:17.546482+00:00'
+    modified: '2026-04-20T19:28:48.875230+00:00'
+    owner: jannythespartan
   The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai/Alex 'The Ogre' Bai.md:
-    checksum: beabf7fb37cf19dce0e02206e623acd2d9d543ccc3273c2e7f08a946b7ec8963
+    checksum: 73242c9270544decc3d135596429ae0fd67b3e8e9ca42e293c2f7712d5a52686
     created: '2026-02-07T03:18:07.292744+00:00'
-    modified: '2026-02-18T01:42:29.846556+00:00'
+    modified: '2026-04-22T03:09:55.896020+00:00'
     owner: jzoutis
   The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai/Alex's Stuff/Shattered Siege.md:
-    checksum: feabddea8d56b707229b098b64bc85c7c5409a1c7132bc429f109218c2c2870d
+    checksum: 32d97ee263e39d87548f1ab2e00db3ff5679d1b8463661031e6270aa349ed557
     created: '2026-02-18T01:42:29.846665+00:00'
-    modified: '2026-02-18T01:42:29.846665+00:00'
+    modified: '2026-04-22T03:09:55.896065+00:00'
     owner: jzoutis
   The Starforged/Campaign Alex 'The Ogre' Bai/Characters/Alex 'The Ogre' Bai/Hub.canvas:
     checksum: 07537597151a4de8f082a64ffa444e602bc7a4d2b0ec2b934f7cb4b332e56a3b
@@ -70,10 +155,20 @@ files:
     created: '2026-02-18T01:42:29.846954+00:00'
     modified: '2026-02-18T01:42:29.846954+00:00'
     owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Journals/Session 1.md:
+    checksum: 1f6432cc859a19919d0b6453e2b938e8e76a790ce66d8d0fd1a79ab6c12da958
+    created: '2026-03-22T21:33:33.496303+00:00'
+    modified: '2026-04-22T03:09:55.896101+00:00'
+    owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Alex/Esacpe the pirates.md:
+    checksum: 2b27a4b516c09a8c982a8b85bd4534af0f9acc6234e69d8c705940443d616d99
+    created: '2026-04-13T00:31:46.054659+00:00'
+    modified: '2026-04-22T03:09:55.896133+00:00'
+    owner: jzoutis
   The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Alex/Remove the symbiote and return home.md:
-    checksum: 8ddeef60f7298bc92ea683540352bb5aee801188d89d27284a7a770542e71647
+    checksum: 71d924d9e78b99cb450f64d2df571677cf673f347f320f85e571a88ffdbefdee
     created: '2026-02-18T01:42:29.847040+00:00'
-    modified: '2026-02-18T01:42:29.847040+00:00'
+    modified: '2026-04-22T03:09:55.896164+00:00'
     owner: jzoutis
   ? The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Barille/Establish a new noble
     house in the Circle of the Elder Stars.md
@@ -247,20 +342,20 @@ files:
     created: '2026-02-07T21:59:32.464447+00:00'
     modified: '2026-02-08T20:20:07.774959+00:00'
     owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black - Gear.md:
-    checksum: f163cdda17de3b8f547b608a28eb0128e86afd37ba3509fd59c826f5db0544b2
-    created: '2025-12-17T20:16:20.629124+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black.md:
-    checksum: 0206977491ab0159cf0a96a9e77af3d59b6d8b9202ba68dd9c5b8531323608de
+    checksum: db501fc53d44699ffb13285c635254928ab7cb9de3e14c0843982b1b88405d0b
     created: '2025-12-17T19:59:34.705988+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-06-21T20:29:59.248724+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/attachments/barille black profile.png:
     checksum: 283585c27eb05c9acdcc972e3aa9c21afa873a62f1bf4710905332bd34f1a746
     created: '2025-12-17T20:16:20.630620+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Clocks/Bone creature gets Hollodo.md:
+    checksum: 6975758a78adae2d1fb1b9fcdee411cdb8378ac7e8369bfb346ee766c277b4a5
+    created: '2026-06-21T20:26:11.912887+00:00'
+    modified: '2026-06-21T20:26:11.912887+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 01 - Beginnings.md:
     checksum: b7e90bf88ce05e124ef56f952e737a0674a0ff225a475871c420853677974414
@@ -268,14 +363,39 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 02 - Reck.md:
-    checksum: f337c3efbdac9f8a96d399f943e212cba99d89b2ff015863ae3c3cf30ca81a4c
+    checksum: 3a458364396756d316d00c490a131c1ffc2b8b80be2e083d82a27bfca9815c06
     created: '2025-12-27T19:44:10.527140+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-04-11T19:47:01.150267+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 03 - Searching Through Reck.md:
-    checksum: 68cbadaf2f65f9e55b3ae9b664df7f62f83745bfb9d0ee0285f2f6e878beb553
+    checksum: 54f0f4b530e3bc25bcbc12b41c87b82936ac2577608c9cbc2716861f31a1417a
     created: '2026-02-07T22:15:39.913915+00:00'
-    modified: '2026-02-24T04:17:25.461046+00:00'
+    modified: '2026-06-21T20:29:59.248781+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Journals/Barille/Barille 04 - Hollodo is taken.md:
+    checksum: 6ba8a6213d62ea722b9297ea15d396c9bb55ae9dcf697c3746fca82a1351c5b6
+    created: '2026-04-11T19:23:47.532864+00:00'
+    modified: '2026-06-21T20:29:59.248940+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Journals/Barille/Barille 05 - name tbd.md:
+    checksum: bcea86a1db1bec4e514f9f2221430bb9d0db8500e7da0f5bb416b44a622cd062
+    created: '2026-06-21T20:29:59.249009+00:00'
+    modified: '2026-06-21T20:29:59.249009+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Journals/scene-framing-v11.md:
+    checksum: 507c34f6ef8f1bd569576a98b9bd50e705fbbc06414e3c491c0b2b0ff00a6e1c
+    created: '2026-05-25T20:02:31.054178+00:00'
+    modified: '2026-06-21T20:26:11.913014+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Journals/scene-zero-v11.md:
+    checksum: 8e26ce5720245c91d9aecc5af0a2c19ec01eeefe9959813b0dcc416bf728d51b
+    created: '2026-05-25T20:02:31.054315+00:00'
+    modified: '2026-05-25T20:02:31.054315+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Journals/session-shape-v11.md:
+    checksum: 8b208dc18fe5800e713f200f84887cbdf4b80a954831d561956de5bb395317b7
+    created: '2026-05-25T20:02:31.054401+00:00'
+    modified: '2026-06-09T01:18:22.499983+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: e3d270d8e4fe2b8568fdbdc504b5c1f581a5035f14bc9158f6b5f4068feeb1a5
@@ -288,19 +408,39 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Investigate and report on the rumored horrors of Reck.md:
-    checksum: 5e2676c4ff3ec84a82ca7dc494eb06422fe86865da402070c6fb14dcf6ef2d12
+    checksum: e4a5455ba6bf2aa381e03eaf95fbbb79c1926054f98a971dcc743bcf72898fe8
     created: '2025-12-17T20:28:29.566496+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-04-11T19:23:47.532901+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Progress/Barille/Save Hollodo from the entity.md:
+    checksum: f282472a4edf514199b6ae6ebd30f2069e03765f6afae10d7570b47448d21547
+    created: '2026-04-11T20:01:29.636504+00:00'
+    modified: '2026-06-21T20:26:11.913045+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Track the other-world entity to its source.md:
-    checksum: a757a6f802b7b6d85cf53f388971464e0ab9fba1e983f6a2585a5d9960781b7b
+    checksum: 3cf6ef414c393e33df4d4622dc22862b08d7224bd2097b7a70faac5b36243213
     created: '2026-01-31T23:04:10.585627+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-04-11T19:23:47.532932+00:00'
     owner: nickarrow
+  The Starforged/Campaign Barille Black/The Starforged Moves.md:
+    checksum: 9dad366d4eeee41c8f144ffa463ab4658953613c2d7e212d06d55742842edfb0
+    created: '2026-04-27T14:33:51.449373+00:00'
+    modified: '2026-04-27T14:33:51.449373+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/The Starforged Oracles.md:
+    checksum: a2e916d70e97411c4cc8859ec2ef69ed037a022a38ecda5b643fc493ae488c31
+    created: '2026-04-27T14:33:51.449503+00:00'
+    modified: '2026-04-27T14:33:51.449503+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Echo 'Phantom' Stirling/Campaign Echo _Phantom_ Stirling/Campaign Echo _Phantom_ Stirling.md:
+    checksum: 2aebaa05299b085e111a7dd1f2f7f761d1290f6d653a501facc2042689d8fa76
+    created: '2026-04-20T03:09:17.843678+00:00'
+    modified: '2026-04-20T19:28:48.875347+00:00'
+    owner: jannythespartan
   The Starforged/Campaign Echo 'Phantom' Stirling/Characters/Echo 'Phantom' Stirling.md:
-    checksum: fc271f2b23cc14806cdc98f4d015bc6e4490ece1b517f8df87a87695b9ca4fbd
+    checksum: 7365155837d094a726f437e4522c2425849d31a74115ac642bde25a3f8eaee8e
     created: '2026-01-12T17:59:42.857432+00:00'
-    modified: '2026-02-18T15:54:29.832848+00:00'
+    modified: '2026-04-18T15:39:58.290639+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Characters/Echo Attachments/Echo_recolor.png:
     checksum: 6a41a7ce33affe3056b99ace8bb9ffe70e17e103cf851a0884fcaea06559b0a7
@@ -323,9 +463,9 @@ files:
     modified: '2026-02-13T16:38:24.808231+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Journals/Echo 3 - Echo's Trail of Misfortunes.md:
-    checksum: a1bed6334ddf369feaeb521a17717dfb63c6f82ecd0982b7e31543f9d41eac17
+    checksum: ac5486ab98443f7e37d656e0db0c6a776eca9d31eccebdf039391a91bdc1e257
     created: '2026-02-11T23:33:41.795744+00:00'
-    modified: '2026-02-18T13:41:12.582366+00:00'
+    modified: '2026-04-18T15:39:58.290706+00:00'
     owner: nepturnal
   The Starforged/Campaign Echo 'Phantom' Stirling/Progress/Echo/Escape the Statues.md:
     checksum: 61ad5613ba3725cfcba139153c52243407026854dcd0274b6ac49e6c1a87cf99
@@ -367,6 +507,21 @@ files:
     created: '2026-01-14T15:56:19.107526+00:00'
     modified: '2026-02-11T23:33:41.795782+00:00'
     owner: nepturnal
+  The Starforged/Campaign Eris 'Chimera' Argyris/Campaign Eris 'Chimera' Argyris.md:
+    checksum: 1cab654592daf8eb123858099b21173855e9ac5be5a18dca4c6e92765e7dbd74
+    created: '2026-05-19T12:48:29.297182+00:00'
+    modified: '2026-05-19T12:48:29.297182+00:00'
+    owner: jeanne-jammer
+  The Starforged/Campaign Eris 'Chimera' Argyris/Characters/Eris Argyris.md:
+    checksum: 997f235e116420b76da2b5d8ed429cef177e543f6d40246e45e1fac5c20fac34
+    created: '2026-04-29T16:44:50.591495+00:00'
+    modified: '2026-04-29T18:37:20.478725+00:00'
+    owner: jeanne-jammer
+  The Starforged/Campaign Eris 'Chimera' Argyris/Journals/Session 0.md:
+    checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
+    created: '2026-04-29T16:44:50.591613+00:00'
+    modified: '2026-04-29T16:44:50.591613+00:00'
+    owner: jeanne-jammer
   The Starforged/Campaign Jett Foley/Campaign Jett Foley.md:
     checksum: 4a8e6a1bbe8948955a9e07eb7b281f98f086bf38f9d50d029ca7ed092d9f5ddc
     created: '2026-02-08T02:22:47.022523+00:00'
@@ -457,10 +612,10 @@ files:
     created: '2026-02-26T16:37:19.374225+00:00'
     modified: '2026-02-28T09:13:29.989816+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Notes/16 -.md:
-    checksum: 4df12f0c8f9352fb43a49d04276c6c445609ef5bb0bda74ec03235f1c26d37fb
+  The Starforged/Campaign Jett Foley/Notes/Jett 16 -.md:
+    checksum: 3d7a0d750a9aea49e098c6a6cbb5fc58bff340539b88c986597359624058938e
     created: '2026-02-28T09:13:29.989952+00:00'
-    modified: '2026-02-28T09:59:41.286368+00:00'
+    modified: '2026-06-21T14:47:08.286697+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Notes/Plot Hooks.md:
     checksum: 78f9707ba62001a0f07f0f573848a429840127ef3bfe1f6de053625e35ff4ffd
@@ -592,20 +747,60 @@ files:
     created: '2026-02-28T09:13:29.990155+00:00'
     modified: '2026-02-28T09:59:41.286473+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Julius Gamble/Campaign Julius Gamble.md:
+    checksum: 990d74a6fcf1fc9c83ccd94d719e3c8ff6e5c37e67c19ed30248a7cc7025639a
+    created: '2026-06-15T18:56:19.144504+00:00'
+    modified: '2026-06-15T18:56:55.028869+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Characters/Julius Gamble.md:
+    checksum: 8eb1425c3f0469a5dbaa7f72b4d1b9e4451d6d4ba3970ee275f5afe92bd42608
+    created: '2026-06-15T18:56:19.144649+00:00'
+    modified: '2026-06-16T22:59:28.093770+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md:
+    checksum: c5c22364f658bbb5c98d3ae3039df94f6316bd1bcad6c0bb2f6f05e8993fdf99
+    created: '2026-06-16T01:00:06.900550+00:00'
+    modified: '2026-06-25T15:42:56.603460+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Journals/Captain's Log 1 - Rebirth.md:
+    checksum: b5686535a3881bcf895fc1bec723a6302fee59799932651d9bce36ab7f207bc7
+    created: '2026-06-16T01:00:06.900658+00:00'
+    modified: '2026-06-16T22:59:28.093832+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Journals/Captain's Log 2 - Heavy Metal.md:
+    checksum: a5a668a8f3a0beb237bd8609fb5ccd4a518fd5fcf8b4b41c48147b9746a9fe12
+    created: '2026-06-16T22:59:28.093973+00:00'
+    modified: '2026-06-27T02:14:15.139562+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
+    checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
+    created: '2026-06-16T01:00:06.900756+00:00'
+    modified: '2026-06-16T01:00:06.900756+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Progress/Become A Legend.md:
+    checksum: 5c893ff73d0d9060dd5dece568bf3afdb6307d1e35554adbbe82f26673eb63da
+    created: '2026-06-16T01:00:06.900836+00:00'
+    modified: '2026-06-16T01:00:06.900836+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md:
+    checksum: d4f0c10cb340e69ca84f24201b0284f5507fa0ab86391c9f6d79e94ff1c181e6
+    created: '2026-06-16T01:00:06.900912+00:00'
+    modified: '2026-06-16T17:25:22.048145+00:00'
+    owner: alargefallinganvil
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
     created: '2026-02-10T02:17:21.695139+00:00'
     modified: '2026-02-10T02:17:21.695139+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Index.md:
-    checksum: 0452a6980338a098da73acebee48a811a9f0efa134994fefcc8a3c2904b9a45f
+    checksum: 045af9e0dae6be3ffddf0c6994ed6c66096f63ea251972e3c9b52dfe50a631c5
     created: '2026-01-29T21:44:50.901758+00:00'
-    modified: '2026-02-21T21:01:20.564701+00:00'
+    modified: '2026-04-02T22:44:39.704994+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: 1f105c542f014cbcb10953f495ca0fc11a0f8b82bb73b02c088a73ecc464e1e2
+    checksum: af63f417bf71c233442dca5e61bf120963575000d8da73d99157402136c3dbbf
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-02-14T02:11:29.809418+00:00'
+    modified: '2026-04-01T21:35:18.627414+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Clocks/Sable/The Electrical Storm Overtakes the Port.md:
     checksum: 7354982fddcb192563f31836a6c07077e237582366f9d950d9b6ca8f54285da7
@@ -627,10 +822,15 @@ files:
     created: '2026-01-30T00:11:24.931595+00:00'
     modified: '2026-02-09T21:01:58.267718+00:00'
     owner: fragile-entropy
+  The Starforged/Campaign Sable Rowe/Journals/Sable 03 -.md:
+    checksum: 1c21d414fb8a703aeceebab59ba4bbba9ebfcd023f609e41f7d6a1c4afb085e4
+    created: '2026-04-01T21:35:18.627580+00:00'
+    modified: '2026-04-02T22:44:39.705045+00:00'
+    owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md:
-    checksum: 3fa590e43d5154c1b4ef555ff5f9859f3a38e209a65ead835299d0c383f9f2ec
+    checksum: aeee3a39ea575b33b333829ce091905cd9dee2f843e38fb8cf845999a7fa12f9
     created: '2026-02-11T02:47:43.789542+00:00'
-    modified: '2026-02-13T00:56:00.565138+00:00'
+    modified: '2026-04-01T21:35:18.627659+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Find the Branta Pod.md:
     checksum: aafbce1fbd4c1df3d67238493e2618682c692f67145edec38e58bbeb354bc63d
@@ -692,6 +892,11 @@ files:
     created: '2026-02-12T20:33:16.228247+00:00'
     modified: '2026-02-14T02:11:29.809535+00:00'
     owner: fragile-entropy
+  The Starforged/Campaign Tybalt-Yhen Serrato/Campaign Tybalt-Yhen Serrato.md:
+    checksum: 0c04968aaac8f6800e0ff26d6d7000883c208eaac454ad924d03a644b3686aca
+    created: '2026-06-21T02:22:54.628787+00:00'
+    modified: '2026-06-21T02:33:04.976815+00:00'
+    owner: jannythespartan
   The Starforged/Campaign Tybalt-Yhen Serrato/Characters/Tybalt Attachments/Pasted image 20260107182957.png:
     checksum: c4d62c40f5b54e7e1ddb77afd9b6ab9b756a0cc181a511f13bbd470415781b85
     created: '2026-01-08T12:12:23.434076+00:00'
@@ -703,9 +908,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Characters/Tybalt-Yhen Serrato.md:
-    checksum: dbc2331bb686a015570c747a8dab828e169f5a8c90b358cd804a5345bf9dde0e
+    checksum: 87593eecec910c06aa7b4a2826b50eb1812a54b84ff0bad8fc31c8fdc3c4f7dc
     created: '2026-01-06T10:42:32.726002+00:00'
-    modified: '2026-02-20T14:04:09.342691+00:00'
+    modified: '2026-06-21T03:32:19.656544+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Clocks/Tybalt-Yhen Serrato/Meet & Greet concluded.md:
     checksum: 2134721e14759ae4e3d657befd9a894ab76feca42e847482ac867278e798d62a
@@ -727,10 +932,10 @@ files:
     created: '2026-01-13T13:52:42.734377+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
-  The Starforged/Campaign Tybalt-Yhen Serrato/Journals/Tybalt-Yhen Serrato/Tybalt 03 - The Bonds of Blood.md:
-    checksum: ad0b7d97e2de77a854c73287ef9b9cb53b633b42d4c0a5902445dc8ed773a373
+  The Starforged/Campaign Tybalt-Yhen Serrato/Journals/Tybalt-Yhen Serrato/Tybalt 03 - Of Knights and Bannersworn.md:
+    checksum: d69ebd0165251bd2844d7cfc995ec877f9629abf63894c8a2987d6ad5db0339a
     created: '2026-01-30T08:57:59.480711+00:00'
-    modified: '2026-02-20T14:04:09.342756+00:00'
+    modified: '2026-06-21T03:32:19.656628+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Dr. Telrai's Concerning Company.md:
     checksum: 39ba18aa6ae36e484f913f2ebcf0cffe4d15d67abb72d4effcfd0d4c44950edb
@@ -758,9 +963,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Find where he stands with Epathus.md:
-    checksum: 6cdbdc7993419fa377e60e6fac76591dd588c30eb5484de93855f1a1e5bf69b5
+    checksum: 767ee2f4355c7c11f3b025ec4220f0e1077e30e491bb300a042f859487ea1bf3
     created: '2026-01-09T05:03:26.733472+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
+    modified: '2026-04-14T06:06:22.111476+00:00'
     owner: solarblaster
   The Starforged/Campaign Tybalt-Yhen Serrato/Progress/Tybalt-Yhen Serrato/Pirate Hunt.md:
     checksum: eda7c6e4b6d09d05ce34ba5791ffad6c2fc2be53b8c4581ddb5ad29584d1e6ae
@@ -817,6 +1022,11 @@ files:
     created: '2026-02-13T08:30:03.328112+00:00'
     modified: '2026-02-14T00:19:29.780953+00:00'
     owner: thathulsguy
+  The Starforged/Epistolary/Message 07 Arana Haydar.md:
+    checksum: 21ed560991b10628b84e0faee2d3c825a3dabcc26b0ddc4b57cbeda6da1a3a3f
+    created: '2026-06-16T06:35:39.169431+00:00'
+    modified: '2026-06-20T17:26:54.653189+00:00'
+    owner: jannythespartan
   The Starforged/Factions/Ascendancy of the Awakened Worlds.md:
     checksum: c9fba5968cff3e60966d248202d15c300148df36f629317e0cc137f11610507c
     created: '2025-12-27T20:36:06.781765+00:00'
@@ -862,6 +1072,16 @@ files:
     created: '2025-12-17T20:28:29.565713+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Factions/The Congregation of Ethereal Paladins.md:
+    checksum: cb5accabea787aad2cb80fc1c4bb4077be582a65cdbbfc82d2efb1e13e61c4c9
+    created: '2026-04-20T02:27:19.335262+00:00'
+    modified: '2026-06-28T02:53:03.535926+00:00'
+    owner: jannythespartan
+  The Starforged/Factions/The Serene Order.md:
+    checksum: 64cb7260b212dfb75da21225bf4346e91cd7ec0df38901153b92af82358d2066
+    created: '2026-06-19T17:15:30.718295+00:00'
+    modified: '2026-06-25T15:42:56.603575+00:00'
+    owner: alargefallinganvil
   The Starforged/Factions/The Void Cobras.md:
     checksum: 5b89122b8c81c06e561b9e31af4b138cb34f01f28e7cd1a57d79b187c694c4aa
     created: '2026-02-06T04:00:46.177402+00:00'
@@ -907,6 +1127,11 @@ files:
     created: '2026-02-14T13:49:06.679266+00:00'
     modified: '2026-02-17T15:51:33.090380+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Planets/Iron Mesa.md:
+    checksum: dfe4d897bf8ecbbfbadd537eb35957c26b8fb5c3e97333b55e2e8bb949e4f5a7
+    created: '2026-06-16T17:25:22.048231+00:00'
+    modified: '2026-06-16T17:25:22.048231+00:00'
+    owner: alargefallinganvil
   The Starforged/Locations/Planets/Ory.md:
     checksum: fd1f7c6d8d7ef2be53abd992eea0cd4817d396a8b6b4547278e22d5e7730e7c8
     created: '2026-02-09T21:01:58.267855+00:00'
@@ -917,6 +1142,16 @@ files:
     created: '2026-02-09T05:32:01.138930+00:00'
     modified: '2026-02-14T13:01:28.252205+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Planets/Rosston.md:
+    checksum: a9eee1ad03328430c393a0b721a986e3d8c9c1ccb6d5e0d8d6290a4f9976a41b
+    created: '2026-06-16T05:47:45.080747+00:00'
+    modified: '2026-07-02T01:11:00.905913+00:00'
+    owner: jannythespartan
+  The Starforged/Locations/Planets/Taraxus.md:
+    checksum: a3f54fc851e09b7cbb3710fccf412995822fc820181af3b91b5b6b2cb4646454
+    created: '2026-06-16T01:00:06.900965+00:00'
+    modified: '2026-06-16T17:25:22.048266+00:00'
+    owner: alargefallinganvil
   The Starforged/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
     created: '2025-12-31T05:31:28.285319+00:00'
@@ -927,6 +1162,16 @@ files:
     created: '2025-12-17T20:28:29.566122+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Locations/Sectors/Gorrick.md:
+    checksum: 6da2e41799b679b096659c8a7d96243dd1f7012a34ddb2c99811d1c73d001dc2
+    created: '2026-06-16T17:25:22.048328+00:00'
+    modified: '2026-06-27T02:14:15.139605+00:00'
+    owner: alargefallinganvil
+  The Starforged/Locations/Sectors/attachments/Gorrick-sector-map.png:
+    checksum: 1289094d907ce90e4335b6991c33af05b79e823fcfc28dda53747da4a10eee4b
+    created: '2026-06-27T02:14:15.141051+00:00'
+    modified: '2026-06-27T02:14:15.141051+00:00'
+    owner: alargefallinganvil
   The Starforged/Locations/Sectors/attachments/ackriss-system.svg:
     checksum: 7c4dae219e5acee5e48b7c31320f0c9ee3c35af899587c83d9773bea38475dbf
     created: '2025-12-17T20:28:29.566154+00:00'
@@ -947,6 +1192,16 @@ files:
     created: '2026-02-14T13:49:06.679333+00:00'
     modified: '2026-02-15T07:39:40.168763+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Settlements/Cyrus Station.md:
+    checksum: b6c9e14d29145e720014259bfcfc3e39499a78168638d30e0e3a2b72893b4052
+    created: '2026-06-16T17:25:22.048377+00:00'
+    modified: '2026-06-19T00:22:30.286939+00:00'
+    owner: alargefallinganvil
+  The Starforged/Locations/Settlements/Dredgewater.md:
+    checksum: 7b84f652e5112785bee173afc99e94f769f59f9455aa326937be7ed763e8d380
+    created: '2026-06-16T17:25:22.048419+00:00'
+    modified: '2026-06-16T17:25:22.048419+00:00'
+    owner: alargefallinganvil
   The Starforged/Locations/Settlements/First Light.md:
     checksum: fd9bd119703407e205d695ef1f011e29de3bba030a6cae025bfa0438aedb7b4a
     created: '2026-01-26T09:10:02.100374+00:00'
@@ -1027,6 +1282,26 @@ files:
     created: '2026-02-11T23:33:41.795947+00:00'
     modified: '2026-02-12T17:35:10.045476+00:00'
     owner: nepturnal
+  The Starforged/NPCs/Arana's Characters of Minor Note/Gavin Norbid.md:
+    checksum: 1c847ddd76a0fd81171a67c70de75121cedb4746c7530766240cf19f71e284b9
+    created: '2026-06-18T06:27:18.769385+00:00'
+    modified: '2026-06-18T06:27:18.769385+00:00'
+    owner: jannythespartan
+  The Starforged/NPCs/Arana's Characters of Minor Note/Knight Jasher.md:
+    checksum: d2167df5d0ef9c43365e69aee8a775f99bc745e191fb04020bdf2e5386516bb8
+    created: '2026-06-18T06:27:18.769469+00:00'
+    modified: '2026-06-21T00:21:56.910995+00:00'
+    owner: jannythespartan
+  The Starforged/NPCs/Arana's Characters of Minor Note/Paladin Janya Bridger.md:
+    checksum: e53a113910ea78eedf15528329c07f61d954269e12eeb865cc088a94ae89675c
+    created: '2026-06-17T12:50:23.045297+00:00'
+    modified: '2026-06-28T02:53:03.536009+00:00'
+    owner: jannythespartan
+  The Starforged/NPCs/Arana's Characters of Minor Note/Tomiko.md:
+    checksum: 3bee9b7ea47ce6213378e7ec0007357358fbd0e78be798bdaabcf505d3ebe4c2
+    created: '2026-06-27T03:21:24.326349+00:00'
+    modified: '2026-06-27T03:26:37.681966+00:00'
+    owner: jannythespartan
   The Starforged/NPCs/Asha Braddock.md:
     checksum: f9f16c28f82608cec77fab82a8ae06de075b6d053b115072886c4b6f1060ddb7
     created: '2026-02-26T16:37:19.373966+00:00'
@@ -1057,6 +1332,11 @@ files:
     created: '2026-01-29T03:44:18.022710+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: fragile-entropy
+  The Starforged/NPCs/Luna Palmer.md:
+    checksum: db5aed314d997b538ce6bbfd59dfcdf0538ea2bf1c7ea7c00e1875eb1ffbd773
+    created: '2026-06-16T06:01:13.270314+00:00'
+    modified: '2026-06-17T23:39:51.802467+00:00'
+    owner: jannythespartan
   The Starforged/NPCs/Machete.md:
     checksum: ceb665c85a7bbdf74f3044443da188bd896c6989f844358321dd9557519c7a8a
     created: '2026-02-06T04:00:46.170983+00:00'
@@ -1067,16 +1347,31 @@ files:
     created: '2026-02-06T01:25:01.069527+00:00'
     modified: '2026-02-08T00:12:57.572057+00:00'
     owner: fragile-entropy
+  The Starforged/NPCs/Nix Cargor.md:
+    checksum: d70d16437593d01b518d542382f1c48d30b7a9bd4ebd9b53a8d2d4f4a4c455de
+    created: '2026-06-16T17:25:22.092160+00:00'
+    modified: '2026-06-16T17:25:22.092160+00:00'
+    owner: alargefallinganvil
   The Starforged/NPCs/Rowena Jensen.md:
     checksum: 28f1acfdc9dddd46ba70f80fadfc88216b68ce294052448fb470abba5322776a
     created: '2026-01-02T20:55:42.070156+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/NPCs/Telrai Telemachon.md:
-    checksum: 6742eb4446ebc999497169cb6106d4af9808b836a849dd79a20c30a191ffa4d5
+    checksum: 9cfb751f5f7d38dd199058af21f4780846a2269823805ed023f8d6f90a04447c
     created: '2026-02-19T15:19:55.395453+00:00'
-    modified: '2026-02-19T15:19:55.395453+00:00'
+    modified: '2026-03-12T16:58:28.230602+00:00'
     owner: solarblaster
+  The Starforged/NPCs/The Whisper.md:
+    checksum: f23ffffb94ec880618917100e3c59f1542567216b59d58007c4cc1233fdd8b51
+    created: '2026-06-19T00:22:30.287024+00:00'
+    modified: '2026-06-25T15:42:56.603730+00:00'
+    owner: alargefallinganvil
+  The Starforged/NPCs/Vega Khan.md:
+    checksum: 52387a4d3572a520fe3a854f2c205e159d185b13a380312c8be0c5afdc2b87a8
+    created: '2026-06-16T01:25:30.405310+00:00'
+    modified: '2026-06-16T17:25:22.092204+00:00'
+    owner: alargefallinganvil
   The Starforged/NPCs/Vesper Savela.md:
     checksum: 6ff068705cfa64b59fd8e5b953c98d66b754e5be55f265590c9a7c447a5113c7
     created: '2026-01-12T17:59:42.857550+00:00'
@@ -1098,10 +1393,10 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   Untitled.base:
-    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-    created: '2026-02-18T01:42:29.847089+00:00'
-    modified: '2026-02-18T01:42:29.847089+00:00'
-    owner: jzoutis
+    checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
+    created: '2026-06-16T17:25:22.092245+00:00'
+    modified: '2026-06-16T17:25:22.092245+00:00'
+    owner: alargefallinganvil
   Untitled.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-02-18T15:54:29.914762+00:00'
@@ -1110,23 +1405,13 @@ files:
   Welcome to Ironverse.md:
     checksum: 72f487baa3df045af3f89f4f061e50a1a8a53d1d2372da6a8a9445161902746b
     created: '2026-01-06T21:34:41.219346+00:00'
-    modified: '2026-02-10T21:31:40.689711+00:00'
+    modified: '2026-03-30T01:23:42.141007+00:00'
     owner: nickarrow
-  main.js:
-    checksum: 99b09c17aff440457ff52f89e748cd3d18c2d0b7b645ed8a333a12332fbdde61
-    created: '2026-01-09T06:31:01.267156+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: nickarrow
-  manifest.json:
-    checksum: 9128e1f1f93b8402c45b59ebb195bf14ae37d2ac9473625418d9791dc2479fc6
-    created: '2026-01-09T06:31:01.267270+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: nickarrow
-  styles.css:
-    checksum: 32865e6d1f45ab297fd90af00d40ea7a05bb0dbf57554d636fd61e89e97ff313
-    created: '2026-01-09T06:31:01.267397+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: nickarrow
+  Welcome.md:
+    checksum: ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8
+    created: '2026-06-21T00:50:54.005560+00:00'
+    modified: '2026-06-21T00:50:54.005560+00:00'
+    owner: jannythespartan
 folders:
   '"The Starforged':
     created: '2026-02-14T02:30:17.051146+00:00'
@@ -1134,6 +1419,15 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
+  Excalidraw:
+    created: '2026-06-21T05:59:00.502899+00:00'
+    structural_owner: jannythespartan
+  Ironsworn - The Rustlands:
+    created: '2026-04-13T02:52:00.833798+00:00'
+    structural_owner: danten66
+  Starforged Root:
+    created: '2026-03-22T21:33:33.496095+00:00'
+    structural_owner: jzoutis
   The Starforged:
     created: '2026-01-09T03:44:17.263114+00:00'
     structural_owner: nickarrow
