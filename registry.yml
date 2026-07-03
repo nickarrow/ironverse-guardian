@@ -768,9 +768,9 @@ files:
     modified: '2026-07-03T16:46:48.300125+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 2 - Heavy Metal.md:
-    checksum: 737d142b9fecb0ec20798fbb6eef945d8c2537e2c589b735f90d7cb5d8176efc
+    checksum: 384c9bde7c0235f8e41ffb871bf481c6a510e3195d2c22b9b72fbbea2bd647ca
     created: '2026-06-16T22:59:28.093973+00:00'
-    modified: '2026-07-03T16:46:48.300172+00:00'
+    modified: '2026-07-03T20:20:19.062841+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
@@ -1062,6 +1062,11 @@ files:
     created: '2025-12-17T20:28:29.565663+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Factions/Clan Zarrakmar.md:
+    checksum: 7be1235ccae68bd0da56dec0b059bc0a39a6cff13581d5fdb4020305e57a7758
+    created: '2026-07-03T20:20:19.063000+00:00'
+    modified: '2026-07-03T20:20:19.063000+00:00'
+    owner: alargefallinganvil
   The Starforged/Factions/Courier Guild.md:
     checksum: 6b98ef115fcdc8f63ddccc6d7cffbc5b76ec0194c14a0a622d370436eb94a9e8
     created: '2026-01-29T20:34:12.834993+00:00'
@@ -1098,9 +1103,9 @@ files:
     modified: '2026-06-28T02:53:03.535926+00:00'
     owner: jannythespartan
   The Starforged/Factions/The Great Founder Clans.md:
-    checksum: 0dc6350b9ee078ee29a5a79da20c5b5364f9da5fe40e850334950cc1572a6996
+    checksum: b80673ee2264760acedf935aa24fcf03a45330804db5edba6df13ae33628a583
     created: '2026-07-03T17:58:42.412125+00:00'
-    modified: '2026-07-03T18:42:39.629213+00:00'
+    modified: '2026-07-03T20:20:19.063063+00:00'
     owner: alargefallinganvil
   The Starforged/Factions/The Serene Order.md:
     checksum: 64cb7260b212dfb75da21225bf4346e91cd7ec0df38901153b92af82358d2066
