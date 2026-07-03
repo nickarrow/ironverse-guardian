@@ -768,9 +768,9 @@ files:
     modified: '2026-06-16T22:59:28.093832+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 2 - Heavy Metal.md:
-    checksum: a5a668a8f3a0beb237bd8609fb5ccd4a518fd5fcf8b4b41c48147b9746a9fe12
+    checksum: a899cfb1d20de7eb3d0afa2f8da87cfd284d3de62b4decb957508384ca4ef865
     created: '2026-06-16T22:59:28.093973+00:00'
-    modified: '2026-06-27T02:14:15.139562+00:00'
+    modified: '2026-07-03T12:52:43.146838+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
@@ -1407,6 +1407,11 @@ files:
     created: '2025-12-17T17:41:15.770365+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  Untitled 1.base:
+    checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
+    created: '2026-07-03T12:52:43.146916+00:00'
+    modified: '2026-07-03T12:52:43.146916+00:00'
+    owner: alargefallinganvil
   Untitled.base:
     checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
     created: '2026-06-16T17:25:22.092245+00:00'
