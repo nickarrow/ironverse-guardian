@@ -817,10 +817,10 @@ files:
     created: '2026-07-04T07:20:53.963595+00:00'
     modified: '2026-07-04T07:20:53.963595+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Journals/Session 0.md:
-    checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
-    created: '2026-07-04T07:20:53.963682+00:00'
-    modified: '2026-07-04T07:20:53.963682+00:00'
+  The Starforged/Campaign Rushdown/Notes/00 -.md:
+    checksum: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+    created: '2026-07-04T08:38:35.578126+00:00'
+    modified: '2026-07-04T08:38:35.578126+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -1098,9 +1098,9 @@ files:
     modified: '2026-02-12T16:44:46.026718+00:00'
     owner: nepturnal
   The Starforged/Factions/Minami Clan, The.md:
-    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    checksum: da960a02f8a88718b501b3494840af91357b01da7a30e97533f7348c36556abf
     created: '2026-07-04T07:34:45.150584+00:00'
-    modified: '2026-07-04T07:34:45.150584+00:00'
+    modified: '2026-07-04T08:38:35.578209+00:00'
     owner: thathulsguy
   The Starforged/Factions/Polestar Institute.md:
     checksum: 220b5fc0b6fc63c9cfcd1faacb184d8c7f843c56f1fb7e3a20bb59312c0a0a14
@@ -1218,9 +1218,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Locations/Sectors/Ashitaba.md:
-    checksum: de855641a456468845b4b463d28b3ad6e9f87bce39e52e301e1fa67d0c8dc510
+    checksum: 2550c6ccf6269b05b6cbcedda26e7a783698842be5ccac4b0c3cf76b5aa1d84e
     created: '2026-07-04T07:20:53.963844+00:00'
-    modified: '2026-07-04T07:20:53.963844+00:00'
+    modified: '2026-07-04T08:38:35.578257+00:00'
     owner: thathulsguy
   The Starforged/Locations/Sectors/Devil's Chain.md:
     checksum: 5b5aefe6e9945d62827846760c5425013760f21ec494832e8e4944620c8034f0
@@ -1272,6 +1272,11 @@ files:
     created: '2026-01-26T09:10:02.100374+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
+  The Starforged/Locations/Settlements/Gallows.md:
+    checksum: 50b13daf51bc5232991ca5a930ed1f5b136454b66e82893d4265d1f726d7bdfd
+    created: '2026-07-04T08:38:35.578336+00:00'
+    modified: '2026-07-04T08:38:35.578336+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Settlements/Glimmer Outpost.md:
     checksum: 7e56f066f83b5fe4eb32e23f3381ceccf9ce62a1440cd2517198f8db2b99db7c
     created: '2026-01-29T05:19:09.768816+00:00'
@@ -1292,6 +1297,11 @@ files:
     created: '2026-02-09T21:01:58.267931+00:00'
     modified: '2026-02-10T02:17:21.695390+00:00'
     owner: fragile-entropy
+  The Starforged/Locations/Settlements/Minami City.md:
+    checksum: b362f198a6f7273b592235a918a3dd5fc2d71213c375018fee393acd2f45e74b
+    created: '2026-07-04T08:38:35.578401+00:00'
+    modified: '2026-07-04T08:38:35.578401+00:00'
+    owner: thathulsguy
   The Starforged/Locations/Settlements/Paxton Memorial.md:
     checksum: 0d601c6d26373712e90f77fe5318fbac939ba8daa577d53cf699df8f85b0f1c0
     created: '2026-02-06T04:00:46.177789+00:00'
@@ -1326,6 +1336,11 @@ files:
     checksum: 6fbacc84b10a2f9ea43097ff8393996eec200ee2d0f0ed3dc54ec552ca92971a
     created: '2026-02-06T04:00:46.177864+00:00'
     modified: '2026-07-04T07:20:53.963876+00:00'
+    owner: thathulsguy
+  The Starforged/Locations/Settlements/Tranquilo (City).md:
+    checksum: ba18f22f6b024cecdb508cc12ac8dc44082728dfc506da8f36a18105d2363efb
+    created: '2026-07-04T08:38:35.578459+00:00'
+    modified: '2026-07-04T08:38:35.578459+00:00'
     owner: thathulsguy
   The Starforged/Locations/Vaults/Hewligan's Hope.md:
     checksum: e349dc7ab6a8f2d031fa0172acd6b6e82561682ca6a774c7ef0ddf8e478e9b09
