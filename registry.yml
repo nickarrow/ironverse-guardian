@@ -813,14 +813,24 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 9941320e45bf12c1511137503c7d508d51b838c4f76395ef10246fd2ee8075b6
+    checksum: 0b75836a632c59d8379e4bd11429cb546519a75797f940d397f7c43b9a4babaa
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-04T07:20:53.963595+00:00'
+    modified: '2026-07-04T09:08:35.239243+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/00 -.md:
-    checksum: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
-    created: '2026-07-04T08:38:35.578126+00:00'
-    modified: '2026-07-04T08:38:35.578126+00:00'
+  The Starforged/Campaign Rushdown/Journals/00 - Setting the Scene.md:
+    checksum: a3b1ab10f15f26a097292481b2a6119951f514048d2850606a6e44dc4a44a54b
+    created: '2026-07-04T09:08:35.239377+00:00'
+    modified: '2026-07-04T09:08:35.239377+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/01 -.md:
+    checksum: f6ca4d2acfbb8a76f31024206b099498bb2fd2b1fdcd5f429d97ba102dff7092
+    created: '2026-07-04T09:08:35.239461+00:00'
+    modified: '2026-07-04T09:08:35.239461+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
+    checksum: 4a0b0fbdbf6ee3656f62dec525e8a2b1cbf11073bb250e465bcfdced0b953c44
+    created: '2026-07-04T09:08:35.239527+00:00'
+    modified: '2026-07-04T09:08:35.239527+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -1122,6 +1132,11 @@ files:
     created: '2025-12-17T20:28:29.565713+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Factions/Takamaki Heavy Industries.md:
+    checksum: 7680b017a39f7201f96e110eb12ba6e5c9c28931be6760a2bb60a6f44a5000f1
+    created: '2026-07-04T09:08:35.239560+00:00'
+    modified: '2026-07-04T09:08:35.239560+00:00'
+    owner: thathulsguy
   The Starforged/Factions/The Congregation of Ethereal Paladins.md:
     checksum: cb5accabea787aad2cb80fc1c4bb4077be582a65cdbbfc82d2efb1e13e61c4c9
     created: '2026-04-20T02:27:19.335262+00:00'
