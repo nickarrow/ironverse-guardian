@@ -773,14 +773,19 @@ files:
     modified: '2026-06-25T15:42:56.603460+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 1 - Rebirth.md:
-    checksum: 925e0942c58576d212b551c298b49dd3ba27d3a0b04007837d904b00fc87a134
+    checksum: 0d3611ec5a0cc33961fd8fea756cad484a652acb15c20b18510ccb17278409e4
     created: '2026-06-16T01:00:06.900658+00:00'
-    modified: '2026-07-04T17:32:44.006534+00:00'
+    modified: '2026-07-04T20:37:25.879416+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 2 - Heavy Metal.md:
-    checksum: f7e9ad96f6887c2383ef179985c51a788530f1cc4a01b721664e9025e5ebc9f0
+    checksum: 52d9f91e3d42be8d101f4046726ab2108250330c25fd23e3cb6ed4881aff7485
     created: '2026-06-16T22:59:28.093973+00:00'
-    modified: '2026-07-04T17:45:07.498448+00:00'
+    modified: '2026-07-04T20:37:25.879490+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Journals/Captain's Log 3 - Best Foot Forward.md:
+    checksum: 242e7c2648f6d7f255be829eda922186abad21c3da3282afa4c941c3e5bc69f0
+    created: '2026-07-04T20:37:25.879655+00:00'
+    modified: '2026-07-04T20:37:25.879655+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
@@ -1251,6 +1256,11 @@ files:
     checksum: a3f54fc851e09b7cbb3710fccf412995822fc820181af3b91b5b6b2cb4646454
     created: '2026-06-16T01:00:06.900965+00:00'
     modified: '2026-06-16T17:25:22.048266+00:00'
+    owner: alargefallinganvil
+  The Starforged/Locations/Planets/Trion.md:
+    checksum: a354310dc7d5b421e40a295afb8a7e022e2df94e23073f1464ead5a856e67e97
+    created: '2026-07-04T20:37:25.879728+00:00'
+    modified: '2026-07-04T20:37:25.879728+00:00'
     owner: alargefallinganvil
   The Starforged/Locations/Planets/attachments/ackriss-2.gif:
     checksum: 903647935a8971f784383e758e482a0b2e9cc68d6a66d834d83f3c234fddf2d3
