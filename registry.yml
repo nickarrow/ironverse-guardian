@@ -747,15 +747,25 @@ files:
     created: '2026-02-28T09:13:29.990155+00:00'
     modified: '2026-02-28T09:59:41.286473+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Julius Gamble/Attachments/Blasters.jpg:
+    checksum: 0b7a00a17ceffa9b9ab873a55fc4419e875a881b0d8d31d5eacc6281208785b2
+    created: '2026-07-04T17:32:44.005649+00:00'
+    modified: '2026-07-04T17:32:44.005649+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Attachments/Manuvering thrust pack.png:
+    checksum: 7f0efb2e253cb18922e122d773557c0bea47e09555f477780372cfa18f22c3bd
+    created: '2026-07-04T17:32:44.006438+00:00'
+    modified: '2026-07-04T17:32:44.006438+00:00'
+    owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Campaign Julius Gamble.md:
     checksum: 990d74a6fcf1fc9c83ccd94d719e3c8ff6e5c37e67c19ed30248a7cc7025639a
     created: '2026-06-15T18:56:19.144504+00:00'
     modified: '2026-06-15T18:56:55.028869+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Characters/Julius Gamble.md:
-    checksum: 29bb2e56dcfe0c163de745a26a3551a2c6bce11ab0db1b080f9cc7b0c3cac022
+    checksum: 16c9bef98ee744e24e6b92cb29fab9aafdf64c724ce4d925df91adbd96382879
     created: '2026-06-15T18:56:19.144649+00:00'
-    modified: '2026-07-04T14:49:27.123378+00:00'
+    modified: '2026-07-04T17:32:44.006487+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md:
     checksum: c5c22364f658bbb5c98d3ae3039df94f6316bd1bcad6c0bb2f6f05e8993fdf99
@@ -763,14 +773,14 @@ files:
     modified: '2026-06-25T15:42:56.603460+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 1 - Rebirth.md:
-    checksum: 6695c3f49eb3690b54d74b6a22a72b6881bbe8939f161d25e478355697e62f90
+    checksum: 925e0942c58576d212b551c298b49dd3ba27d3a0b04007837d904b00fc87a134
     created: '2026-06-16T01:00:06.900658+00:00'
-    modified: '2026-07-03T16:46:48.300125+00:00'
+    modified: '2026-07-04T17:32:44.006534+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 2 - Heavy Metal.md:
-    checksum: 2605d4369363a00a5ea169030290f536086c01896d559f545059ea9f9d6f3861
+    checksum: def5883c8257c2d087876fb3cb427d8498abc608ec79c72732a47203d498d8b7
     created: '2026-06-16T22:59:28.093973+00:00'
-    modified: '2026-07-04T14:49:27.123445+00:00'
+    modified: '2026-07-04T17:32:44.006580+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
