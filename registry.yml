@@ -1447,6 +1447,21 @@ files:
     created: '2026-02-06T08:25:37.630332+00:00'
     modified: '2026-02-20T03:11:35.796888+00:00'
     owner: thathulsguy
+  The Starforged/NPCs/Julius Gamble's Minor Characters/Nix Cargor.md:
+    checksum: d70d16437593d01b518d542382f1c48d30b7a9bd4ebd9b53a8d2d4f4a4c455de
+    created: '2026-06-16T17:25:22.092160+00:00'
+    modified: '2026-07-04T17:34:24.214224+00:00'
+    owner: alargefallinganvil
+  The Starforged/NPCs/Julius Gamble's Minor Characters/The Whisper.md:
+    checksum: f23ffffb94ec880618917100e3c59f1542567216b59d58007c4cc1233fdd8b51
+    created: '2026-06-19T00:22:30.287024+00:00'
+    modified: '2026-07-04T17:34:24.214458+00:00'
+    owner: alargefallinganvil
+  The Starforged/NPCs/Julius Gamble's Minor Characters/Vega Khan.md:
+    checksum: 0a2e931b8fa14c88ea27e21507fc9e74264adda1a6a094fdd84afcc7db0842bb
+    created: '2026-06-16T01:25:30.405310+00:00'
+    modified: '2026-07-04T17:34:24.214653+00:00'
+    owner: alargefallinganvil
   The Starforged/NPCs/Leela Asper.md:
     checksum: f60e97893eb10514d03df216c18fe698f566da5cb4ae03816a3542d0ff8a9284
     created: '2026-01-29T03:44:18.022710+00:00'
@@ -1467,11 +1482,6 @@ files:
     created: '2026-02-06T01:25:01.069527+00:00'
     modified: '2026-02-08T00:12:57.572057+00:00'
     owner: fragile-entropy
-  The Starforged/NPCs/Nix Cargor.md:
-    checksum: d70d16437593d01b518d542382f1c48d30b7a9bd4ebd9b53a8d2d4f4a4c455de
-    created: '2026-06-16T17:25:22.092160+00:00'
-    modified: '2026-06-16T17:25:22.092160+00:00'
-    owner: alargefallinganvil
   The Starforged/NPCs/Rowena Jensen.md:
     checksum: 28f1acfdc9dddd46ba70f80fadfc88216b68ce294052448fb470abba5322776a
     created: '2026-01-02T20:55:42.070156+00:00'
@@ -1492,16 +1502,6 @@ files:
     created: '2026-02-19T15:19:55.395453+00:00'
     modified: '2026-03-12T16:58:28.230602+00:00'
     owner: solarblaster
-  The Starforged/NPCs/The Whisper.md:
-    checksum: f23ffffb94ec880618917100e3c59f1542567216b59d58007c4cc1233fdd8b51
-    created: '2026-06-19T00:22:30.287024+00:00'
-    modified: '2026-06-25T15:42:56.603730+00:00'
-    owner: alargefallinganvil
-  The Starforged/NPCs/Vega Khan.md:
-    checksum: 0a2e931b8fa14c88ea27e21507fc9e74264adda1a6a094fdd84afcc7db0842bb
-    created: '2026-06-16T01:25:30.405310+00:00'
-    modified: '2026-07-04T14:49:27.123775+00:00'
-    owner: alargefallinganvil
   The Starforged/NPCs/Vesper Savela.md:
     checksum: 6ff068705cfa64b59fd8e5b953c98d66b754e5be55f265590c9a7c447a5113c7
     created: '2026-01-12T17:59:42.857550+00:00'
