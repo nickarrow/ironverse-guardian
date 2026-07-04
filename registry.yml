@@ -818,14 +818,14 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 0b75836a632c59d8379e4bd11429cb546519a75797f940d397f7c43b9a4babaa
+    checksum: f4148a8c6819f714bf8e2142bfbf69fcb87fb84fd149c8b15f8d62e4d81cacc3
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-04T09:08:35.239243+00:00'
+    modified: '2026-07-04T14:56:07.132669+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/Rushdown 00 - Setting the Scene.md:
-    checksum: bb11bb062d1b31166b0858bd86ad1525e98ec0bc5d84509355d404ba1363f697
+    checksum: f46121de42eb29627ff66bf3d5d29c0731a21a66c83218364f26ab36b620ce94
     created: '2026-07-04T09:08:35.239377+00:00'
-    modified: '2026-07-04T10:28:18.147520+00:00'
+    modified: '2026-07-04T14:56:07.132719+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
     checksum: 4a0b0fbdbf6ee3656f62dec525e8a2b1cbf11073bb250e465bcfdced0b953c44
@@ -833,9 +833,19 @@ files:
     modified: '2026-07-04T09:08:35.239527+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Rushdown 01 -.md:
-    checksum: 5f160af0e40949ba7723b139a25a43890ed0a48dc5fa2018d299836f20d0a4e4
+    checksum: 838cad1d5cb3690add277b7b9904521292960e84ae1866f1a346d02126d8fafc
     created: '2026-07-04T10:28:18.147622+00:00'
-    modified: '2026-07-04T10:28:18.147622+00:00'
+    modified: '2026-07-04T14:56:07.132754+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Connections/00 - Connection Butcher.md:
+    checksum: 2569b611e9650b741e8207facf12e4015e752e9bd4ccb817229c9fef6df03805
+    created: '2026-07-04T14:56:07.132930+00:00'
+    modified: '2026-07-04T14:56:07.132930+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Vows/01 - Visit the three key settlements in Ashitaba.md:
+    checksum: 93831348c613eae862cb3e191fb189380c4cdd7e996ba71bdeacf7d86cef5fe4
+    created: '2026-07-04T14:56:07.133052+00:00'
+    modified: '2026-07-04T14:56:07.133052+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -1112,10 +1122,10 @@ files:
     created: '2026-02-11T23:33:41.795882+00:00'
     modified: '2026-02-12T16:44:46.026718+00:00'
     owner: nepturnal
-  The Starforged/Factions/Minami Clan, The.md:
+  The Starforged/Factions/Minami Clan.md:
     checksum: da960a02f8a88718b501b3494840af91357b01da7a30e97533f7348c36556abf
     created: '2026-07-04T07:34:45.150584+00:00'
-    modified: '2026-07-04T08:38:35.578209+00:00'
+    modified: '2026-07-04T14:56:07.133140+00:00'
     owner: thathulsguy
   The Starforged/Factions/Polestar Institute.md:
     checksum: 220b5fc0b6fc63c9cfcd1faacb184d8c7f843c56f1fb7e3a20bb59312c0a0a14
@@ -1127,10 +1137,10 @@ files:
     created: '2026-02-12T17:35:10.045435+00:00'
     modified: '2026-02-12T17:35:10.045435+00:00'
     owner: nepturnal
-  The Starforged/Factions/Red Suns, The.md:
+  The Starforged/Factions/Red Suns.md:
     checksum: acca088a0fd41d1a7b0ea468db92bc4982800d6b8de34ae86d988296a50cbd00
     created: '2026-07-04T07:20:53.963731+00:00'
-    modified: '2026-07-04T07:20:53.963731+00:00'
+    modified: '2026-07-04T14:56:07.133219+00:00'
     owner: thathulsguy
   The Starforged/Factions/Risen Union.md:
     checksum: 0bfc4bd8f846d17c56f440c0ecec6411599373d9519b95303822009f05ace8d4
@@ -1157,10 +1167,10 @@ files:
     created: '2026-06-19T17:15:30.718295+00:00'
     modified: '2026-06-25T15:42:56.603575+00:00'
     owner: alargefallinganvil
-  The Starforged/Factions/Void Cobras, The.md:
+  The Starforged/Factions/Void Cobras.md:
     checksum: 444207733aa0c0cb7d90f4e45763d4a083a9a90f06fe6a328f68b90d0d0e9471
     created: '2026-02-06T04:00:46.177402+00:00'
-    modified: '2026-07-04T07:20:53.963797+00:00'
+    modified: '2026-07-04T14:56:07.133296+00:00'
     owner: thathulsguy
   The Starforged/Locations/Map - Devil's Chain.excalidraw.md:
     checksum: c47cbc8ba70404b7ff1c7c67f23597cc4baccebbfba141313acc6cf21d25072f
@@ -1353,9 +1363,9 @@ files:
     modified: '2026-02-12T16:44:46.026901+00:00'
     owner: nepturnal
   The Starforged/Locations/Settlements/The Snakepit.md:
-    checksum: 6fbacc84b10a2f9ea43097ff8393996eec200ee2d0f0ed3dc54ec552ca92971a
+    checksum: 701ba8525426965dfc8f966abd42de52d507298d6cbe8a30da2c9085ed40d62f
     created: '2026-02-06T04:00:46.177864+00:00'
-    modified: '2026-07-04T07:20:53.963876+00:00'
+    modified: '2026-07-04T14:56:07.133331+00:00'
     owner: thathulsguy
   The Starforged/Locations/Settlements/Tranquilo (City).md:
     checksum: ba18f22f6b024cecdb508cc12ac8dc44082728dfc506da8f36a18105d2363efb
@@ -1438,9 +1448,9 @@ files:
     modified: '2026-06-17T23:39:51.802467+00:00'
     owner: jannythespartan
   The Starforged/NPCs/Machete.md:
-    checksum: 530989c1836f5dcad1c2e98b6dcb4b961603554f09c8eadf71b73a91452f196e
+    checksum: a27c981a1a4ff083a2040a1b76e145b823d221e270a172902390ca00c20ee3ce
     created: '2026-02-06T04:00:46.170983+00:00'
-    modified: '2026-07-04T07:20:53.963908+00:00'
+    modified: '2026-07-04T14:56:07.133388+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Merrick Arden.md:
     checksum: 6fc6c51e6c8a0590f0b68560c4e0a6a229262052939297aac1e055528888e35b
@@ -1457,6 +1467,11 @@ files:
     created: '2026-01-02T20:55:42.070156+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/NPCs/Rushdown's Minor Characters/Butcher.md:
+    checksum: f859d7888233494ecb39614683cf423ddd042135e8524cb7b838bf4c11a4a9a6
+    created: '2026-07-04T14:56:07.133468+00:00'
+    modified: '2026-07-04T14:56:07.133468+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Telrai Telemachon.md:
     checksum: 9cfb751f5f7d38dd199058af21f4780846a2269823805ed023f8d6f90a04447c
     created: '2026-02-19T15:19:55.395453+00:00'
