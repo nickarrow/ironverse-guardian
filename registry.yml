@@ -783,9 +783,9 @@ files:
     modified: '2026-07-04T20:37:25.879490+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 3 - Best Foot Forward.md:
-    checksum: 2d7f2120c02d2f1367bbb1939cdb0456b2d3cf9a8f6a41914d66e215c07655c4
+    checksum: 5a418f3fddcf76e0429e16f1204cb3b6f6730f997e94d09328846ce88834e051
     created: '2026-07-04T20:37:25.879655+00:00'
-    modified: '2026-07-04T21:37:04.705924+00:00'
+    modified: '2026-07-04T23:46:36.936076+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
@@ -797,10 +797,15 @@ files:
     created: '2026-06-16T01:00:06.900836+00:00'
     modified: '2026-07-03T16:46:48.300203+00:00'
     owner: alargefallinganvil
-  The Starforged/Campaign Julius Gamble/Progress/Connections.md:
-    checksum: 99861b8a574c5510a57f81b359553cd20d3f1be8ad74ccb4acdda0659b20724f
+  The Starforged/Campaign Julius Gamble/Progress/Connections/Brianna 'Bri' Savela.md:
+    checksum: 8d6844b798d39bb8b37122bfdf5d6e4c806ef4b24f678ddb22b6964de2839033
+    created: '2026-07-04T23:46:36.936259+00:00'
+    modified: '2026-07-04T23:46:36.936259+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Progress/Connections/Vega 'Mimic' Khan.md:
+    checksum: ab8a1f237f4036dacc3940364da1484691c6f027e023ee71dd462ff17bfa5071
     created: '2026-07-04T14:49:27.123607+00:00'
-    modified: '2026-07-04T14:49:27.123607+00:00'
+    modified: '2026-07-04T23:46:36.936457+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Progress/Recover the Crew Manifest.md:
     checksum: ae5ea650786205d7903a87e8030a6ee085e5495a9e6540edba5138a795960e0b
