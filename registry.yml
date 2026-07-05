@@ -853,9 +853,9 @@ files:
     modified: '2026-07-04T09:08:35.239527+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Rushdown 01 -.md:
-    checksum: f07e2c469a16fb54964612a7180f18d7a629fa3d1c9397d0ae5be924fb83a380
+    checksum: 9c589806daea21e6428fd63580039ff216b7a0acc2c49199bcae689a2069c06d
     created: '2026-07-04T10:28:18.147622+00:00'
-    modified: '2026-07-05T05:50:53.461526+00:00'
+    modified: '2026-07-05T07:47:54.483326+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/00 - Connection Butcher.md:
     checksum: c2019d3d9f1ce7761f8137b0708725e03a8e5f6dab7ab3e93dfe1bbb5ee17da6
@@ -863,9 +863,9 @@ files:
     modified: '2026-07-04T16:09:59.190891+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Visit the three key settlements in Ashitaba.md:
-    checksum: 93831348c613eae862cb3e191fb189380c4cdd7e996ba71bdeacf7d86cef5fe4
+    checksum: 3f49217e8d97ee936f1df7428f83b6050a407e7c255616afc9a87d9eaf4f0ba0
     created: '2026-07-04T14:56:07.133052+00:00'
-    modified: '2026-07-04T14:56:07.133052+00:00'
+    modified: '2026-07-05T07:47:54.483379+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -1393,9 +1393,9 @@ files:
     modified: '2026-07-04T14:56:07.133331+00:00'
     owner: thathulsguy
   The Starforged/Locations/Settlements/Tranquilo (City).md:
-    checksum: ba18f22f6b024cecdb508cc12ac8dc44082728dfc506da8f36a18105d2363efb
+    checksum: 4d378dfde237cd530ee635fe5f38d33d7d94ae7d5e28eaab4981496ed3aabfc1
     created: '2026-07-04T08:38:35.578459+00:00'
-    modified: '2026-07-04T08:38:35.578459+00:00'
+    modified: '2026-07-05T07:47:54.483412+00:00'
     owner: thathulsguy
   The Starforged/Locations/Vaults/Hewligan's Hope.md:
     checksum: e349dc7ab6a8f2d031fa0172acd6b6e82561682ca6a774c7ef0ddf8e478e9b09
@@ -1511,6 +1511,11 @@ files:
     checksum: 8abfd282b209e1664d6bb47106eac528e4c3bfd94632383f427c9cf7b4b115ec
     created: '2026-07-04T16:09:59.191002+00:00'
     modified: '2026-07-04T16:09:59.191002+00:00'
+    owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/Florian Angel.md:
+    checksum: a176eb50a2c92d49e83f85d4b71d390646a6ea27c8e625c47cdfa66cfd0b600e
+    created: '2026-07-05T07:47:54.483537+00:00'
+    modified: '2026-07-05T07:47:54.483537+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Telrai Telemachon.md:
     checksum: 9cfb751f5f7d38dd199058af21f4780846a2269823805ed023f8d6f90a04447c
