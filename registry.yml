@@ -757,6 +757,11 @@ files:
     created: '2026-07-04T17:32:44.006438+00:00'
     modified: '2026-07-04T17:32:44.006438+00:00'
     owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Attachments/The Silver Rose.jpg:
+    checksum: 0643fdef1c20ff25a1a3de2b3d4f27a5aa13db5fabcc2b7c3c5c420cef7f9825
+    created: '2026-07-06T22:23:26.858454+00:00'
+    modified: '2026-07-06T22:23:26.858454+00:00'
+    owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Campaign Julius Gamble.md:
     checksum: 990d74a6fcf1fc9c83ccd94d719e3c8ff6e5c37e67c19ed30248a7cc7025639a
     created: '2026-06-15T18:56:19.144504+00:00'
@@ -783,14 +788,19 @@ files:
     modified: '2026-07-04T20:37:25.879490+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 3 - Best Foot Forward.md:
-    checksum: 9a147c85bc4ef01395e70f349b357b67fba45fcf7efca76871d1a89c73142034
+    checksum: b8ede331f234a9c0e6c77e9522a40c50f2a8e1da5a98c35bc771509f6b00a279
     created: '2026-07-04T20:37:25.879655+00:00'
-    modified: '2026-07-05T00:03:23.262282+00:00'
+    modified: '2026-07-06T22:23:26.858520+00:00'
+    owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Journals/Captain's Log 4 - Brake Fast In Case of Emergency.md:
+    checksum: e63098b5b37d32f6e3c8cbcd3f9365bddf98b503a1ad71605ff1fa716c975155
+    created: '2026-07-06T22:23:26.858612+00:00'
+    modified: '2026-07-06T22:23:26.858612+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
-    checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
+    checksum: 0516dc1849f2f2233cc46ccb619d3b7e71a5df08e4408ab2157a343edd41b9b6
     created: '2026-06-16T01:00:06.900756+00:00'
-    modified: '2026-06-16T01:00:06.900756+00:00'
+    modified: '2026-07-06T22:23:26.858639+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Progress/Become A Legend.md:
     checksum: 0a16f19eb137fbffac7cf7e0263581c571e866f9c98279991288f7b79bfcc410
