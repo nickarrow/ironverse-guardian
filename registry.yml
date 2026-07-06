@@ -842,20 +842,40 @@ files:
     created: '2026-07-04T07:20:53.963595+00:00'
     modified: '2026-07-05T16:05:17.577393+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Journals/Rushdown 00 - Setting the Scene.md:
-    checksum: 41282c7ca64110f616d03af24384ff4cf127ea6874743a4486edb0f2462eff26
+  The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
+    checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
     created: '2026-07-04T09:08:35.239377+00:00'
-    modified: '2026-07-05T16:06:23.495433+00:00'
+    modified: '2026-07-06T13:55:52.782478+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Journals/Rushdown 01 - New Beginnings.md:
-    checksum: 661cce4a8e330182935a008a709afc05ecf57b5014f4acf6a0abc909ef9cdf70
+  The Starforged/Campaign Rushdown/Journals/01 - Rushdown - New Beginnings.md:
+    checksum: d4735c675cb27458146362b10f30c5ceb9d16bfec566da30e8a33d33322b884d
     created: '2026-07-04T10:28:18.147622+00:00'
-    modified: '2026-07-06T04:31:55.031245+00:00'
+    modified: '2026-07-06T13:55:52.782626+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/02 - Rushdown - WIP.md:
+    checksum: b2181b0c1355f060e56f3072bc024a790272c9884b94b904a38baf580daf75d3
+    created: '2026-07-06T13:55:52.782723+00:00'
+    modified: '2026-07-06T13:55:52.782723+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
+    checksum: b6e81cd44a471d67f891dd60a7d0f172ee523535a8aff6d30a71b5df2b61af10
+    created: '2026-07-06T13:55:52.782810+00:00'
+    modified: '2026-07-06T13:55:52.782810+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
-    checksum: 4a0b0fbdbf6ee3656f62dec525e8a2b1cbf11073bb250e465bcfdced0b953c44
+    checksum: 3d880998e8d72a8e007a1c2f4bfb72c83908814572450396150823c6e9039959
     created: '2026-07-04T09:08:35.239527+00:00'
-    modified: '2026-07-04T09:08:35.239527+00:00'
+    modified: '2026-07-06T13:55:52.782846+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/Skullcrusher.md:
+    checksum: 45f2b675ba70c031dbc5a4bd2849b778fecd4a7135f14e339a735f877a15a606
+    created: '2026-07-06T13:55:52.782928+00:00'
+    modified: '2026-07-06T13:55:52.782928+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/Vagabond.md:
+    checksum: e48649c4bf0bf2d9607296a9f3d31fb28a2038c4161b8551336da187bd41d3b8
+    created: '2026-07-06T13:55:52.783011+00:00'
+    modified: '2026-07-06T13:55:52.783011+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1147,6 +1167,11 @@ files:
     created: '2026-01-13T13:52:42.734217+00:00'
     modified: '2026-02-25T02:47:59.512802+00:00'
     owner: solarblaster
+  The Starforged/Factions/Ironsail Raiders.md:
+    checksum: 7da2c4afaa157191848ba396b4593719625718872991d37020b007d7881e81c0
+    created: '2026-07-06T13:55:52.783096+00:00'
+    modified: '2026-07-06T13:55:52.783096+00:00'
+    owner: thathulsguy
   The Starforged/Factions/Library of Protected Lore.md:
     checksum: 61143579ae2530f38ddc0241bef5aa531e3f6ef0781187cf6a22c40fd1dfad4f
     created: '2026-02-11T23:33:41.795882+00:00'
@@ -1158,9 +1183,9 @@ files:
     modified: '2026-07-04T14:56:07.133140+00:00'
     owner: thathulsguy
   The Starforged/Factions/Polestar Institute.md:
-    checksum: 220b5fc0b6fc63c9cfcd1faacb184d8c7f843c56f1fb7e3a20bb59312c0a0a14
+    checksum: 5019bd066ed48ca508c2f6a28f69aa350fee85f970c5d151dbe05526fdea8a29
     created: '2026-02-20T12:35:20.938421+00:00'
-    modified: '2026-02-20T12:35:20.938421+00:00'
+    modified: '2026-07-06T13:55:52.783134+00:00'
     owner: thathulsguy
   The Starforged/Factions/RU Splinter Group.md:
     checksum: 5341b4d20fc4d1112f8f7f27e7da797597c0e8fdfa2e9957bbedb7c95610b95f
