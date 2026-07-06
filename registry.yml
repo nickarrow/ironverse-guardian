@@ -838,9 +838,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 7d12fb699831fe58b6adeea8dbce24bc44c1a3d82beee61951aa917c7a438ce4
+    checksum: 33a773b740aec72f1eab4eafb9cb8d0f80c59a6e3ee3a21085de0a396bd0a0e3
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-05T16:05:17.577393+00:00'
+    modified: '2026-07-06T15:27:45.093851+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -853,29 +853,19 @@ files:
     modified: '2026-07-06T13:55:52.782626+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/02 - Rushdown - WIP.md:
-    checksum: b2181b0c1355f060e56f3072bc024a790272c9884b94b904a38baf580daf75d3
+    checksum: 7fc6f3e7d462017ea63a51bd6c60153a8d0ee9a852ec6e667bec7c7612f1cd03
     created: '2026-07-06T13:55:52.782723+00:00'
-    modified: '2026-07-06T13:55:52.782723+00:00'
+    modified: '2026-07-06T15:27:45.093896+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
-    checksum: b6e81cd44a471d67f891dd60a7d0f172ee523535a8aff6d30a71b5df2b61af10
+    checksum: f2808e4497ea463e09aee4e7e9e7e8d1848b3c43bbf1b51a99f39fe9335de1ef
     created: '2026-07-06T13:55:52.782810+00:00'
-    modified: '2026-07-06T13:55:52.782810+00:00'
+    modified: '2026-07-06T15:27:45.093915+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
     checksum: 3d880998e8d72a8e007a1c2f4bfb72c83908814572450396150823c6e9039959
     created: '2026-07-04T09:08:35.239527+00:00'
     modified: '2026-07-06T13:55:52.782846+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/Skullcrusher.md:
-    checksum: 45f2b675ba70c031dbc5a4bd2849b778fecd4a7135f14e339a735f877a15a606
-    created: '2026-07-06T13:55:52.782928+00:00'
-    modified: '2026-07-06T13:55:52.782928+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/Vagabond.md:
-    checksum: e48649c4bf0bf2d9607296a9f3d31fb28a2038c4161b8551336da187bd41d3b8
-    created: '2026-07-06T13:55:52.783011+00:00'
-    modified: '2026-07-06T13:55:52.783011+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -888,9 +878,9 @@ files:
     modified: '2026-07-04T16:09:59.190891+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md:
-    checksum: dae99246b77de46bab2fb230eebac97d6dc92caec2ebfd2c562bdba1174f719d
+    checksum: 8e2493744905a11b6937908293ee653e1613bc1313e96cdb2878a333ae684cd3
     created: '2026-07-05T16:05:17.577871+00:00'
-    modified: '2026-07-05T16:05:17.577871+00:00'
+    modified: '2026-07-06T15:27:45.093935+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Visit the three key settlements in Ashitaba.md:
     checksum: 3f49217e8d97ee936f1df7428f83b6050a407e7c255616afc9a87d9eaf4f0ba0
@@ -1551,6 +1541,16 @@ files:
     checksum: a176eb50a2c92d49e83f85d4b71d390646a6ea27c8e625c47cdfa66cfd0b600e
     created: '2026-07-05T07:47:54.483537+00:00'
     modified: '2026-07-05T07:47:54.483537+00:00'
+    owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/Skullcrusher.md:
+    checksum: 9e1f281e8019dcb8de958c250f4148ecc62da7d9df011deceb51822954cde3cc
+    created: '2026-07-06T13:55:52.782928+00:00'
+    modified: '2026-07-06T15:27:45.094050+00:00'
+    owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/Vagabond.md:
+    checksum: 3ec535bffc650356d17650a7d8959d6f4885462f0c746878e1587ab93754c39e
+    created: '2026-07-06T13:55:52.783011+00:00'
+    modified: '2026-07-06T15:27:45.094109+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Telrai Telemachon.md:
     checksum: 9cfb751f5f7d38dd199058af21f4780846a2269823805ed023f8d6f90a04447c
