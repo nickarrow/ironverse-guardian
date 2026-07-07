@@ -848,9 +848,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 285d9517edabe17ecaa6f566c86ff133d0e92c4606dc766a2c95e9049ffa62ff
+    checksum: 8bf666823a6aa4b4edf80d0e1a7314f17c32152564909076d3335196b2483bfc
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-07T02:35:46.389548+00:00'
+    modified: '2026-07-07T06:43:46.861438+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -858,14 +858,19 @@ files:
     modified: '2026-07-06T13:55:52.782478+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/01 - Rushdown - New Beginnings.md:
-    checksum: d4735c675cb27458146362b10f30c5ceb9d16bfec566da30e8a33d33322b884d
+    checksum: b7672fd3d6274be9cac15c157d2cac558fd93ef80596d174b998bc65cf67deed
     created: '2026-07-04T10:28:18.147622+00:00'
-    modified: '2026-07-06T13:55:52.782626+00:00'
+    modified: '2026-07-07T06:43:46.861504+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/02 - Rushdown - WIP.md:
-    checksum: 17301d89fa666046b69cfc62daa2f8e66d07254c58a019fceb05e914321485c5
+  The Starforged/Campaign Rushdown/Journals/02 - Rushdown - Hunting down Ironsails.md:
+    checksum: a013a77ee511372a58d6da59d05619398332373610bdbc5b9e95c599175c4055
     created: '2026-07-06T13:55:52.782723+00:00'
-    modified: '2026-07-07T06:12:51.826307+00:00'
+    modified: '2026-07-07T06:43:46.861715+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/03 - Rushdown - WIP.md:
+    checksum: 4e9bc28df9387389405aa993d25f9808b25a7b88defd57f2c1ae92f26a075d44
+    created: '2026-07-07T06:43:46.861805+00:00'
+    modified: '2026-07-07T06:43:46.861805+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: f2808e4497ea463e09aee4e7e9e7e8d1848b3c43bbf1b51a99f39fe9335de1ef
