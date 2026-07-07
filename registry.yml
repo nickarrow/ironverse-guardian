@@ -768,14 +768,14 @@ files:
     modified: '2026-06-15T18:56:55.028869+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Characters/Julius Gamble.md:
-    checksum: 16c9bef98ee744e24e6b92cb29fab9aafdf64c724ce4d925df91adbd96382879
+    checksum: da2907074116955ade23f95b20fa3ee6a33264e431866d8aebfe07ada111bb41
     created: '2026-06-15T18:56:19.144649+00:00'
-    modified: '2026-07-04T17:32:44.006487+00:00'
+    modified: '2026-07-07T20:52:04.574510+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Clocks/Underworld Retribution.md:
-    checksum: c5c22364f658bbb5c98d3ae3039df94f6316bd1bcad6c0bb2f6f05e8993fdf99
+    checksum: 42ce52d6051333a16394465bebf54a92f07ae95cc408d56e3fe96195ede3d9d7
     created: '2026-06-16T01:00:06.900550+00:00'
-    modified: '2026-06-25T15:42:56.603460+00:00'
+    modified: '2026-07-07T20:52:04.574593+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 1 - Rebirth.md:
     checksum: 0d3611ec5a0cc33961fd8fea756cad484a652acb15c20b18510ccb17278409e4
@@ -793,9 +793,9 @@ files:
     modified: '2026-07-07T14:32:28.221105+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 4 - Brake In Case of Emergency.md:
-    checksum: e9aff728923dfa744ba3f714f23a3396c036d8d1117e9de0537998d9fcde5a21
+    checksum: fd0ee791a526c2e353a7f1382339e026312de4f14174237afb280691dfeaf042
     created: '2026-07-07T14:32:28.221360+00:00'
-    modified: '2026-07-07T16:54:37.768726+00:00'
+    modified: '2026-07-07T20:52:04.574680+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 0516dc1849f2f2233cc46ccb619d3b7e71a5df08e4408ab2157a343edd41b9b6
@@ -817,10 +817,15 @@ files:
     created: '2026-07-04T14:49:27.123607+00:00'
     modified: '2026-07-04T23:46:36.936457+00:00'
     owner: alargefallinganvil
+  The Starforged/Campaign Julius Gamble/Progress/Expedition into the Anaxes Minefield.md:
+    checksum: f61cc1af0289c58eb1a8a803a39bd37e235a5a5c4eb886dee4b5efa4372b0f8a
+    created: '2026-07-07T20:52:04.574982+00:00'
+    modified: '2026-07-07T20:52:04.574982+00:00'
+    owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Progress/Recover the Crew Manifest.md:
-    checksum: 849fa4cc4fd74c89435f33b9917790c43ada8a67f4b56cf37269edb7b926e02f
+    checksum: 815463b2ff500aeef5a359ab0a87217c2a02fb2e8a6efbe2ad7605745a027bbd
     created: '2026-07-03T16:46:48.300344+00:00'
-    modified: '2026-07-05T00:03:23.262315+00:00'
+    modified: '2026-07-07T20:52:04.575080+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Progress/Secure A New Hull ID.md:
     checksum: 2f70701bd65d3207082cfbc092ceb1c0315200d359469bbbb046303a333992e5
