@@ -848,9 +848,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 8bf666823a6aa4b4edf80d0e1a7314f17c32152564909076d3335196b2483bfc
+    checksum: 44e79f354216d45e15a92f8deb715920bf5531cfd2010fb97bed09e86b9113f2
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-07T06:43:46.861438+00:00'
+    modified: '2026-07-07T09:30:42.017902+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -868,9 +868,9 @@ files:
     modified: '2026-07-07T06:43:46.861715+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/03 - Rushdown - WIP.md:
-    checksum: 4e9bc28df9387389405aa993d25f9808b25a7b88defd57f2c1ae92f26a075d44
+    checksum: 8e3c526aee03db3374dca742a70fde0c318e28028e20b91ba5d7ceff66891ce4
     created: '2026-07-07T06:43:46.861805+00:00'
-    modified: '2026-07-07T06:43:46.861805+00:00'
+    modified: '2026-07-07T09:30:42.017956+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: f2808e4497ea463e09aee4e7e9e7e8d1848b3c43bbf1b51a99f39fe9335de1ef
@@ -878,9 +878,9 @@ files:
     modified: '2026-07-06T15:27:45.093915+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
-    checksum: c3e92b43ad63513e07f008e0910e39caa3cd22f903aa271704e58c9f47111a8d
+    checksum: 729ed10e016f64e590e2dfa6b164270e88c2e1519bdeb403664e6246eed5afd4
     created: '2026-07-04T09:08:35.239527+00:00'
-    modified: '2026-07-07T02:35:46.389645+00:00'
+    modified: '2026-07-07T09:30:42.017988+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1566,6 +1566,11 @@ files:
     checksum: 3ec535bffc650356d17650a7d8959d6f4885462f0c746878e1587ab93754c39e
     created: '2026-07-06T13:55:52.783011+00:00'
     modified: '2026-07-06T15:27:45.094109+00:00'
+    owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/Wynne Barrow.md:
+    checksum: 2be46247cbe24c992cc26a41570f9e70060a4e32766d960bf6a829f1c2bb02c1
+    created: '2026-07-07T09:30:42.018140+00:00'
+    modified: '2026-07-07T09:30:42.018140+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Telrai Telemachon.md:
     checksum: 9cfb751f5f7d38dd199058af21f4780846a2269823805ed023f8d6f90a04447c
