@@ -868,9 +868,9 @@ files:
     modified: '2026-07-07T06:43:46.861715+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/03 - Rushdown - WIP.md:
-    checksum: 864a2ced4476820b1ddee4283253806424e78490d0e920e3f0c045e41b4185c5
+    checksum: 6dfcd22ad4635eb51cc02dc0eadf199457ef6c3e2862960158876df36e0d6e1c
     created: '2026-07-07T06:43:46.861805+00:00'
-    modified: '2026-07-07T11:58:04.129936+00:00'
+    modified: '2026-07-07T14:41:38.028807+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: f2808e4497ea463e09aee4e7e9e7e8d1848b3c43bbf1b51a99f39fe9335de1ef
@@ -888,9 +888,9 @@ files:
     modified: '2026-07-05T16:05:17.577749+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/00 - Connection Butcher.md:
-    checksum: c2019d3d9f1ce7761f8137b0708725e03a8e5f6dab7ab3e93dfe1bbb5ee17da6
+    checksum: 3fb40d7e72f1abb3937a64b3612e7578c8fa962e0d35b157c047184706b4543e
     created: '2026-07-04T14:56:07.132930+00:00'
-    modified: '2026-07-04T16:09:59.190891+00:00'
+    modified: '2026-07-07T14:41:38.028850+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md:
     checksum: 74ad55ba98912bae22b9c19f83f4294ce7d78542e5575e301bc3713db64c0143
@@ -901,6 +901,11 @@ files:
     checksum: f2bf0bf939339b6bb829aa538749470c082a9b0c9e5bb9071caa6b937dcd63ac
     created: '2026-07-04T14:56:07.133052+00:00'
     modified: '2026-07-07T11:58:04.129972+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Vows/03 - Patrol the Minami outposts until ambushed.md:
+    checksum: dc39b81b7a50f7637d350d683df97fddc752d54425db330e19e1d68852140f1f
+    created: '2026-07-07T14:41:38.028997+00:00'
+    modified: '2026-07-07T14:41:38.028997+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
