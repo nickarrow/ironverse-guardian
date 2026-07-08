@@ -888,9 +888,9 @@ files:
     modified: '2026-07-08T04:48:17.688002+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/04 - Rushdown - WIP.md:
-    checksum: 5346a26cf463fb43ad9f70f0e913459671667d9e684693be0edd9f624dce8562
+    checksum: 78b3fd8b7639f8d0de7500aacda433d8271de15abec6e6817f103ec864a20727
     created: '2026-07-08T02:53:12.886955+00:00'
-    modified: '2026-07-08T04:51:33.569409+00:00'
+    modified: '2026-07-08T09:33:40.720588+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: a4e1207c0205abe67627636dcb4a490c848819aa6ba42579917195a3dd171d60
@@ -926,6 +926,11 @@ files:
     checksum: 5a33a55a889331211c11db315d2bd3e50d0abbee823a84a0184399d3f0d766a5
     created: '2026-07-04T14:56:07.132930+00:00'
     modified: '2026-07-07T16:36:20.500275+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md:
+    checksum: c0c3e041619288d5932c77d3392550f56cf19cc609885ffbf01cc5545547edd0
+    created: '2026-07-08T09:33:40.720779+00:00'
+    modified: '2026-07-08T09:33:40.720779+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Expeditions/03 - Minami Outpost Patrol.md:
     checksum: 8e1b825eb4d378e5ca64d203a38398694ccd4c1cdfa4ebdec26788ac89dc1120
