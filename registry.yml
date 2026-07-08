@@ -888,34 +888,24 @@ files:
     modified: '2026-07-08T14:18:30.016543+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/04 - Rushdown - Former Glory.md:
-    checksum: 76ab0cc5092703c3200cd89ffc14e214e09e4414271314314fd1237edf53f238
+    checksum: e3cf4e8d86b3b98be484e23b6dadc68004a7e6774d6f18574e6afaad3744554a
     created: '2026-07-08T02:53:12.886955+00:00'
-    modified: '2026-07-08T14:18:30.016763+00:00'
+    modified: '2026-07-08T15:13:10.298349+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/05 - Rushdown - WIP.md:
-    checksum: b0668bb4671e7944841735056d36857575235c5d56d428f78e841db785d9d00f
+    checksum: c6e483653d75850810e1c1132db9f96febaba408cf78d29fdd7117d6dea30a36
     created: '2026-07-08T14:18:30.016906+00:00'
-    modified: '2026-07-08T14:18:30.016906+00:00'
+    modified: '2026-07-08T15:13:10.298402+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: a4e1207c0205abe67627636dcb4a490c848819aa6ba42579917195a3dd171d60
     created: '2026-07-06T13:55:52.782810+00:00'
     modified: '2026-07-07T16:36:20.500214+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/Gray.md:
-    checksum: b983439fcb8baa8ab0bed748ba5a1f4c8678972bc53d01da1f4f99edddf91603
-    created: '2026-07-08T02:53:12.887113+00:00'
-    modified: '2026-07-08T02:53:12.887113+00:00'
-    owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
     checksum: 7936053a11b5f41d1fe81614aaff07fb36698b1ad6a78c5ed7e10e532fcc7c38
     created: '2026-07-04T09:08:35.239527+00:00'
     modified: '2026-07-08T14:18:30.016955+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/Switchblade.md:
-    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-    created: '2026-07-08T02:53:12.887260+00:00'
-    modified: '2026-07-08T02:53:12.887260+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1262,10 +1252,15 @@ files:
     created: '2025-12-17T20:28:29.565713+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/Factions/Satonaka Clan.md:
+    checksum: 571cfe8ac1908d676accf51cc2e6868c6a7eda441da8ac1872425d023294cff0
+    created: '2026-07-08T15:13:10.298500+00:00'
+    modified: '2026-07-08T15:13:10.298500+00:00'
+    owner: thathulsguy
   The Starforged/Factions/Takamaki Heavy Industries.md:
-    checksum: 7680b017a39f7201f96e110eb12ba6e5c9c28931be6760a2bb60a6f44a5000f1
+    checksum: 10e87d4826a18b4443b8cb516694ec7f3916680829b022517c8d8e729700def7
     created: '2026-07-04T09:08:35.239560+00:00'
-    modified: '2026-07-04T09:08:35.239560+00:00'
+    modified: '2026-07-08T15:13:10.298532+00:00'
     owner: thathulsguy
   The Starforged/Factions/The Congregation of Ethereal Paladins.md:
     checksum: 2daea576ebf29fa2dbcd61fc787b75fd5d7b4d1ce8cce4722b2cad415008b3ea
@@ -1598,9 +1593,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/NPCs/Rushdown's Minor Characters/Butcher.md:
-    checksum: 2cbb013c123a1edcf8f12216e070a0cd7bd25e3b6ce0cfbc6897b82d1f5d640a
+    checksum: a72f7f9a1860d475e96d3e1104421b77f18643df7dc0fa5cc72146cb89e1c0b7
     created: '2026-07-04T14:56:07.133468+00:00'
-    modified: '2026-07-08T14:18:30.017021+00:00'
+    modified: '2026-07-08T15:13:10.298561+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Rushdown's Minor Characters/Cassidy.md:
     checksum: 8abfd282b209e1664d6bb47106eac528e4c3bfd94632383f427c9cf7b4b115ec
@@ -1612,10 +1607,20 @@ files:
     created: '2026-07-05T07:47:54.483537+00:00'
     modified: '2026-07-05T07:47:54.483537+00:00'
     owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/Gray.md:
+    checksum: e5b34ec6301e1cdf41fb5795da9209fe5c8216ca2dcf4c995384e6d1dcb16b0a
+    created: '2026-07-08T15:13:10.298654+00:00'
+    modified: '2026-07-08T15:13:10.298654+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Rushdown's Minor Characters/Skullcrusher.md:
     checksum: 9e1f281e8019dcb8de958c250f4148ecc62da7d9df011deceb51822954cde3cc
     created: '2026-07-06T13:55:52.782928+00:00'
     modified: '2026-07-06T15:27:45.094050+00:00'
+    owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/Switchblade.md:
+    checksum: 42c00139aa18f59a8db1bd100e896fc16af27a4f2b06fd147f889dc51efa729b
+    created: '2026-07-08T15:13:10.298719+00:00'
+    modified: '2026-07-08T15:13:10.298719+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Rushdown's Minor Characters/Vagabond.md:
     checksum: 3ec535bffc650356d17650a7d8959d6f4885462f0c746878e1587ab93754c39e
