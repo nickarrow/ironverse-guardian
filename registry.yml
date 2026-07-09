@@ -863,9 +863,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 9587a76184c61e681e415ce92c60375526cacc857fdb0347a8318c6e5b713865
+    checksum: c697e20dde365b18b18241c14344e2543496a5e6a9fae4211c1f557511c964fa
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-08T04:48:17.687929+00:00'
+    modified: '2026-07-09T16:38:01.980392+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -893,9 +893,9 @@ files:
     modified: '2026-07-08T15:13:10.298349+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/05 - Rushdown - WIP.md:
-    checksum: bf7cf50b77c56f1c20f4e4c855a91585db6da284abbd2e54be3390763ad6c967
+    checksum: f07cc6b49562f221e621244d0d9d8cbfd6e2d5ff797d57b22d41f5496166dd03
     created: '2026-07-08T14:18:30.016906+00:00'
-    modified: '2026-07-09T11:48:46.534570+00:00'
+    modified: '2026-07-09T16:38:01.980468+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: a4e1207c0205abe67627636dcb4a490c848819aa6ba42579917195a3dd171d60
@@ -917,15 +917,30 @@ files:
     created: '2026-07-08T04:48:17.688254+00:00'
     modified: '2026-07-08T04:48:17.688254+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Combat/05 - Fight through to the gang leader's office.md:
+    checksum: 50495e0be9c102011565b630c594fc102b2a9d52256fbf9de839439ccdb04435
+    created: '2026-07-09T16:38:01.980661+00:00'
+    modified: '2026-07-09T16:38:01.980661+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Combat/05 - Take out the Gang Leader.md:
+    checksum: ed41dca64fb400c5a638d7819b96dd032570dcf6722d082fb77d1e3397b99e87
+    created: '2026-07-09T16:38:01.980770+00:00'
+    modified: '2026-07-09T16:38:01.980770+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/00 - Connection Butcher.md:
     checksum: 5a33a55a889331211c11db315d2bd3e50d0abbee823a84a0184399d3f0d766a5
     created: '2026-07-04T14:56:07.132930+00:00'
     modified: '2026-07-07T16:36:20.500275+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Connections/Connection Bigmouth.md:
+    checksum: 161601c1c2f08c1c1a685561c6fed0a7bde0b510959bf0060ed602bbb5f0ca9f
+    created: '2026-07-09T16:38:01.980859+00:00'
+    modified: '2026-07-09T16:38:01.980859+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md:
-    checksum: 49c0537cf719d4dec5322cc73eb5e451d0964bd93dd7bf7e951da5a423a5d418
+    checksum: f10c5b4a54c97a6dc2e8744643c89e45cda02ea7aa1be39ed6b66a731bc7a41d
     created: '2026-07-08T09:33:40.720779+00:00'
-    modified: '2026-07-08T14:18:30.016989+00:00'
+    modified: '2026-07-09T16:38:01.980890+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Expeditions/03 - Minami Outpost Patrol.md:
     checksum: 8e1b825eb4d378e5ca64d203a38398694ccd4c1cdfa4ebdec26788ac89dc1120
@@ -946,6 +961,11 @@ files:
     checksum: 97794c2b69b3750172b70b52b18c5eb4229f422e494b017189589a8a54242590
     created: '2026-07-07T14:41:38.028997+00:00'
     modified: '2026-07-08T04:48:17.688322+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Vows/05 - Hostage Rescue.md:
+    checksum: 65fe7e38c6407ac94d921e22c53e7c29c95942857ec5fafc879c3f033365e466
+    created: '2026-07-09T16:38:01.981007+00:00'
+    modified: '2026-07-09T16:38:01.981007+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -1227,6 +1247,11 @@ files:
     created: '2026-02-11T23:33:41.795882+00:00'
     modified: '2026-02-12T16:44:46.026718+00:00'
     owner: nepturnal
+  The Starforged/Factions/Local Ashitaba Factions/Angel Brothers.md:
+    checksum: 0bbb6afa853ffcc027d62943c6ff07bc7efc773de911b0a6949e4e73998aca12
+    created: '2026-07-09T16:38:01.981076+00:00'
+    modified: '2026-07-09T16:38:01.981076+00:00'
+    owner: thathulsguy
   The Starforged/Factions/Minami Clan.md:
     checksum: da960a02f8a88718b501b3494840af91357b01da7a30e97533f7348c36556abf
     created: '2026-07-04T07:34:45.150584+00:00'
@@ -1483,9 +1508,9 @@ files:
     modified: '2026-07-04T14:56:07.133331+00:00'
     owner: thathulsguy
   The Starforged/Locations/Settlements/Tranquilo (City).md:
-    checksum: 4d378dfde237cd530ee635fe5f38d33d7d94ae7d5e28eaab4981496ed3aabfc1
+    checksum: eb0c8e34c4cefb9ac38a66906911bca319562e853429f9fa732099144f6c198b
     created: '2026-07-04T08:38:35.578459+00:00'
-    modified: '2026-07-05T07:47:54.483412+00:00'
+    modified: '2026-07-09T16:38:01.981110+00:00'
     owner: thathulsguy
   The Starforged/Locations/Vaults/Hewligan's Hope.md:
     checksum: e349dc7ab6a8f2d031fa0172acd6b6e82561682ca6a774c7ef0ddf8e478e9b09
@@ -1592,6 +1617,11 @@ files:
     created: '2026-01-02T20:55:42.070156+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  The Starforged/NPCs/Rushdown's Minor Characters/Bigmouth Salvi.md:
+    checksum: c9f0a71f8e478877e4b15c7ba3ea76a4c877fd6ddd7ef3a44c158b1f61d37d25
+    created: '2026-07-09T16:38:01.981166+00:00'
+    modified: '2026-07-09T16:38:01.981166+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Rushdown's Minor Characters/Butcher.md:
     checksum: a72f7f9a1860d475e96d3e1104421b77f18643df7dc0fa5cc72146cb89e1c0b7
     created: '2026-07-04T14:56:07.133468+00:00'
