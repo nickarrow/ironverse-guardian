@@ -45,6 +45,11 @@ files:
     created: '2026-06-28T02:53:03.535859+00:00'
     modified: '2026-06-28T02:53:03.535859+00:00'
     owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Progress/Confront those attacking the Paladin.md"':
+    checksum: ''
+    created: '2026-07-12T21:53:01.008647+00:00'
+    modified: '2026-07-12T21:53:01.008647+00:00'
+    owner: jannythespartan
   '"The Starforged/Campaign Sable Rowe/Journals/Sable 02 - Meeting Merrick and Tracking Branta\342\200\231s.md"':
     checksum: ''
     created: '2026-02-06T01:00:29.611118+00:00'
@@ -1398,9 +1403,9 @@ files:
     modified: '2026-02-14T13:01:28.252205+00:00'
     owner: thathulsguy
   The Starforged/Locations/Planets/Rosston.md:
-    checksum: a9eee1ad03328430c393a0b721a986e3d8c9c1ccb6d5e0d8d6290a4f9976a41b
+    checksum: ecc71e27374157848b27bd719ef5da0d3e2d3d2d9dd66d333461e0ebb9dfc566
     created: '2026-06-16T05:47:45.080747+00:00'
-    modified: '2026-07-02T01:11:00.905913+00:00'
+    modified: '2026-07-12T21:53:01.008729+00:00'
     owner: jannythespartan
   The Starforged/Locations/Planets/Taraxus.md:
     checksum: a3f54fc851e09b7cbb3710fccf412995822fc820181af3b91b5b6b2cb4646454
