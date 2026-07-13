@@ -928,9 +928,9 @@ files:
     modified: '2026-07-10T14:12:28.623312+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/06 - Rushdown - WIP.md:
-    checksum: 1c70b67f7aa6db75fadf2ef2333fea0b9dff163e252a4be56270a3d3ba2d1785
+    checksum: b145e6965f0ac1ae5d5ff81d931a7e82c520e1e1ec2d08ed15b1ef61f223a5b9
     created: '2026-07-12T09:55:25.597292+00:00'
-    modified: '2026-07-12T09:55:25.597292+00:00'
+    modified: '2026-07-13T04:37:56.833200+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: a4e1207c0205abe67627636dcb4a490c848819aa6ba42579917195a3dd171d60
@@ -941,6 +941,11 @@ files:
     checksum: c8317e8ab504081b3f2110ba8675bf43bae348901099d49f1fd0c3309e0046ec
     created: '2026-07-04T09:08:35.239527+00:00'
     modified: '2026-07-09T16:53:21.189875+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/Rahul Shah.md:
+    checksum: 69c80292124eeafc44106f99ab9eaa6f7362d38f128f5a24ad427cd205571250
+    created: '2026-07-13T04:37:56.833359+00:00'
+    modified: '2026-07-13T04:37:56.833359+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -971,6 +976,11 @@ files:
     checksum: 161601c1c2f08c1c1a685561c6fed0a7bde0b510959bf0060ed602bbb5f0ca9f
     created: '2026-07-09T16:38:01.980859+00:00'
     modified: '2026-07-09T16:38:01.980859+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Connections/Connection Florian Angel.md:
+    checksum: bcf4d09c074e908811396fbafcb32ea3f3334313b69ec5e2ae55912cd6d94ba4
+    created: '2026-07-13T04:37:56.833486+00:00'
+    modified: '2026-07-13T04:37:56.833486+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md:
     checksum: c83f636b903617671eb502a173341da8c505d4c2db514e4187d42872880bc7d4
