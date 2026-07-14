@@ -195,6 +195,11 @@ files:
     created: '2026-07-14T03:02:18.176821+00:00'
     modified: '2026-07-14T03:02:18.176821+00:00'
     owner: alargefallinganvil
+  Sundered Isles - Patrocia/Attachments/Sundered Isles - Patrocia V4.jpg:
+    checksum: 7b35b168f7bd602e753f1282c335b5fc6daeefeb4feb1353d3abc0f40c0f6c62
+    created: '2026-07-14T16:47:49.599089+00:00'
+    modified: '2026-07-14T16:47:49.599089+00:00'
+    owner: alargefallinganvil
   Sundered Isles - Patrocia/Attachments/Vitan.png:
     checksum: 6947611222140c6b89791c47306300e7a706fe2d2ca513a96476bd027f832b47
     created: '2026-07-14T03:02:18.177179+00:00'
@@ -256,9 +261,9 @@ files:
     modified: '2026-07-14T03:02:18.177254+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Factions/The Old World Nations/The Antinian Triumvirate.md:
-    checksum: fc78bd11ced08f05fbcaad9f6f2da1f57a0b8b4a2e66087552c2a47717102331
+    checksum: 6834c9381d6c6cf9ea8545857bf5e1ec34f980ea479f850d41867626952e01ec
     created: '2026-07-14T03:02:18.177330+00:00'
-    modified: '2026-07-14T03:02:18.177330+00:00'
+    modified: '2026-07-14T16:47:49.599157+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Factions/The Old World Nations/The Empire of Hatesh.md:
     checksum: 04c8314b4f74e6e7e0d364a102147209d1152cb34dbbb7ce8c2abb47005c9484
@@ -304,6 +309,11 @@ files:
     checksum: a5b86de830a2acb198550bc1c116919a7fbe42d19671625812842a54a89e6679
     created: '2026-07-14T14:44:33.607289+00:00'
     modified: '2026-07-14T14:44:33.607289+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/The Map of the Known Lands of Patrocia.md:
+    checksum: 89d03d0d030f34d47a8f08c0ab93e1388171df07a23717752fab43fc833b26bd
+    created: '2026-07-14T16:47:49.599251+00:00'
+    modified: '2026-07-14T16:47:49.599251+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Truths.md:
     checksum: 6f683dee3ce4f7416e95a0ef38ab676616453ff1e8342320571a5b09411a7690
