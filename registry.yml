@@ -211,9 +211,9 @@ files:
     modified: '2026-07-12T14:52:45.301924+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Characters/Cyrus Stone.md:
-    checksum: 570c360908d9b242f111240ee4c57cbcfe9f3de02538cb592871fdbcad7eae0b
+    checksum: 4b7812a932faa2c11cee9c4c7037a771f60f8c0cf5acaa9416a19c18cfa24bf0
     created: '2026-07-12T14:52:45.302039+00:00'
-    modified: '2026-07-15T12:31:03.549372+00:00'
+    modified: '2026-07-15T14:02:24.208134+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Session 0.md:
     checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
@@ -1902,6 +1902,11 @@ files:
     created: '2026-01-12T17:59:42.857550+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nepturnal
+  The Starforged/Progress/Echo/Will Echo ever forgive Vesper.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-07-15T14:02:24.208298+00:00'
+    modified: '2026-07-15T14:02:24.208298+00:00'
+    owner: alargefallinganvil
   The Starforged/The Starforged README.md:
     checksum: d1ed5a3229c232ce1b5a23d5cb19548cbf8e5b9ed8d1ce38a2cfbb9ef5d439e5
     created: '2026-02-08T20:20:07.775044+00:00'
@@ -1921,6 +1926,11 @@ files:
     checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
     created: '2026-07-03T12:52:43.146916+00:00'
     modified: '2026-07-03T12:52:43.146916+00:00'
+    owner: alargefallinganvil
+  Untitled 2.base:
+    checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
+    created: '2026-07-15T14:02:24.208348+00:00'
+    modified: '2026-07-15T14:02:24.208348+00:00'
     owner: alargefallinganvil
   Untitled.base:
     checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
