@@ -211,9 +211,9 @@ files:
     modified: '2026-07-12T14:52:45.301924+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Characters/Cyrus Stone.md:
-    checksum: d2863542fd9da6b8ec98afed203837aed652bbdad14b9dee91325de6f5fab0aa
+    checksum: 570c360908d9b242f111240ee4c57cbcfe9f3de02538cb592871fdbcad7eae0b
     created: '2026-07-12T14:52:45.302039+00:00'
-    modified: '2026-07-13T20:51:21.246895+00:00'
+    modified: '2026-07-15T12:31:03.549372+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Session 0.md:
     checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
@@ -296,9 +296,9 @@ files:
     modified: '2026-07-14T03:02:18.177674+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Locations/The Map of the Known Lands of Patrocia.md:
-    checksum: 84faba77727383d3f5e1519a41780db2a6765bb45c7be5126a628065bc6f4787
+    checksum: 15d6d2058d005025682b4a9f46e287ce1d560f6ded3583c54419399679bcf867
     created: '2026-07-14T16:56:10.919531+00:00'
-    modified: '2026-07-14T16:56:40.212171+00:00'
+    modified: '2026-07-15T12:31:03.549423+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Lore/Important Events in History, A Brief Overview.md:
     checksum: c83023384276166d41ec9554648a68271e7ff2e00e65afa9bfcb758670f24a60
@@ -1782,6 +1782,11 @@ files:
     created: '2026-02-26T16:37:19.373966+00:00'
     modified: '2026-02-28T09:13:29.990300+00:00'
     owner: thathulsguy
+  The Starforged/NPCs/Bri (2).md:
+    checksum: 322c41e13494b35fbf19a66d35572bc409df921ec98e9eb5dc265867a2a77078
+    created: '2026-07-15T12:31:03.549514+00:00'
+    modified: '2026-07-15T12:31:03.549514+00:00'
+    owner: alargefallinganvil
   The Starforged/NPCs/Bri/Bri (Legacy).md:
     checksum: 8e5bf78180e1e1ca6213104965f4dd6dbefe12c3a9f3ebd5c5227a7ee316eede
     created: '2026-02-11T15:31:11.546934+00:00'
