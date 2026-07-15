@@ -1098,14 +1098,9 @@ files:
     modified: '2026-07-10T14:12:28.623312+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/06 - Rushdown - WIP.md:
-    checksum: 9c4994675fe1fe048ced66bb00e58ca708babd719d4731aac634e1ceabd8897e
+    checksum: b4b48a4268e3c9f4615334c56908d34e5fcddbb5e851bde3bb0db58cf907bf36
     created: '2026-07-12T09:55:25.597292+00:00'
-    modified: '2026-07-15T14:22:19.929999+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/Captain Finn.md:
-    checksum: 9c0f7e2cbeba1612044df74945be4e2f447ecc16a3d8920676ecfc844230049e
-    created: '2026-07-15T05:01:46.912797+00:00'
-    modified: '2026-07-15T05:01:46.912797+00:00'
+    modified: '2026-07-15T14:33:51.095388+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: a4e1207c0205abe67627636dcb4a490c848819aa6ba42579917195a3dd171d60
@@ -1116,11 +1111,6 @@ files:
     checksum: c8317e8ab504081b3f2110ba8675bf43bae348901099d49f1fd0c3309e0046ec
     created: '2026-07-04T09:08:35.239527+00:00'
     modified: '2026-07-09T16:53:21.189875+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/Rahul Shah.md:
-    checksum: 69c80292124eeafc44106f99ab9eaa6f7362d38f128f5a24ad427cd205571250
-    created: '2026-07-13T04:37:56.833359+00:00'
-    modified: '2026-07-13T04:37:56.833359+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1188,9 +1178,9 @@ files:
     modified: '2026-07-09T16:53:21.189910+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/06 - Find the fate of the Miwako and recover any surviving intel.md:
-    checksum: 93f6f53657e2e061c0a1cded38ed38aef1a1f2be450baeb7b4521575ec737a1a
+    checksum: 65dfe38a77c995f48e6f15e287089d4cbdc747b494944dbd9d82444ee844aaae
     created: '2026-07-15T05:06:34.241819+00:00'
-    modified: '2026-07-15T05:06:34.241819+00:00'
+    modified: '2026-07-15T14:33:51.095441+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
@@ -1792,6 +1782,11 @@ files:
     created: '2026-07-15T12:31:03.549514+00:00'
     modified: '2026-07-15T12:33:22.836897+00:00'
     owner: alargefallinganvil
+  The Starforged/NPCs/Captain Finn.md:
+    checksum: 9c0f7e2cbeba1612044df74945be4e2f447ecc16a3d8920676ecfc844230049e
+    created: '2026-07-15T05:01:46.912797+00:00'
+    modified: '2026-07-15T14:33:51.095590+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Epathus-Barabas Serrato.md:
     checksum: 94098b23b45f699d7737dcd618628a57916044dbc0c03c60f5df470f2d10054d
     created: '2026-01-09T03:25:57.169336+00:00'
@@ -1871,6 +1866,11 @@ files:
     checksum: e5b34ec6301e1cdf41fb5795da9209fe5c8216ca2dcf4c995384e6d1dcb16b0a
     created: '2026-07-08T15:13:10.298654+00:00'
     modified: '2026-07-08T15:13:10.298654+00:00'
+    owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/Rahul Shah.md:
+    checksum: 69c80292124eeafc44106f99ab9eaa6f7362d38f128f5a24ad427cd205571250
+    created: '2026-07-13T04:37:56.833359+00:00'
+    modified: '2026-07-15T14:33:51.095718+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Rushdown's Minor Characters/Skullcrusher.md:
     checksum: 9e1f281e8019dcb8de958c250f4148ecc62da7d9df011deceb51822954cde3cc
