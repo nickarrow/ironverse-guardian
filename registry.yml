@@ -1063,9 +1063,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 55090e2e0ddcb9236e86a3552cd1a06905cb2bd5e1ab59c2e06acac045926527
+    checksum: ed0d55fe0edf0a770357c5d88da214991c6ca7366fbff92b83bb45e2f4b91b4f
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-15T16:39:56.171676+00:00'
+    modified: '2026-07-16T02:12:52.120194+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -1098,34 +1098,29 @@ files:
     modified: '2026-07-15T15:51:50.372487+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/06 - Rushdown - Captain Finn.md:
-    checksum: ead4778ecfebd09ad0af36f1a2ecf805cdc8d23fe4e34e145afa1fef64b7de63
+    checksum: 03221480a5c78ca7847af3847c0eee4543de1a77864f99bd792c8df43eec4a7d
     created: '2026-07-12T09:55:25.597292+00:00'
-    modified: '2026-07-15T15:51:50.372651+00:00'
+    modified: '2026-07-16T02:12:52.120257+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/07 - Rushdown - WIP.md:
-    checksum: 849b98351ac252be888aefefd84266e16f68756e06b1767b103bea62f64a5181
+  The Starforged/Campaign Rushdown/Journals/07 - Rushdown - The Spider.md:
+    checksum: 0f8d9a116a072970556b161be25a24f78956378869eb13e089cf71e858420e68
     created: '2026-07-15T15:51:50.372715+00:00'
-    modified: '2026-07-15T17:36:15.730714+00:00'
+    modified: '2026-07-16T02:12:52.120466+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/08 - Rushdown - WIP.md:
+    checksum: 9ec0c31c6986830b6190375a2f0e614a0a6371b4502620b0fa679a0b32668f48
+    created: '2026-07-16T02:12:52.120563+00:00'
+    modified: '2026-07-16T02:12:52.120563+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: a4e1207c0205abe67627636dcb4a490c848819aa6ba42579917195a3dd171d60
     created: '2026-07-06T13:55:52.782810+00:00'
     modified: '2026-07-07T16:36:20.500214+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/Juliana Barbosa.md:
-    checksum: 2fb26a1281300d4ed6eb2221d85ebde64f5870f37d1c3b425a3b6a325a52669f
-    created: '2026-07-15T15:51:50.372761+00:00'
-    modified: '2026-07-15T15:51:50.372761+00:00'
-    owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
-    checksum: c177407447d0231b930727e5eae4aeeb642df7f1869de02b91b441bfe952154b
+    checksum: 04fb590afca1619e28efcf7387ce15a4c3dfaa76714647d02654b5c1e3d1ad44
     created: '2026-07-04T09:08:35.239527+00:00'
-    modified: '2026-07-15T15:51:50.372777+00:00'
-    owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/The Spider.md:
-    checksum: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
-    created: '2026-07-15T16:39:56.171916+00:00'
-    modified: '2026-07-15T16:39:56.171916+00:00'
+    modified: '2026-07-16T02:12:52.120600+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1173,9 +1168,9 @@ files:
     modified: '2026-07-08T04:48:17.688293+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Expeditions/06 -Expedition to distress coordinates.md:
-    checksum: 7f3270072a0e44f9d16410a415b06bf10bdc2cd7b4cc92406ec4bb82c358c39c
+    checksum: 71a12bd665237eda1732dd86753b91eed74609829238060f39ece47b3560df68
     created: '2026-07-15T15:51:50.372839+00:00'
-    modified: '2026-07-15T15:51:50.372839+00:00'
+    modified: '2026-07-16T02:12:52.120640+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md:
     checksum: 74ad55ba98912bae22b9c19f83f4294ce7d78542e5575e301bc3713db64c0143
@@ -1198,9 +1193,9 @@ files:
     modified: '2026-07-09T16:53:21.189910+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/06 - Find the fate of the Miwako and recover any surviving intel.md:
-    checksum: 65dfe38a77c995f48e6f15e287089d4cbdc747b494944dbd9d82444ee844aaae
+    checksum: 9a720130f15fae8f40a25ee58c2d86ce5ede3c28914bce30456a7afc9491d992
     created: '2026-07-15T05:06:34.241819+00:00'
-    modified: '2026-07-15T14:33:51.095441+00:00'
+    modified: '2026-07-16T02:12:52.120677+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/07 - Go to the Resistance meeting.md:
     checksum: 48cf527fc62ed8b0ba94b42c04296388bef20704493a462c7da49da3f011a007
@@ -1491,6 +1486,11 @@ files:
     checksum: 0bbb6afa853ffcc027d62943c6ff07bc7efc773de911b0a6949e4e73998aca12
     created: '2026-07-09T16:38:01.981076+00:00'
     modified: '2026-07-09T16:38:01.981076+00:00'
+    owner: thathulsguy
+  The Starforged/Factions/Local Ashitaba Factions/Resistance.md:
+    checksum: 420a5a5e5ce64d9d15795c7dc19ddfe37e344f9d944aafff59e863bf0c77af0f
+    created: '2026-07-16T02:12:52.120748+00:00'
+    modified: '2026-07-16T02:12:52.120748+00:00'
     owner: thathulsguy
   The Starforged/Factions/Minami Clan.md:
     checksum: da960a02f8a88718b501b3494840af91357b01da7a30e97533f7348c36556abf
@@ -1892,6 +1892,11 @@ files:
     created: '2026-07-08T15:13:10.298654+00:00'
     modified: '2026-07-08T15:13:10.298654+00:00'
     owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/Juliana Barbosa.md:
+    checksum: 1f14a15cf316a16226d86c0e906e1d37e2396d7cd0f071cfa9910a41d8129793
+    created: '2026-07-15T15:51:50.372761+00:00'
+    modified: '2026-07-16T02:12:52.120849+00:00'
+    owner: thathulsguy
   The Starforged/NPCs/Rushdown's Minor Characters/Rahul Shah.md:
     checksum: 69c80292124eeafc44106f99ab9eaa6f7362d38f128f5a24ad427cd205571250
     created: '2026-07-13T04:37:56.833359+00:00'
@@ -1906,6 +1911,11 @@ files:
     checksum: 42c00139aa18f59a8db1bd100e896fc16af27a4f2b06fd147f889dc51efa729b
     created: '2026-07-08T15:13:10.298719+00:00'
     modified: '2026-07-08T15:13:10.298719+00:00'
+    owner: thathulsguy
+  The Starforged/NPCs/Rushdown's Minor Characters/The Spider.md:
+    checksum: ad769d8327dc8f5a08dc174a2a8d66618b9a78e4d4b03077d81ac78518c9ffd1
+    created: '2026-07-16T02:12:52.120913+00:00'
+    modified: '2026-07-16T02:12:52.120913+00:00'
     owner: thathulsguy
   The Starforged/NPCs/Rushdown's Minor Characters/Vagabond.md:
     checksum: 3ec535bffc650356d17650a7d8959d6f4885462f0c746878e1587ab93754c39e
