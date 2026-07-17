@@ -325,15 +325,15 @@ files:
     created: '2026-07-17T15:18:23.229525+00:00'
     modified: '2026-07-17T15:18:23.229525+00:00'
     owner: alargefallinganvil
-  Sundered Isles - Patrocia/Locations/The Kingdom Of Ossik/Erast.md:
-    checksum: 1fe138a9eaeb28bfcf15683861953bb0608ae1a2475cd46292865cd644613904
-    created: '2026-07-17T15:18:23.229611+00:00'
-    modified: '2026-07-17T15:18:23.229611+00:00'
-    owner: alargefallinganvil
   Sundered Isles - Patrocia/Locations/The Map of the Known Lands of Patrocia.md:
     checksum: 15d6d2058d005025682b4a9f46e287ce1d560f6ded3583c54419399679bcf867
     created: '2026-07-14T16:56:10.919531+00:00'
     modified: '2026-07-15T12:31:03.549423+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Locations/The Old World/The Kingdom Of Ossik/Erast.md:
+    checksum: f2a4f43aadb8dc560a7d70175f513e9769cc99e858d4cdcb3be0fbd0eebc632f
+    created: '2026-07-17T15:18:23.229611+00:00'
+    modified: '2026-07-17T15:26:34.672306+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Lore/Important Events in History, A Brief Overview.md:
     checksum: c83023384276166d41ec9554648a68271e7ff2e00e65afa9bfcb758670f24a60
@@ -355,10 +355,10 @@ files:
     created: '2026-07-17T15:18:23.229674+00:00'
     modified: '2026-07-17T15:18:23.229674+00:00'
     owner: alargefallinganvil
-  Sundered Isles - Patrocia/NPCs/Ossik/Major NPCs of Ossik/Queen Jessamine Kovan.md:
+  Sundered Isles - Patrocia/NPCs/The Old World/Ossik/Major NPCs of Ossik/Queen Jessamine Kovan.md:
     checksum: dbc43a1c53d10e34ec2723baed7053a75d01b86e199860b2698cf3ad3d4f452a
     created: '2026-07-17T15:18:23.229775+00:00'
-    modified: '2026-07-17T15:18:23.229775+00:00'
+    modified: '2026-07-17T15:26:34.672484+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Truths.md:
     checksum: 6f683dee3ce4f7416e95a0ef38ab676616453ff1e8342320571a5b09411a7690
