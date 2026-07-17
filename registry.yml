@@ -1108,9 +1108,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: c7fe8af54f991379b4608925f4971e469cd61a1e431fe4619644a4f4dc91185c
+    checksum: ad0b7d9516154b9ca831500e39504ea17af251284290d997cb30fcb515cf8538
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-17T04:07:35.903493+00:00'
+    modified: '2026-07-17T15:21:56.841200+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -1153,19 +1153,24 @@ files:
     modified: '2026-07-16T02:12:52.120466+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/08 - Rushdown - Cleveland.md:
-    checksum: 962d97dd259c98bcf8fe3dfc914d8a7df6ec33e5990e7b527664fc22aab877a5
+    checksum: ae7f767a757afb6b55df2889eb6371e9fc0dad2746b18001b85e481f2dbd21bb
     created: '2026-07-16T02:12:52.120563+00:00'
-    modified: '2026-07-17T04:00:22.135107+00:00'
+    modified: '2026-07-17T15:21:56.841270+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/09 - Rushdown - WIP.md:
-    checksum: 6caf10c644dfc5a5416fe0cefa6f18d4beab16adc34e49992f320649743e67ae
+  The Starforged/Campaign Rushdown/Journals/09 - Rushdown - Following the Thread.md:
+    checksum: 76c5a6d8a905b9bdf9f2275792a314f69ace5142714214edf980c46c69d6af46
     created: '2026-07-17T04:00:22.135228+00:00'
-    modified: '2026-07-17T05:44:39.344378+00:00'
+    modified: '2026-07-17T15:21:56.841485+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/10 - Rushdown - WIP.md:
+    checksum: 4d30a49a7b0db1b3fd2435dad09208d13915f995a73e9cf11cba7539eba1072a
+    created: '2026-07-17T15:21:56.841595+00:00'
+    modified: '2026-07-17T15:21:56.841595+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
-    checksum: a4e1207c0205abe67627636dcb4a490c848819aa6ba42579917195a3dd171d60
+    checksum: 82847a63ad30b1ca71e2382d0389c0a0903bdab767b07a40fc2e6b26b6717d5e
     created: '2026-07-06T13:55:52.782810+00:00'
-    modified: '2026-07-07T16:36:20.500214+00:00'
+    modified: '2026-07-17T15:21:56.841633+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
     checksum: cbb83ae033665fd08b1c85750326597b3714e786219d963d45ed9264d7aa8888
@@ -1232,6 +1237,11 @@ files:
     created: '2026-07-16T04:36:52.023661+00:00'
     modified: '2026-07-16T04:36:52.023661+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Expeditions/10 - Explore the Miwako ( ).md:
+    checksum: a2c498bac7671f367b24120fcb4ab2e6c29359361140f84961d9342729320cad
+    created: '2026-07-17T15:21:56.841787+00:00'
+    modified: '2026-07-17T15:21:56.841787+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md:
     checksum: 74ad55ba98912bae22b9c19f83f4294ce7d78542e5575e301bc3713db64c0143
     created: '2026-07-05T16:05:17.577871+00:00'
@@ -1253,9 +1263,9 @@ files:
     modified: '2026-07-09T16:53:21.189910+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/06 - Find the fate of the Miwako and recover any surviving intel.md:
-    checksum: 93423fcd1c857192978caa456181ed7a58845146e61831c80ac3d1e482895d20
+    checksum: 3184c628e69006e04614ae65004cc3424efc664ccea61117fd439bfd1542da6d
     created: '2026-07-15T05:06:34.241819+00:00'
-    modified: '2026-07-17T04:00:22.135421+00:00'
+    modified: '2026-07-17T15:21:56.841830+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/07 - Go to the Resistance meeting.md:
     checksum: 48cf527fc62ed8b0ba94b42c04296388bef20704493a462c7da49da3f011a007
