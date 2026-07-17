@@ -215,20 +215,25 @@ files:
     created: '2026-07-12T14:52:45.302039+00:00'
     modified: '2026-07-16T18:32:05.514608+00:00'
     owner: alargefallinganvil
-  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Day 1 - Flotsam.md:
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Journal Entry 1 - Flotsam.md:
     checksum: 7d76f89ecb4493e4679b2dbcf4ffe6cb85e0d07bda0c6cae99f0ee4e3cc00c79
     created: '2026-07-16T03:34:50.155295+00:00'
-    modified: '2026-07-16T13:23:51.191176+00:00'
+    modified: '2026-07-17T15:18:23.229175+00:00'
     owner: alargefallinganvil
-  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Day 2 - Learning the Ropes.md:
-    checksum: 0d990ebfa7f4895a0cd313627213557dbc5af3bfc14801cb1463a1701948ce26
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Journal Entry 2 - Learning the Ropes.md:
+    checksum: 6283e6b5787d8ec63a40ddf57f7509b14512d254b9e146b4125663638808d115
     created: '2026-07-16T18:32:05.514791+00:00'
-    modified: '2026-07-16T18:32:05.514791+00:00'
+    modified: '2026-07-17T15:18:23.229325+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Journal Entry 3 - Safe Haven.md:
+    checksum: 7c431a9efc7565a5c2000bc4ecfaad977cfd51b6fb8d67302b1b98ec39fc79e6
+    created: '2026-07-17T15:18:23.229410+00:00'
+    modified: '2026-07-17T15:18:23.229410+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Defeat or Escape from the Giant Spider.md:
-    checksum: 1916b045491be5d636925d11c79c98cd37f73aaf82c900666017c79b78aaa225
+    checksum: 902ea5e10613a0d536d56c40a353783c2f049deee1483f7fddd4f1bfee7cca4f
     created: '2026-07-16T03:34:50.155397+00:00'
-    modified: '2026-07-16T18:32:05.514837+00:00'
+    modified: '2026-07-17T15:18:23.229455+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Explore the Jungle.md:
     checksum: 03daa29f106eb94efda895acb90e7d3e07ac206dd3347c290845251a6558c045
@@ -315,6 +320,16 @@ files:
     created: '2026-07-14T03:02:18.177674+00:00'
     modified: '2026-07-14T03:02:18.177674+00:00'
     owner: alargefallinganvil
+  Sundered Isles - Patrocia/Locations/-COPY THIS LOCATION TEMPLATE-.md:
+    checksum: e29594148174281fea68abd1277308bccf0920ae7118c145d1b093c86f5a8571
+    created: '2026-07-17T15:18:23.229525+00:00'
+    modified: '2026-07-17T15:18:23.229525+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Locations/The Kingdom Of Ossik/Erast.md:
+    checksum: 1fe138a9eaeb28bfcf15683861953bb0608ae1a2475cd46292865cd644613904
+    created: '2026-07-17T15:18:23.229611+00:00'
+    modified: '2026-07-17T15:18:23.229611+00:00'
+    owner: alargefallinganvil
   Sundered Isles - Patrocia/Locations/The Map of the Known Lands of Patrocia.md:
     checksum: 15d6d2058d005025682b4a9f46e287ce1d560f6ded3583c54419399679bcf867
     created: '2026-07-14T16:56:10.919531+00:00'
@@ -334,6 +349,16 @@ files:
     checksum: a5b86de830a2acb198550bc1c116919a7fbe42d19671625812842a54a89e6679
     created: '2026-07-14T14:44:33.607289+00:00'
     modified: '2026-07-14T14:44:33.607289+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/NPCs/-COPY THIS NPC TEMPLATE-.md:
+    checksum: dbc43a1c53d10e34ec2723baed7053a75d01b86e199860b2698cf3ad3d4f452a
+    created: '2026-07-17T15:18:23.229674+00:00'
+    modified: '2026-07-17T15:18:23.229674+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/NPCs/Ossik/Major NPCs of Ossik/Queen Jessamine Kovan.md:
+    checksum: dbc43a1c53d10e34ec2723baed7053a75d01b86e199860b2698cf3ad3d4f452a
+    created: '2026-07-17T15:18:23.229775+00:00'
+    modified: '2026-07-17T15:18:23.229775+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Truths.md:
     checksum: 6f683dee3ce4f7416e95a0ef38ab676616453ff1e8342320571a5b09411a7690
