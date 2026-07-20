@@ -216,14 +216,229 @@ files:
     modified: '2026-07-14T03:02:18.177179+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Campaign - Cyrus Stone.md:
-    checksum: cb7582dbc2b83f9d45a2c17cb3db4e6046d4313351bae6fdbddb0e5a4024dc78
+    checksum: 0f54f260dcd6b246bf266cd588fa4473e744edccd7806654162189e6a4361e72
     created: '2026-07-12T14:52:45.301924+00:00'
-    modified: '2026-07-12T14:52:45.301924+00:00'
+    modified: '2026-07-20T15:57:43.966604+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Characters/Cyrus Stone.md:
-    checksum: 0b6a4f1ba37ff5e92eb8a1e18777137962ba4ab2e619fe865a606b94e174ea9c
+    checksum: 48ce8c9050cea37f9c466a7c37b16f75d1e91959ea568354a18103808cffb587
     created: '2026-07-12T14:52:45.302039+00:00'
-    modified: '2026-07-20T02:42:58.957871+00:00'
+    modified: '2026-07-20T15:57:43.966658+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Acquisitive.md:
+    checksum: 699ba059eb3260598408887977c253dc64e1bf64fd1539c1e6dcff22232cb7ec
+    created: '2026-07-20T15:57:43.966839+00:00'
+    modified: '2026-07-20T15:57:43.966839+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Addict.md:
+    checksum: 784953a449daf1d12494fec34ced6b8282e728f59cf61906ca14b7241b513272
+    created: '2026-07-20T15:57:43.966952+00:00'
+    modified: '2026-07-20T15:57:43.966952+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Aggravate Group.md:
+    checksum: df26ab24b4520eb807fe003d47cb8df0ef142f81d6de06aed78d2ce0732d4ba7
+    created: '2026-07-20T15:57:43.967044+00:00'
+    modified: '2026-07-20T15:57:43.967044+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Analytic.md:
+    checksum: 06b9578013db2d6adc48d679b4e5a52a1752121792c4f014b062dde360c91b85
+    created: '2026-07-20T15:57:43.967124+00:00'
+    modified: '2026-07-20T15:57:43.967124+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Asset Template.md:
+    checksum: 5c7e78440ad24cd8206eb3311c41da13d3083d8e88c81555b416a16b6df81041
+    created: '2026-07-20T15:57:43.967205+00:00'
+    modified: '2026-07-20T15:57:43.967205+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Callous.md:
+    checksum: f88f1f308b91ac68e82bbb5bb8ef48d5fa1cc340ca984d7e4dd90bc6de8b4fa1
+    created: '2026-07-20T15:57:43.967284+00:00'
+    modified: '2026-07-20T15:57:43.967284+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Champion.md:
+    checksum: f699a1b820b8a22b87491cd31324f5befe9d859f01c73afaa75efce76f1cc389
+    created: '2026-07-20T15:57:43.967363+00:00'
+    modified: '2026-07-20T15:57:43.967363+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Classy.md:
+    checksum: 02e742ed966e63ea9159bcde995e5f85a8d7d1d524ecda908dd1c5968f969b69
+    created: '2026-07-20T15:57:43.967488+00:00'
+    modified: '2026-07-20T15:57:43.967488+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Co-operative.md:
+    checksum: 89e1fa9bb226e5865ed48af7556df73833868af46cb0dfc16b4f4348379f2a25
+    created: '2026-07-20T15:57:43.967583+00:00'
+    modified: '2026-07-20T15:57:43.967583+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Compassionate.md:
+    checksum: 5ffe55670d6ad8000edd24280b42b54fcf5b08e6f0c20419476c1dc352e2a327
+    created: '2026-07-20T15:57:43.967658+00:00'
+    modified: '2026-07-20T15:57:43.967658+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Critic.md:
+    checksum: 3f2386566a32bda16bc597189223f335f77c7209f87e6b92050cc366d9c19828
+    created: '2026-07-20T15:57:43.967729+00:00'
+    modified: '2026-07-20T15:57:43.967729+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Curious.md:
+    checksum: 465096b7900268a8f6767661d5b29300906a0a27d44d1bbc612ca127d28a3d7d
+    created: '2026-07-20T15:57:43.967799+00:00'
+    modified: '2026-07-20T15:57:43.967799+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Cynic.md:
+    checksum: 329c59e82f2aef99e76b7e5462b651ad1f2b2d6030cb885c16721e8cc36fdb93
+    created: '2026-07-20T15:57:43.967871+00:00'
+    modified: '2026-07-20T15:57:43.967871+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Donnish.md:
+    checksum: be62bbf438497e8f73b16835fc620cdf322b54d2bef2d0f80cbd6c5422f961d5
+    created: '2026-07-20T15:57:43.967943+00:00'
+    modified: '2026-07-20T15:57:43.967943+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Empathetic.md:
+    checksum: fcffc8efabdef1cb97fa1372a313705b3c0b565d1c48c39d13ca391ade5f0cf8
+    created: '2026-07-20T15:57:43.968013+00:00'
+    modified: '2026-07-20T15:57:43.968013+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Frantic.md:
+    checksum: 23cfacd10b3692661221d31c75a8ba87b4c12b0c6e78fa0ad755267902f7e2b3
+    created: '2026-07-20T15:57:43.968081+00:00'
+    modified: '2026-07-20T15:57:43.968081+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Gambler.md:
+    checksum: 281fe5eb53a769ff38eef072d391b8323579a5b7f5ce35a979f9cb8ddfe5aa0a
+    created: '2026-07-20T15:57:43.968158+00:00'
+    modified: '2026-07-20T15:57:43.968158+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Heroic.md:
+    checksum: 87ba4990da73ff8ba7dc90e8c446fdaed5da2a91739398fbdbed51cd9670cc06
+    created: '2026-07-20T15:57:43.968226+00:00'
+    modified: '2026-07-20T15:57:43.968226+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Honorable.md:
+    checksum: 5efc8e8257981e0d9367050d83dd7d88efb46144059a833a26d69bf0333d3254
+    created: '2026-07-20T15:57:43.968294+00:00'
+    modified: '2026-07-20T15:57:43.968294+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Humorous.md:
+    checksum: 3eb9e19b5a1c88c1cc430c8c3dc96909cc63ce9bd38d6fc91f8a800376286202
+    created: '2026-07-20T15:57:43.968363+00:00'
+    modified: '2026-07-20T15:57:43.968363+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Imposing.md:
+    checksum: 1f1aed9863d4d9519cb3019df87eae727492e634234435dbf1b1115f098ab289
+    created: '2026-07-20T15:57:43.968464+00:00'
+    modified: '2026-07-20T15:57:43.968464+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Industrious.md:
+    checksum: 1cbcba9efcb12619276961cd7d2ae38ef00fc2b147c33328638faf4889df73e0
+    created: '2026-07-20T15:57:43.968538+00:00'
+    modified: '2026-07-20T15:57:43.968538+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Intrepid.md:
+    checksum: c5fd0cb5fa2754ae2b1b57c6a46134dfd6ba1af40ff6ebb0e9dd8571d97b5c9a
+    created: '2026-07-20T15:57:43.968608+00:00'
+    modified: '2026-07-20T15:57:43.968608+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Irascible.md:
+    checksum: 6f7caec4064ac874951d9bca7941bd32b766c4db331112c33a3746e6b2eaaaed
+    created: '2026-07-20T15:57:43.968677+00:00'
+    modified: '2026-07-20T15:57:43.968677+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Loner.md:
+    checksum: 9969776f68dc99dec4d44a3d23236b5d5c125ca2283e64ecb2d9cfc747d1eb0c
+    created: '2026-07-20T15:57:43.968745+00:00'
+    modified: '2026-07-20T15:57:43.968745+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Opportunistic.md:
+    checksum: 465bf9d4937168782f98e762acbdc3e373c5337315c4c077832d0230c0a3df92
+    created: '2026-07-20T15:57:43.968819+00:00'
+    modified: '2026-07-20T15:57:43.968819+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Planner.md:
+    checksum: 8c16b244d8deb0bdf6ac9bef057f579748c62be1825029824e0be3f0b5d2e194
+    created: '2026-07-20T15:57:43.968888+00:00'
+    modified: '2026-07-20T15:57:43.968888+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Poisoner.md:
+    checksum: cef58b24cebd3910b19d418d7f6fa7af90dea43d846ac338774ac704d259cf61
+    created: '2026-07-20T15:57:43.968958+00:00'
+    modified: '2026-07-20T15:57:43.968958+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Protective.md:
+    checksum: b5bb4f60fcd501196db5fa9a7750cdab14943449ec331348245a214f29b96655
+    created: '2026-07-20T15:57:43.969029+00:00'
+    modified: '2026-07-20T15:57:43.969029+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Resolved.md:
+    checksum: 5f27d081a3e191802fafc6db21db57d3720b1cd0ce647321ce4d23d958ca77f4
+    created: '2026-07-20T15:57:43.969099+00:00'
+    modified: '2026-07-20T15:57:43.969099+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Schemer.md:
+    checksum: 29ee7a7e4a6c3393f48544490c1e7d4a537ddf60029b0297478715043ff73c56
+    created: '2026-07-20T15:57:43.969172+00:00'
+    modified: '2026-07-20T15:57:43.969172+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Secretive.md:
+    checksum: 059b0a21f2f0ccb996580898fdf0fff03d6f6cf30ba0094cbce0106c8e67d5a7
+    created: '2026-07-20T15:57:43.969240+00:00'
+    modified: '2026-07-20T15:57:43.969240+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Sensual.md:
+    checksum: 506606f9cc67655628658a9b5815b77e845336c27c6a91d33cf1a7817ae45511
+    created: '2026-07-20T15:57:43.969307+00:00'
+    modified: '2026-07-20T15:57:43.969307+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Serene.md:
+    checksum: 9453f43180cc92a539783740e59d85777dd0f6c4ce715fadc977f140db0d9e0e
+    created: '2026-07-20T15:57:43.969374+00:00'
+    modified: '2026-07-20T15:57:43.969374+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Stoic.md:
+    checksum: 6c644474292d2c2c1a399281e9f3120f5bad2656c8876a9e4372353e6050c1ed
+    created: '2026-07-20T15:57:43.969468+00:00'
+    modified: '2026-07-20T15:57:43.969468+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Subversive.md:
+    checksum: d6b9e38ad17a0d3607bd776afe7bb6b87a3de69cdb47310e095ecb6269f30190
+    created: '2026-07-20T15:57:43.969539+00:00'
+    modified: '2026-07-20T15:57:43.969539+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Tactile.md:
+    checksum: 6fac6dce40f689613b625783ac3fa2bcc689b8627ecab1fe1cd6da83c5df7025
+    created: '2026-07-20T15:57:43.969606+00:00'
+    modified: '2026-07-20T15:57:43.969606+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Uncover My Past.md:
+    checksum: 58a2bae9d9d219a6140c4202ade3180afe08901f0e8badb0172e36de65459018
+    created: '2026-07-20T15:57:43.969673+00:00'
+    modified: '2026-07-20T15:57:43.969673+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Wary.md:
+    checksum: cd190eca4064e1a6a4ef467042881fd8d23ac1abb6c11422dcdbfc11e3b22285
+    created: '2026-07-20T15:57:43.969740+00:00'
+    modified: '2026-07-20T15:57:43.969740+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Assets/Zealot.md:
+    checksum: ce3beb8949d1bea8c27aed10d456bf53e4e8cad3eaaf23d6c5f8bbda1fab3153
+    created: '2026-07-20T15:57:43.969806+00:00'
+    modified: '2026-07-20T15:57:43.969806+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/How To Use Motivations And Demeanors.md:
+    checksum: 1c75cb456631094b481a08e8472607db723e7c56967459668e54ff1ad648fcfc
+    created: '2026-07-20T15:57:43.969861+00:00'
+    modified: '2026-07-20T15:57:43.969861+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Moves/Move Template.yaml:
+    checksum: 6cf05ad0ca09c8d5963e3c07057adb8675842b2f91330d83c9ce0a90ba89f2ac
+    created: '2026-07-20T15:57:43.969932+00:00'
+    modified: '2026-07-20T15:57:43.969932+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Custom Content/Oracles/Oracle Template.md:
+    checksum: 2f0e5099a66b67443e51283c63627ed40adc435d92d8739464a5d86dcf9332a5
+    created: '2026-07-20T15:57:43.970002+00:00'
+    modified: '2026-07-20T15:57:43.970002+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Journal Entry 1 - Flotsam.md:
     checksum: 9dde3fcec850dd56ebcd62f678efa9ababe6d87cdaf13bd6dab7fcfb9ced022f
