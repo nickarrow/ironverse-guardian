@@ -175,6 +175,11 @@ files:
     created: '2026-07-14T03:02:18.175194+00:00'
     modified: '2026-07-14T03:02:18.175194+00:00'
     owner: alargefallinganvil
+  Sundered Isles - Patrocia/Attachments/Heroic Demeanor.png:
+    checksum: 17a7dae19bf776b68fec10f7202b8e4f69591631ae37f0b38a74960b12341440
+    created: '2026-07-20T02:42:58.957648+00:00'
+    modified: '2026-07-20T02:42:58.957648+00:00'
+    owner: alargefallinganvil
   Sundered Isles - Patrocia/Attachments/Lorresia.png:
     checksum: f6e71674fe6f1e2f77fabe8eef8b5f74123997e118e1af9af9c9e000bd06a6a1
     created: '2026-07-14T03:02:18.175588+00:00'
@@ -200,6 +205,11 @@ files:
     created: '2026-07-14T16:47:49.599089+00:00'
     modified: '2026-07-14T16:47:49.599089+00:00'
     owner: alargefallinganvil
+  Sundered Isles - Patrocia/Attachments/Uncover My Past Motivation.png:
+    checksum: bc762feb175d2c4a7c1d265cb0a3377579a748294261eb732be4962e654e5da0
+    created: '2026-07-20T02:42:58.957830+00:00'
+    modified: '2026-07-20T02:42:58.957830+00:00'
+    owner: alargefallinganvil
   Sundered Isles - Patrocia/Attachments/Vitan.png:
     checksum: 6947611222140c6b89791c47306300e7a706fe2d2ca513a96476bd027f832b47
     created: '2026-07-14T03:02:18.177179+00:00'
@@ -211,14 +221,14 @@ files:
     modified: '2026-07-12T14:52:45.301924+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Characters/Cyrus Stone.md:
-    checksum: 363de3a609b9345b7ef18f06fac561a2a468655b27108af1b9181ea76feb943b
+    checksum: 0b6a4f1ba37ff5e92eb8a1e18777137962ba4ab2e619fe865a606b94e174ea9c
     created: '2026-07-12T14:52:45.302039+00:00'
-    modified: '2026-07-16T18:32:05.514608+00:00'
+    modified: '2026-07-20T02:42:58.957871+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Journal Entry 1 - Flotsam.md:
-    checksum: 7d76f89ecb4493e4679b2dbcf4ffe6cb85e0d07bda0c6cae99f0ee4e3cc00c79
+    checksum: 9dde3fcec850dd56ebcd62f678efa9ababe6d87cdaf13bd6dab7fcfb9ced022f
     created: '2026-07-16T03:34:50.155295+00:00'
-    modified: '2026-07-17T15:18:23.229175+00:00'
+    modified: '2026-07-20T02:42:58.957939+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Journal Entry 2 - Learning the Ropes.md:
     checksum: 6283e6b5787d8ec63a40ddf57f7509b14512d254b9e146b4125663638808d115
@@ -396,9 +406,9 @@ files:
     modified: '2026-07-14T00:47:13.261424+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Lore/The High Seas and Those Who Sail Them.md:
-    checksum: 2bcbb1137f12106175d2ebfa3acb1e4fa3758db86d736d4dd01b4b3ba632c3f1
+    checksum: ef648d7dacb165344a1058f2f366cfdb53b067ac76d27dd0457be67520f27321
     created: '2026-07-19T14:01:06.007789+00:00'
-    modified: '2026-07-19T14:01:06.007789+00:00'
+    modified: '2026-07-20T02:42:58.957990+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Lore/The Knightly Orders of Ossik.md:
     checksum: 017d7f141e0b166504eccf304bfadf5f822cbc194b77a597d3966a59d8f18e0a
@@ -2122,16 +2132,6 @@ files:
     created: '2025-12-17T17:41:15.770365+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
-  Untitled 1.base:
-    checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
-    created: '2026-07-03T12:52:43.146916+00:00'
-    modified: '2026-07-03T12:52:43.146916+00:00'
-    owner: alargefallinganvil
-  Untitled 2.base:
-    checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
-    created: '2026-07-15T14:02:24.208348+00:00'
-    modified: '2026-07-15T14:02:24.208348+00:00'
-    owner: alargefallinganvil
   Untitled.base:
     checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
     created: '2026-06-16T17:25:22.092245+00:00'
