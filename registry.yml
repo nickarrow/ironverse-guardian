@@ -261,19 +261,34 @@ files:
     modified: '2026-07-18T01:56:35.739686+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md:
-    checksum: 6d78775ab0806e76756d591b5144508527e07d15591a716a7121e25631f70fa5
+    checksum: 9603fd4e40b653b9f43c4db3cb243b5a380b9db2e9321cf254251fe95667aa31
     created: '2026-07-18T01:56:35.739813+00:00'
-    modified: '2026-07-18T05:03:02.877452+00:00'
+    modified: '2026-07-20T06:26:30.191536+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/01 - Johnathan Glass - Sally Slaughter's Treasure.md:
     checksum: ae23fc82346fdc9d000efa8cd732a2b139ed67b2469e5e2eee57861506e9d7ac
     created: '2026-07-18T05:03:02.877628+00:00'
     modified: '2026-07-20T03:44:46.122282+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/02 - Johnathan Glass - The Tarantula.md:
+    checksum: 4e9cd36104d6f05cb8d0df9e612c54d132ca0560d89904c98a5fee70cacc9ea8
+    created: '2026-07-20T06:26:30.191756+00:00'
+    modified: '2026-07-20T06:26:30.191756+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Locations/Erast/The Three Lillies.md:
     checksum: 89a44d5cd1c61b7a5e6853aeb40364d73301b4106fa4a69262e48667f12e548d
     created: '2026-07-18T02:03:24.551193+00:00'
     modified: '2026-07-18T02:03:24.551193+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/NPCs/Brianna Aktuna.md:
+    checksum: b2641b2372cd781c041bd53b2be7212c143a940b55ed6da84c3bdc225b98a1da
+    created: '2026-07-20T06:26:30.191873+00:00'
+    modified: '2026-07-20T06:26:30.191873+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/NPCs/Dorian Osborn.md:
+    checksum: c839b1eeb6760db9872b2d93dd79436c8dc1863d06db976baa5e2890343e29f9
+    created: '2026-07-20T06:26:30.191977+00:00'
+    modified: '2026-07-20T06:26:30.191977+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/NPCs/Sticky Joe.md:
     checksum: bf3b58468fdba932dbc3612a452dc6810dea716a4da41f36b4e4e4d89c46b35e
@@ -281,9 +296,9 @@ files:
     modified: '2026-07-18T02:03:24.551276+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/Plot Hooks.md:
-    checksum: 933ff77d1c7624fed6cc2a7ff606ab2b2ee55e0abc6e0a4fa9bb1e140761c9ee
+    checksum: 2003b42535c01c7c792978468c8974f59d9e84319530da1c3abe1c4cceedd9be
     created: '2026-07-18T01:56:35.740163+00:00'
-    modified: '2026-07-18T05:03:02.877672+00:00'
+    modified: '2026-07-20T06:26:30.192029+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Ogre.md:
     checksum: 017617ea86604a6fd0e0c256a391dbf249a537a41122c1f50121356edae5ce3f
@@ -296,14 +311,19 @@ files:
     modified: '2026-07-18T05:03:02.877912+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/01 - Journey to Port Vesper.md:
-    checksum: e2b4a6dce398646f48e4bd52c090b547018bb150195960f246e44f9df0d91ebf
+    checksum: d7c550c231d187a376bcc99635d284f2190c99c7a1ef29e3d82b8f2779bcdadf
     created: '2026-07-18T05:03:02.878009+00:00'
-    modified: '2026-07-18T05:03:02.878009+00:00'
+    modified: '2026-07-20T06:26:30.192062+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/02 - Find the logbook.md:
+    checksum: 543a633e8dce9cf4fec556e4835355a2d9454965101a4208a3b18780d95e15c0
+    created: '2026-07-20T06:26:30.192171+00:00'
+    modified: '2026-07-20T06:26:30.192171+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/01 - Sally Slaughter's Treasure.md:
-    checksum: 566bf2a76847e9e848daa4f70f0441198f5fda85a431932b6ba13fb7575e56be
+    checksum: 5c3e53fcd746ed5c5eba6862e010b70a9b5aebd2d3aeff25baae6c18f5496170
     created: '2026-07-18T05:03:02.878107+00:00'
-    modified: '2026-07-18T05:03:02.878107+00:00'
+    modified: '2026-07-20T06:26:30.192209+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Factions/The Great Houses/House Duran.md:
     checksum: f2ddace64fbe3cf7b463a7addd9951355d435b49df0bf35d7bbb84ae6f8da145
