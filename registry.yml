@@ -621,9 +621,14 @@ files:
     modified: '2026-07-18T01:56:35.739686+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md:
-    checksum: c9848e6f1c8c69ed98d1ed6dbfcc501cc926bb06eb219219f39cef6761752a46
+    checksum: 29e978e87c48dfdb6816b2f229abfa07f04448244ce7667ed616a3d00afb0828
     created: '2026-07-18T01:56:35.739813+00:00'
-    modified: '2026-07-21T11:26:47.643853+00:00'
+    modified: '2026-07-21T12:46:13.169552+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/03 - Pirates board the ship.md:
+    checksum: 763814a6d45d932a0c8cf7f9e3b508937a81b5c024597ffdd12896b9327e9ba1
+    created: '2026-07-21T12:46:13.169726+00:00'
+    modified: '2026-07-21T12:46:13.169726+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/01 - Johnathan Glass - Sally Slaughter's Treasure.md:
     checksum: ae23fc82346fdc9d000efa8cd732a2b139ed67b2469e5e2eee57861506e9d7ac
@@ -656,14 +661,19 @@ files:
     modified: '2026-07-18T02:03:24.551276+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/03 - Johnathan Glass - WIP.md:
-    checksum: 27cb271dd40ecbace6e96bcd78c509e5e950e5aca71bd0cbae32656084fe795f
+    checksum: 40154349e115c84b802bea40e3f1632e996993c296ff56dc1c8570ac7a7c9c1a
     created: '2026-07-21T11:26:47.644085+00:00'
-    modified: '2026-07-21T11:26:47.644085+00:00'
+    modified: '2026-07-21T12:46:13.169808+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/Plot Hooks.md:
     checksum: 2003b42535c01c7c792978468c8974f59d9e84319530da1c3abe1c4cceedd9be
     created: '2026-07-18T01:56:35.740163+00:00'
     modified: '2026-07-20T06:26:30.192029+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/03 - Sink the pirate ship.md:
+    checksum: 4b3e5c3b02ed49f96f15b8126c63f83817dbbb762d0671681ed27f8a2f7c03b3
+    created: '2026-07-21T12:46:13.169929+00:00'
+    modified: '2026-07-21T12:46:13.169929+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Ogre.md:
     checksum: 017617ea86604a6fd0e0c256a391dbf249a537a41122c1f50121356edae5ce3f
@@ -685,10 +695,15 @@ files:
     created: '2026-07-20T06:26:30.192171+00:00'
     modified: '2026-07-20T06:26:30.192171+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/03 - Coordinates Expedition.md:
+    checksum: d35361963a42c162948d3be0bec5e8581bc044eab74539e93886f02a19d55fa1
+    created: '2026-07-21T12:46:13.170026+00:00'
+    modified: '2026-07-21T12:46:13.170026+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/01 - Sally Slaughter's Treasure.md:
-    checksum: 5c3e53fcd746ed5c5eba6862e010b70a9b5aebd2d3aeff25baae6c18f5496170
+    checksum: 6c1967a546aa027c957afc7abc20cfb2d75af36872ab4e3bd8c036271dbe5618
     created: '2026-07-18T05:03:02.878107+00:00'
-    modified: '2026-07-20T06:26:30.192209+00:00'
+    modified: '2026-07-21T12:46:13.170057+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Factions/The Great Houses/House Duran.md:
     checksum: f2ddace64fbe3cf7b463a7addd9951355d435b49df0bf35d7bbb84ae6f8da145
