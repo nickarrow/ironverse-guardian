@@ -1563,9 +1563,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 552ad3ea7541e3a6c21a6eca967d9a727e18141dd6b996eb55cb3f7620326353
+    checksum: 2d4f2114099a9467bca6cfc5f1126be22f36a187ab009dd34de85f4473b123a1
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-21T06:56:02.063981+00:00'
+    modified: '2026-07-21T10:40:27.533760+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/10 - Rebels try to rescue the Spider.md:
     checksum: 6a02d298dd3966346e8f8ff10e79dc3df3f0a62dd289522ab0c18294d4e05230
@@ -1573,9 +1573,9 @@ files:
     modified: '2026-07-20T11:02:51.203679+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/10 - Satonaka Return.md:
-    checksum: cd41bdc55315466824500b5722b53f3bbee77a6df3a90da03755bc84d7309957
+    checksum: 3c138feeca1204980f170e3a8ff0c3e2d6dac464cb5fbc492b624cd3c4d23141
     created: '2026-07-20T11:02:51.203780+00:00'
-    modified: '2026-07-20T15:00:54.761187+00:00'
+    modified: '2026-07-21T10:40:27.533807+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/11 - Miwako returns to Minami.md:
     checksum: 8f06e316e619158e06e5ddc5035924acd6cc15a997b4e9bd20e2ccdff81d2081
@@ -1647,15 +1647,20 @@ files:
     created: '2026-07-20T15:00:54.761659+00:00'
     modified: '2026-07-21T06:56:02.064331+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/13 - Rushdown - WIP.md:
+    checksum: 34e349a1c152cca990b724a8226d75728f43ee8a2a410104db84ed6ad1667005
+    created: '2026-07-21T10:40:27.533962+00:00'
+    modified: '2026-07-21T10:40:27.533962+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
-    checksum: 82847a63ad30b1ca71e2382d0389c0a0903bdab767b07a40fc2e6b26b6717d5e
+    checksum: 0242574d7ddc8da9ef0e9b07f86cb0ebd031d94ac06b2164bf31785741d6e725
     created: '2026-07-06T13:55:52.782810+00:00'
-    modified: '2026-07-17T15:21:56.841633+00:00'
+    modified: '2026-07-21T10:40:27.534001+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
-    checksum: 3585ea3cd3b31edd16b0a1057b30ec3043ea45fcec606fc40de3873779a34b6e
+    checksum: d68f7f0aebf9c1663998b5ca71cd6f1a56a219e91d53ad9da55e23e6a7f7893c
     created: '2026-07-04T09:08:35.239527+00:00'
-    modified: '2026-07-20T15:26:33.611820+00:00'
+    modified: '2026-07-21T10:40:27.534033+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1718,9 +1723,9 @@ files:
     modified: '2026-07-09T16:53:21.189894+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/Connection Redblood.md:
-    checksum: c3a25a3aa93973378a5bab91bae09f63a7df221a265c4dafe71e238d689ea2cf
+    checksum: bd954459da82849553dd0d62b1acfaea6ff84bc7ec6fdceeb090884793c9a915
     created: '2026-07-17T04:00:22.135382+00:00'
-    modified: '2026-07-17T04:00:22.135382+00:00'
+    modified: '2026-07-21T10:40:27.534065+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/Connection The Board.md:
     checksum: 1091ec3f706067c2b86bf043cab70782069cb3314ef583c6f30773c91291b3c3
@@ -1751,6 +1756,11 @@ files:
     checksum: baf663b96386c35bf0af63d1aad97d31ef47727a959c20bdba407acc031225ad
     created: '2026-07-20T15:00:54.762231+00:00'
     modified: '2026-07-20T15:00:54.762231+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Expeditions/13 - Leonid Chase.md:
+    checksum: 7aad92fbe81df29b365508a9a219241d5b6ae344b97c42f2654c4dae0eeb43f4
+    created: '2026-07-21T10:40:27.534187+00:00'
+    modified: '2026-07-21T10:40:27.534187+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md:
     checksum: 74ad55ba98912bae22b9c19f83f4294ce7d78542e5575e301bc3713db64c0143
@@ -1786,6 +1796,16 @@ files:
     checksum: 73096fc5d413125b58a87c5d0d7e422f8567d933b1959971ab42d8b220a13124
     created: '2026-07-20T15:00:54.762377+00:00'
     modified: '2026-07-20T15:00:54.762377+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Vows/13 - Investigate missing scientist.md:
+    checksum: 15b09685d2d0256e6f6c03a6244a01387bedc86955482d9aa1fdc325afedb0b2
+    created: '2026-07-21T10:40:27.534296+00:00'
+    modified: '2026-07-21T10:40:27.534296+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Vows/13 - Solve Fixer's murder.md:
+    checksum: 091cfafab403f4f1cbad5f73b501d24a78ce939f37addc45da6bbac70ab6062d
+    created: '2026-07-21T10:40:27.534395+00:00'
+    modified: '2026-07-21T10:40:27.534395+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
