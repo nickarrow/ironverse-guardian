@@ -621,14 +621,24 @@ files:
     modified: '2026-07-18T01:56:35.739686+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md:
-    checksum: b0b250277ebeae43bca1d3205df4c817159012fda9f46565429acf527980c62b
+    checksum: 62816e816c6954f637fc053f937dd70ea5097eb259558f25b243c1fdb94270ea
     created: '2026-07-18T01:56:35.739813+00:00'
-    modified: '2026-07-21T13:03:05.239377+00:00'
+    modified: '2026-07-22T04:00:20.744097+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/03 - Pirates board the ship.md:
     checksum: 763814a6d45d932a0c8cf7f9e3b508937a81b5c024597ffdd12896b9327e9ba1
     created: '2026-07-21T12:46:13.169726+00:00'
     modified: '2026-07-21T12:46:13.169726+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/04 - Sally Slaughter 2nd Form.md:
+    checksum: a125a4ff46c8430c3a3776e9963b7ce942598364ea7f5963a65a3a6a6c465c03
+    created: '2026-07-22T04:00:20.744322+00:00'
+    modified: '2026-07-22T04:00:20.744322+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/04 - Territorial Creature Attacks.md:
+    checksum: a5f1c19aac56e898a6a2657f8d0f147fa72b42815e54070576a8f5e46173aa41
+    created: '2026-07-22T04:00:20.744435+00:00'
+    modified: '2026-07-22T04:00:20.744435+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/01 - Johnathan Glass - Sally Slaughter's Treasure.md:
     checksum: ae23fc82346fdc9d000efa8cd732a2b139ed67b2469e5e2eee57861506e9d7ac
@@ -639,6 +649,11 @@ files:
     checksum: 249c1b56aaa7abf834a625a7b61f31c6b8ce152c8622b9d511d78e6887547623
     created: '2026-07-20T06:26:30.191756+00:00'
     modified: '2026-07-21T11:26:47.643923+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/03 - Johnathan Glass - The Treasure Hunt.md:
+    checksum: bf947a03f9abf3ed8de628276e245bc090fe4e6909d7b13aec2a3b05f8ce1edb
+    created: '2026-07-21T11:26:47.644085+00:00'
+    modified: '2026-07-22T04:00:20.744580+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Locations/Erast/The Three Lillies.md:
     checksum: 89a44d5cd1c61b7a5e6853aeb40364d73301b4106fa4a69262e48667f12e548d
@@ -660,20 +675,30 @@ files:
     created: '2026-07-18T01:56:35.740012+00:00'
     modified: '2026-07-18T02:03:24.551276+00:00'
     owner: thathulsguy
-  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/03 - Johnathan Glass - WIP.md:
-    checksum: a28646b90b07dd2645f0b363a44da43a30895687abfeee71682e976135d575a5
-    created: '2026-07-21T11:26:47.644085+00:00'
-    modified: '2026-07-21T13:44:56.810664+00:00'
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/04 - Johnathan Glass - WIP.md:
+    checksum: e5644b9105952f7e3b109e25641742726fd89c5dbf7aace29f98c0a3ad34ff5e
+    created: '2026-07-22T04:00:20.744684+00:00'
+    modified: '2026-07-22T04:00:20.744684+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/Plot Hooks.md:
-    checksum: 2003b42535c01c7c792978468c8974f59d9e84319530da1c3abe1c4cceedd9be
+    checksum: 44d79d8bdb07437bcabdbc169fe566350952703464c50526999cfbd3dcc4deff
     created: '2026-07-18T01:56:35.740163+00:00'
-    modified: '2026-07-20T06:26:30.192029+00:00'
+    modified: '2026-07-22T04:00:20.744722+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/03 - Sink the pirate ship.md:
     checksum: 4b3e5c3b02ed49f96f15b8126c63f83817dbbb762d0671681ed27f8a2f7c03b3
     created: '2026-07-21T12:46:13.169929+00:00'
     modified: '2026-07-21T12:46:13.169929+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/04 - Defeat Sally Slaughter.md:
+    checksum: 4291e1063811013aa407567fdcacfffbeed1da60f2ce7a7769060c6ec4ce40bb
+    created: '2026-07-22T04:00:20.744826+00:00'
+    modified: '2026-07-22T04:00:20.744826+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/04 - Skeleton.md:
+    checksum: d81d130034c79ab39e20365decb88d7651e05053525f893226b32b335f95f3cb
+    created: '2026-07-22T04:00:20.744929+00:00'
+    modified: '2026-07-22T04:00:20.744929+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Ogre.md:
     checksum: 017617ea86604a6fd0e0c256a391dbf249a537a41122c1f50121356edae5ce3f
@@ -681,9 +706,9 @@ files:
     modified: '2026-07-18T05:03:02.877806+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Sticky Joe.md:
-    checksum: c945b2c401927c1c959a98b8874bd6a59b5aff71bd40d5d4449c958f0d640749
+    checksum: 59e41a85b5410e99df936e8b78290e6253df13028b48f22b47a246d11aa32804
     created: '2026-07-18T05:03:02.877912+00:00'
-    modified: '2026-07-18T05:03:02.877912+00:00'
+    modified: '2026-07-22T04:00:20.744965+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/01 - Journey to Port Vesper.md:
     checksum: d7c550c231d187a376bcc99635d284f2190c99c7a1ef29e3d82b8f2779bcdadf
@@ -700,10 +725,15 @@ files:
     created: '2026-07-21T12:46:13.170026+00:00'
     modified: '2026-07-21T13:03:05.239540+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/04 - Wreck Expedition.md:
+    checksum: d7aaf1d1b57d2c92d26a15e9776f015cb3b9e643d24786eb73d8239e45c50286
+    created: '2026-07-22T04:00:20.745058+00:00'
+    modified: '2026-07-22T04:00:20.745058+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/01 - Sally Slaughter's Treasure.md:
-    checksum: 6341ecfe349f6508db24e9ea34fbaf7bb5a89aba5a7e1942b4d6c44515747f12
+    checksum: dfdd20c053100de83e29a890ef1880db4e802e3cd32180cb52f5928d22ad6bed
     created: '2026-07-18T05:03:02.878107+00:00'
-    modified: '2026-07-21T13:03:05.239577+00:00'
+    modified: '2026-07-22T04:00:20.745091+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Factions/The Great Houses/House Duran.md:
     checksum: f2ddace64fbe3cf7b463a7addd9951355d435b49df0bf35d7bbb84ae6f8da145
@@ -1332,10 +1362,15 @@ files:
     created: '2026-02-26T16:37:19.374225+00:00'
     modified: '2026-02-28T09:13:29.989816+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Jett Foley/Notes/Jett 16 -.md:
-    checksum: 3d7a0d750a9aea49e098c6a6cbb5fc58bff340539b88c986597359624058938e
+  The Starforged/Campaign Jett Foley/Journals/Jett 16 - Searching for Tomiko.md:
+    checksum: 68fc18d32c0e6ff2820042a0db93d0900aa7c173a90cc0298bda15fcd18cc17d
     created: '2026-02-28T09:13:29.989952+00:00'
-    modified: '2026-06-21T14:47:08.286697+00:00'
+    modified: '2026-07-22T04:00:20.745230+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Jett Foley/Notes/Jett 17 - WIP.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-07-22T04:00:20.745299+00:00'
+    modified: '2026-07-22T04:00:20.745299+00:00'
     owner: thathulsguy
   The Starforged/Campaign Jett Foley/Notes/Plot Hooks.md:
     checksum: 78f9707ba62001a0f07f0f573848a429840127ef3bfe1f6de053625e35ff4ffd
@@ -1583,9 +1618,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 2d4f2114099a9467bca6cfc5f1126be22f36a187ab009dd34de85f4473b123a1
+    checksum: 02a6ac074f8c706e5b915f5f515ca9e57202dc7117601e6df79f7aebcf11d8f3
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-21T10:40:27.533760+00:00'
+    modified: '2026-07-22T04:00:20.745337+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/10 - Rebels try to rescue the Spider.md:
     checksum: 6a02d298dd3966346e8f8ff10e79dc3df3f0a62dd289522ab0c18294d4e05230
@@ -1598,9 +1633,14 @@ files:
     modified: '2026-07-21T10:40:27.533807+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/11 - Miwako returns to Minami.md:
-    checksum: 8f06e316e619158e06e5ddc5035924acd6cc15a997b4e9bd20e2ccdff81d2081
+    checksum: 3541e19d214f60165b79a33d422d1f24c263b1018e82955159294a78af331842
     created: '2026-07-20T15:00:54.761409+00:00'
-    modified: '2026-07-20T15:00:54.761409+00:00'
+    modified: '2026-07-22T04:00:20.745369+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Clocks/14 - Pirates board the ship.md:
+    checksum: 145ad3178945a03ac9b0180c0954d49626094b8df9449355ee71b58d584c8de8
+    created: '2026-07-22T04:00:20.745453+00:00'
+    modified: '2026-07-22T04:00:20.745453+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -1667,10 +1707,15 @@ files:
     created: '2026-07-20T15:00:54.761659+00:00'
     modified: '2026-07-21T06:56:02.064331+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/13 - Rushdown - WIP.md:
-    checksum: 34e349a1c152cca990b724a8226d75728f43ee8a2a410104db84ed6ad1667005
+  The Starforged/Campaign Rushdown/Journals/13 - Rushdown - Murder on Gallows.md:
+    checksum: 064afd6128995e8672b93eaed87be97584b92d950edb05652daf5435e13859d5
     created: '2026-07-21T10:40:27.533962+00:00'
-    modified: '2026-07-21T10:40:27.533962+00:00'
+    modified: '2026-07-22T04:00:20.745579+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Journals/14 - Rushdown - Armada.md:
+    checksum: 7db7c98478631ecebd729350aa3d3277f5dedb7e04662e32ce732a83e82f63d5
+    created: '2026-07-22T04:00:20.745681+00:00'
+    modified: '2026-07-22T04:00:20.745681+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: 0242574d7ddc8da9ef0e9b07f86cb0ebd031d94ac06b2164bf31785741d6e725
@@ -1678,9 +1723,9 @@ files:
     modified: '2026-07-21T10:40:27.534001+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
-    checksum: d68f7f0aebf9c1663998b5ca71cd6f1a56a219e91d53ad9da55e23e6a7f7893c
+    checksum: 26aed5cf400ea650bfe41191b28fb0182b1b91b641533074d637fedd468db976
     created: '2026-07-04T09:08:35.239527+00:00'
-    modified: '2026-07-21T10:40:27.534033+00:00'
+    modified: '2026-07-22T04:00:20.745716+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1721,6 +1766,11 @@ files:
     checksum: 79b2818ba62363bf44fd583f72718db4fde461bc219ab051e5fd3f327d809031
     created: '2026-07-20T15:00:54.762066+00:00'
     modified: '2026-07-20T15:00:54.762066+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Combat/14 - Escape the Pirates.md:
+    checksum: 2286ccccdd7fcad63397e9f5f6e257236541452c521ec43fc302f68903e480f2
+    created: '2026-07-22T04:00:20.745811+00:00'
+    modified: '2026-07-22T04:00:20.745811+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/00 - Connection Butcher.md:
     checksum: 5a33a55a889331211c11db315d2bd3e50d0abbee823a84a0184399d3f0d766a5
@@ -1818,9 +1868,9 @@ files:
     modified: '2026-07-20T15:00:54.762377+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/13 - Investigate missing scientist.md:
-    checksum: 15b09685d2d0256e6f6c03a6244a01387bedc86955482d9aa1fdc325afedb0b2
+    checksum: 5f9189fb58e9f2d948fe2ab920a3f9c0328bdff59ffbf84eb2590cd9ee6d0cd5
     created: '2026-07-21T10:40:27.534296+00:00'
-    modified: '2026-07-21T10:40:27.534296+00:00'
+    modified: '2026-07-22T04:00:20.745848+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/13 - Solve Fixer's murder.md:
     checksum: 091cfafab403f4f1cbad5f73b501d24a78ce939f37addc45da6bbac70ab6062d
@@ -2067,6 +2117,11 @@ files:
     created: '2026-06-16T06:35:39.169431+00:00'
     modified: '2026-06-20T17:26:54.653189+00:00'
     owner: jannythespartan
+  The Starforged/Epistolary/Message 08 - Rushdown.md:
+    checksum: 90602632db38af9e1a2c3acd5c51b965a4a42816198728fce78327b6730eee53
+    created: '2026-07-22T04:00:20.745899+00:00'
+    modified: '2026-07-22T04:00:20.745899+00:00'
+    owner: thathulsguy
   The Starforged/Factions/Ascendancy of the Awakened Worlds.md:
     checksum: c9fba5968cff3e60966d248202d15c300148df36f629317e0cc137f11610507c
     created: '2025-12-27T20:36:06.781765+00:00'
