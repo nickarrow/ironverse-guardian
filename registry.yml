@@ -1703,9 +1703,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 0d4a69d1c35491cdde38fea024da0b1e71b074ec1584fc3c971aeaafe15cfc8b
+    checksum: ca92224fac8dc00cca17af852830820371a47f439f7e8309fc256f3362ebd659
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-23T11:33:14.253101+00:00'
+    modified: '2026-07-23T19:01:00.481816+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/10 - Rebels try to rescue the Spider.md:
     checksum: 6a02d298dd3966346e8f8ff10e79dc3df3f0a62dd289522ab0c18294d4e05230
@@ -1822,10 +1822,10 @@ files:
     created: '2026-07-23T01:20:54.699525+00:00'
     modified: '2026-07-23T02:01:00.846952+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/16 - Rushdown - WIP.md:
-    checksum: 5e571913979e3ff5eb8682dbeb473074688ffc5d74b7d442b7d43f1520706e42
+  The Starforged/Campaign Rushdown/Journals/16 - Rushdown - Return of the Spider.md:
+    checksum: 1afd3846235e8c8887f9822479fbfe9af30e5abc391ceefe1f312b66afb860d5
     created: '2026-07-23T02:01:00.847058+00:00'
-    modified: '2026-07-23T11:33:14.253210+00:00'
+    modified: '2026-07-23T19:01:00.482092+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: 0242574d7ddc8da9ef0e9b07f86cb0ebd031d94ac06b2164bf31785741d6e725
@@ -1833,9 +1833,9 @@ files:
     modified: '2026-07-21T10:40:27.534001+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
-    checksum: 05feb1b84b4813bd7f63adfd039385bdcbd1dd1102dec30fa4c40293af4c8e7b
+    checksum: 742fec5b586bb5f700f3b686313c0a67e7db12cb78b69940288b38b1e4790488
     created: '2026-07-04T09:08:35.239527+00:00'
-    modified: '2026-07-23T02:01:00.847099+00:00'
+    modified: '2026-07-23T19:01:00.482134+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1913,9 +1913,9 @@ files:
     modified: '2026-07-13T04:37:56.833486+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md:
-    checksum: c83f636b903617671eb502a173341da8c505d4c2db514e4187d42872880bc7d4
+    checksum: 243a2416798693eda965f2a5b5c0841646de612f08b583376650d15d6adb3a41
     created: '2026-07-08T09:33:40.720779+00:00'
-    modified: '2026-07-09T16:53:21.189894+00:00'
+    modified: '2026-07-23T19:01:00.482170+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/Connection Redblood.md:
     checksum: bd954459da82849553dd0d62b1acfaea6ff84bc7ec6fdceeb090884793c9a915
@@ -1961,6 +1961,11 @@ files:
     checksum: 8eb5e8d98ab63cdf61403db3878cffe52689891548b4471417ad3311db2c8d77
     created: '2026-07-23T11:33:14.253356+00:00'
     modified: '2026-07-23T11:33:14.253356+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Expeditions/16 - Wreck Depot.md:
+    checksum: d23bf5fd86761c951daee2a68d1cdd70c915afd762034d5b6a2b67982ba54a55
+    created: '2026-07-23T19:01:00.482297+00:00'
+    modified: '2026-07-23T19:01:00.482297+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md:
     checksum: 74ad55ba98912bae22b9c19f83f4294ce7d78542e5575e301bc3713db64c0143
@@ -2008,9 +2013,9 @@ files:
     modified: '2026-07-21T10:40:27.534395+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/16 - Prisoner Handover.md:
-    checksum: fbfb88a1d1899f0e51f8623395cfb1ceff0bf03f7d29eed8faffcb09fc39abaa
+    checksum: 50f390a740f0509a495cc859d6125012177a19ec0fab84c38c1124ef573212bd
     created: '2026-07-23T11:33:14.253426+00:00'
-    modified: '2026-07-23T11:33:14.253426+00:00'
+    modified: '2026-07-23T19:01:00.482338+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
