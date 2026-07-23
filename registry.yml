@@ -1658,9 +1658,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 02a6ac074f8c706e5b915f5f515ca9e57202dc7117601e6df79f7aebcf11d8f3
+    checksum: 10bc6ce854c448d7791ca2e98deadd117a916407a5cd0c4410a0094e8e0d1969
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-22T04:00:20.745337+00:00'
+    modified: '2026-07-23T02:01:00.846588+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/10 - Rebels try to rescue the Spider.md:
     checksum: 6a02d298dd3966346e8f8ff10e79dc3df3f0a62dd289522ab0c18294d4e05230
@@ -1668,14 +1668,14 @@ files:
     modified: '2026-07-20T11:02:51.203679+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/10 - Satonaka Return.md:
-    checksum: 128ad5325568627e9448b6b7963d0935949890bea357eb9a21987cd1ecabbfd4
+    checksum: e2afc8ce8fc37d23ba3c122eadc5d374e1e572eae81dfe998645566273136375
     created: '2026-07-20T11:02:51.203780+00:00'
-    modified: '2026-07-23T01:20:54.699053+00:00'
+    modified: '2026-07-23T02:01:00.846641+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/11 - Miwako returns to Minami.md:
-    checksum: 6033c4126f0c4efacbe5b9b6f4be457dd013df96589c1b8d874cf72093eb718d
+    checksum: 9c131cecc8436189fcb2b31c85ab52b2cccef6e48c15c7bf97b315c1cc6d04de
     created: '2026-07-20T15:00:54.761409+00:00'
-    modified: '2026-07-23T01:20:54.699105+00:00'
+    modified: '2026-07-23T02:01:00.846675+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/14 - Pirates board the ship.md:
     checksum: 145ad3178945a03ac9b0180c0954d49626094b8df9449355ee71b58d584c8de8
@@ -1683,14 +1683,14 @@ files:
     modified: '2026-07-22T04:00:20.745453+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/15 - Backup arrives.md:
-    checksum: 3396ca5c0a33f54f4fae241ec25f87665c36a5e540ab9c57ff6c23f3c2575c2b
+    checksum: 1f4e5a2acb2a6629139f6a90ae89084c4f4b82102c82168423f053c98f9eb4d4
     created: '2026-07-23T01:20:54.699257+00:00'
-    modified: '2026-07-23T01:20:54.699257+00:00'
+    modified: '2026-07-23T02:01:00.846706+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/Ascendancy scouts arrive in Ashitaba.md:
-    checksum: e2801f589dd7619446263175fc0fa0be1bcbaafb485c7a41f8cef408dc661eab
+    checksum: 6ed0aaaafa577ceb732e18864693cf2f8463a072f33d1071ae722eb13643e0c3
     created: '2026-07-23T01:20:54.699365+00:00'
-    modified: '2026-07-23T01:20:54.699365+00:00'
+    modified: '2026-07-23T02:01:00.846739+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -1767,10 +1767,15 @@ files:
     created: '2026-07-22T04:00:20.745681+00:00'
     modified: '2026-07-23T01:20:54.699418+00:00'
     owner: thathulsguy
-  The Starforged/Campaign Rushdown/Notes/15 - Rushdown.md:
-    checksum: 60f6beed65b525b72efe1bb932ac74a4309c4c6f918af30a4c6bed6645d26dae
+  The Starforged/Campaign Rushdown/Journals/15 - Rushdown - Skullcrusher.md:
+    checksum: 62e380023c3324b0c50e49794f918df4f59576cf821b1b708508a9fe51f105c3
     created: '2026-07-23T01:20:54.699525+00:00'
-    modified: '2026-07-23T01:20:54.699525+00:00'
+    modified: '2026-07-23T02:01:00.846952+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/16 - Rushdown - WIP.md:
+    checksum: ad91e9a91b906e5a39cbfe7b9cd660023799ba44a6b6c9f6679a390e12a3070c
+    created: '2026-07-23T02:01:00.847058+00:00'
+    modified: '2026-07-23T02:01:00.847058+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: 0242574d7ddc8da9ef0e9b07f86cb0ebd031d94ac06b2164bf31785741d6e725
@@ -1778,9 +1783,9 @@ files:
     modified: '2026-07-21T10:40:27.534001+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
-    checksum: 26aed5cf400ea650bfe41191b28fb0182b1b91b641533074d637fedd468db976
+    checksum: 05feb1b84b4813bd7f63adfd039385bdcbd1dd1102dec30fa4c40293af4c8e7b
     created: '2026-07-04T09:08:35.239527+00:00'
-    modified: '2026-07-22T04:00:20.745716+00:00'
+    modified: '2026-07-23T02:01:00.847099+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1828,9 +1833,9 @@ files:
     modified: '2026-07-22T04:00:20.745811+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/15 - Skullcrusher.md:
-    checksum: dbb7ba1e1f1815e620819fd5f195442fa5b9ad10511f5c3dbd23b8a5c07defac
+    checksum: 749fc63730eeae9c2ed1995445578702902b4c0fb516e3847711835cd6dd05cb
     created: '2026-07-23T01:20:54.699633+00:00'
-    modified: '2026-07-23T01:20:54.699633+00:00'
+    modified: '2026-07-23T02:01:00.847132+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/15 - Vanguard.md:
     checksum: 8de7883a266fd284a4596031f303eccf48c00d4e3284d65aa0a10214302b8259
