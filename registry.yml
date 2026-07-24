@@ -626,9 +626,9 @@ files:
     modified: '2026-07-18T01:56:35.739686+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md:
-    checksum: f34b6cc68cf734c8f34d84811f072923911413753e14a9230f8084fd9cdccf4b
+    checksum: 27648747a54ec749f3c57cf11219119dada83b68c24ef595374c925921820559
     created: '2026-07-18T01:56:35.739813+00:00'
-    modified: '2026-07-23T09:22:13.986679+00:00'
+    modified: '2026-07-24T03:00:40.132791+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/03 - Pirates board the ship.md:
     checksum: 763814a6d45d932a0c8cf7f9e3b508937a81b5c024597ffdd12896b9327e9ba1
@@ -654,6 +654,11 @@ files:
     checksum: d5acdcafccac3b55d095bc8378b34a7d4c68613ea60175e8f182a4837308035d
     created: '2026-07-23T05:51:26.351500+00:00'
     modified: '2026-07-23T05:51:26.351500+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/07 - Mysterious Creature.md:
+    checksum: 7146c6fb50029b548ef4091734ce7151d10d932b9a92142a7be2c12de7c7db18
+    created: '2026-07-24T03:00:40.132967+00:00'
+    modified: '2026-07-24T03:00:40.132967+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/01 - Johnny Glass - Sally Slaughter's Treasure.md:
     checksum: ae23fc82346fdc9d000efa8cd732a2b139ed67b2469e5e2eee57861506e9d7ac
@@ -685,6 +690,11 @@ files:
     created: '2026-07-23T05:51:26.351684+00:00'
     modified: '2026-07-23T19:05:05.739058+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/07 - Johnny Glass - The Two Billies.md:
+    checksum: 424c9c6f7c862fef1756276bb542c736ab1c9719dcb1743db6e4dfb51d9afc7f
+    created: '2026-07-24T03:00:40.133098+00:00'
+    modified: '2026-07-24T03:00:40.133098+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Locations/Erast/The Three Lillies.md:
     checksum: 89a44d5cd1c61b7a5e6853aeb40364d73301b4106fa4a69262e48667f12e548d
     created: '2026-07-18T02:03:24.551193+00:00'
@@ -706,9 +716,9 @@ files:
     modified: '2026-07-18T02:03:24.551276+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/Plot Hooks.md:
-    checksum: 2f9e9dfd7efd5fbf1b32af29305237fd4f67bdbce568f24936ed424b297e7bd2
+    checksum: fdb663d6e2821d1f9187fccc950202c136e5a06ed0a40ce79ee2be6735acf27c
     created: '2026-07-18T01:56:35.740163+00:00'
-    modified: '2026-07-23T05:51:26.351721+00:00'
+    modified: '2026-07-24T03:00:40.133178+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/03 - Sink the pirate ship.md:
     checksum: 4b3e5c3b02ed49f96f15b8126c63f83817dbbb762d0671681ed27f8a2f7c03b3
@@ -795,6 +805,16 @@ files:
     created: '2026-07-23T05:51:26.352141+00:00'
     modified: '2026-07-23T05:51:26.352141+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/07 - Find the flooded passageway.md:
+    checksum: af9b3ae21d6907527b5567d5a6bb07bd59c8a995f041e5f03e9897a47724fd8d
+    created: '2026-07-24T03:00:40.133314+00:00'
+    modified: '2026-07-24T03:00:40.133314+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/07 - Find the sea cave.md:
+    checksum: c9d2560c4b296a54c4316b45514d6843912190b0c0d54b87c46160a8312f0115
+    created: '2026-07-24T03:00:40.133421+00:00'
+    modified: '2026-07-24T03:00:40.133421+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/01 - Sally Slaughter's Treasure.md:
     checksum: dfdd20c053100de83e29a890ef1880db4e802e3cd32180cb52f5928d22ad6bed
     created: '2026-07-18T05:03:02.878107+00:00'
@@ -804,6 +824,11 @@ files:
     checksum: 6fb81c19a9ec8bba73f805df041a138e57c7d837de7222e3aa7d65c7a0c6d151
     created: '2026-07-22T22:46:02.891470+00:00'
     modified: '2026-07-23T05:51:26.352176+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/07 - Explore the flooded cave vow.md:
+    checksum: 44718a1dcbb7041f310cb9bdf54fb144e716cf89881295ac5a96da7a84be203c
+    created: '2026-07-24T03:00:40.133524+00:00'
+    modified: '2026-07-24T03:00:40.133524+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Factions/The Great Houses/House Duran.md:
     checksum: f2ddace64fbe3cf7b463a7addd9951355d435b49df0bf35d7bbb84ae6f8da145
