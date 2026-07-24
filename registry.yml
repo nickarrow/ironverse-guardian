@@ -1728,9 +1728,9 @@ files:
     modified: '2026-07-04T07:20:53.963454+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Characters/Rushdown.md:
-    checksum: 568da6fa3fac3dcc8b7b73ab5080e5897331fc9999bcb0303af66760a27be11f
+    checksum: 3d66d8bad5efb76e534e8b5d02832ee99b67756366997ef76198dc2c17d54bc1
     created: '2026-07-04T07:20:53.963595+00:00'
-    modified: '2026-07-23T19:38:31.624981+00:00'
+    modified: '2026-07-24T21:43:58.585657+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/10 - Rebels try to rescue the Spider.md:
     checksum: 6a02d298dd3966346e8f8ff10e79dc3df3f0a62dd289522ab0c18294d4e05230
@@ -1763,9 +1763,9 @@ files:
     modified: '2026-07-23T11:33:14.253173+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/Ascendancy scouts arrive in Ashitaba.md:
-    checksum: 6ed0aaaafa577ceb732e18864693cf2f8463a072f33d1071ae722eb13643e0c3
+    checksum: 08b635e53d65129ac396d932750a52a974c11394014c58962a6330ba29022ef0
     created: '2026-07-23T01:20:54.699365+00:00'
-    modified: '2026-07-23T02:01:00.846739+00:00'
+    modified: '2026-07-24T21:43:58.585713+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -1838,9 +1838,9 @@ files:
     modified: '2026-07-22T04:00:20.745579+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/14 - Rushdown - Armada.md:
-    checksum: c4d96195ff3b325f5a4734b0e032bf531aae17517a7b3996f0acc5cc1a232ab4
+    checksum: 74d85cf7bc3b337f066bdf0cc6a363d88afba738b6deff1e57b2f54f7481803f
     created: '2026-07-22T04:00:20.745681+00:00'
-    modified: '2026-07-23T01:20:54.699418+00:00'
+    modified: '2026-07-24T21:43:58.585763+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/15 - Rushdown - Skullcrusher.md:
     checksum: 62e380023c3324b0c50e49794f918df4f59576cf821b1b708508a9fe51f105c3
@@ -1852,15 +1852,20 @@ files:
     created: '2026-07-23T02:01:00.847058+00:00'
     modified: '2026-07-23T19:38:31.625039+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Rushdown/Journals/17 - Rushdown - Barracuda.md:
+    checksum: 570d6f2e6e66ebda66e825baeac7cdb872d1d9ee1609a7026226d8ef27b5f3cd
+    created: '2026-07-24T21:43:58.585959+00:00'
+    modified: '2026-07-24T21:43:58.585959+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: 0242574d7ddc8da9ef0e9b07f86cb0ebd031d94ac06b2164bf31785741d6e725
     created: '2026-07-06T13:55:52.782810+00:00'
     modified: '2026-07-21T10:40:27.534001+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Plot Hooks.md:
-    checksum: 742fec5b586bb5f700f3b686313c0a67e7db12cb78b69940288b38b1e4790488
+    checksum: 7279f33273166fbb17f1d64b693e6bdeabe87b00e8439410734914c5a9ede408
     created: '2026-07-04T09:08:35.239527+00:00'
-    modified: '2026-07-23T19:01:00.482134+00:00'
+    modified: '2026-07-24T21:43:58.585996+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Combat/01 - Alley Fight.md:
     checksum: d68ffcaabc8ee9afc6cf7444f9dcc556b2da0e78554763883e74155c0a909d2c
@@ -1938,9 +1943,9 @@ files:
     modified: '2026-07-13T04:37:56.833486+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/Connection Gray.md:
-    checksum: 243a2416798693eda965f2a5b5c0841646de612f08b583376650d15d6adb3a41
+    checksum: b7bb35c01920824d26012f1de85167320d5c5f4a37a45b47ac141f3119de616a
     created: '2026-07-08T09:33:40.720779+00:00'
-    modified: '2026-07-23T19:01:00.482170+00:00'
+    modified: '2026-07-24T21:43:58.586028+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Connections/Connection Redblood.md:
     checksum: bd954459da82849553dd0d62b1acfaea6ff84bc7ec6fdceeb090884793c9a915
@@ -1992,6 +1997,11 @@ files:
     created: '2026-07-23T19:01:00.482297+00:00'
     modified: '2026-07-23T19:01:00.482297+00:00'
     owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Expeditions/17 - Find the Ironsails base.md:
+    checksum: a58c86d7df533a36529c770b7338c79850a7c1d2df7d53d7c64b5401d879e7a1
+    created: '2026-07-24T21:43:58.586141+00:00'
+    modified: '2026-07-24T21:43:58.586141+00:00'
+    owner: thathulsguy
   The Starforged/Campaign Rushdown/Progress/Vows/01 - Get rid of the Ironsail Raiders.md:
     checksum: 74ad55ba98912bae22b9c19f83f4294ce7d78542e5575e301bc3713db64c0143
     created: '2026-07-05T16:05:17.577871+00:00'
@@ -2041,6 +2051,11 @@ files:
     checksum: 50f390a740f0509a495cc859d6125012177a19ec0fab84c38c1124ef573212bd
     created: '2026-07-23T11:33:14.253426+00:00'
     modified: '2026-07-23T19:01:00.482338+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Progress/Vows/17 - Deal with the raiders.md:
+    checksum: 4ee0b63871dbf342577ab869cc7b15908728397b953c5cbb65b155171ec4b456
+    created: '2026-07-24T21:43:58.586236+00:00'
+    modified: '2026-07-24T21:43:58.586236+00:00'
     owner: thathulsguy
   The Starforged/Campaign Sable Rowe/Campaign Sable Rowe.md:
     checksum: 6ca09d0c08bbd831588ddba3c27822b455a0b0d1b0c9469766ba852f43184cbb
