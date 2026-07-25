@@ -626,9 +626,9 @@ files:
     modified: '2026-07-18T01:56:35.739686+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md:
-    checksum: 27648747a54ec749f3c57cf11219119dada83b68c24ef595374c925921820559
+    checksum: b7b93b88ab2481614da3234870ebf9de3608c83fac5a436df35c6d9ea4e69e76
     created: '2026-07-18T01:56:35.739813+00:00'
-    modified: '2026-07-24T03:00:40.132791+00:00'
+    modified: '2026-07-25T03:32:46.044996+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/03 - Pirates board the ship.md:
     checksum: 763814a6d45d932a0c8cf7f9e3b508937a81b5c024597ffdd12896b9327e9ba1
@@ -695,6 +695,11 @@ files:
     created: '2026-07-24T03:00:40.133098+00:00'
     modified: '2026-07-24T03:00:40.133098+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/08 - Johnny Glass - An Unexpected Outcome.md:
+    checksum: 6a104553d457239645817c45a9d1aba23448468baa7dc6b753886b216e6a7133
+    created: '2026-07-25T03:32:46.045185+00:00'
+    modified: '2026-07-25T03:32:46.045185+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Locations/Erast/The Three Lillies.md:
     checksum: 89a44d5cd1c61b7a5e6853aeb40364d73301b4106fa4a69262e48667f12e548d
     created: '2026-07-18T02:03:24.551193+00:00'
@@ -716,9 +721,9 @@ files:
     modified: '2026-07-18T02:03:24.551276+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/Plot Hooks.md:
-    checksum: fdb663d6e2821d1f9187fccc950202c136e5a06ed0a40ce79ee2be6735acf27c
+    checksum: b45fcf6c1dcf6936bbfa9dc7ddf9aeaeef0563053c268ba38bfd40b0a5160c8a
     created: '2026-07-18T01:56:35.740163+00:00'
-    modified: '2026-07-24T03:00:40.133178+00:00'
+    modified: '2026-07-25T03:32:46.045225+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/03 - Sink the pirate ship.md:
     checksum: 4b3e5c3b02ed49f96f15b8126c63f83817dbbb762d0671681ed27f8a2f7c03b3
@@ -765,6 +770,11 @@ files:
     created: '2026-07-23T05:51:26.351994+00:00'
     modified: '2026-07-23T05:51:26.351994+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Ernesto.md:
+    checksum: 6cb6790949cb1518e6f52c443b596ee93d340c46451a3fae9d0a5610102b0224
+    created: '2026-07-25T03:32:46.045369+00:00'
+    modified: '2026-07-25T03:32:46.045369+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Ogre.md:
     checksum: 9d71dbad59215eccb7af69f617e5123990102acff3c127da44fbc43dd9cebc8b
     created: '2026-07-18T05:03:02.877806+00:00'
@@ -774,6 +784,11 @@ files:
     checksum: 59e41a85b5410e99df936e8b78290e6253df13028b48f22b47a246d11aa32804
     created: '2026-07-18T05:03:02.877912+00:00'
     modified: '2026-07-22T04:00:20.744965+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Tiffany Swiftblade.md:
+    checksum: ba2fb9214082bfa1861e8226a9badba9b131bd0a7d263a215a658bd963fd5f0d
+    created: '2026-07-25T03:32:46.045469+00:00'
+    modified: '2026-07-25T03:32:46.045469+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/01 - Journey to Port Vesper.md:
     checksum: d7c550c231d187a376bcc99635d284f2190c99c7a1ef29e3d82b8f2779bcdadf
@@ -826,9 +841,9 @@ files:
     modified: '2026-07-23T05:51:26.352176+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/07 - Explore the flooded cave vow.md:
-    checksum: 44718a1dcbb7041f310cb9bdf54fb144e716cf89881295ac5a96da7a84be203c
+    checksum: c54fbdf8e46c8f49f49a3752573e1998e038d23b08220cc582519c4e6524bb42
     created: '2026-07-24T03:00:40.133524+00:00'
-    modified: '2026-07-24T03:00:40.133524+00:00'
+    modified: '2026-07-25T03:32:46.045501+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Factions/The Great Houses/House Duran.md:
     checksum: f2ddace64fbe3cf7b463a7addd9951355d435b49df0bf35d7bbb84ae6f8da145
