@@ -626,9 +626,9 @@ files:
     modified: '2026-07-18T01:56:35.739686+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md:
-    checksum: c8d8a41b7856aefb8e4ae7dc92b439d2c0204ec6a204fa54c3ba2fd309b2a911
+    checksum: eb21309417bf2f5650b50bf27ea643b71275cd557717ea27618a916759a7def2
     created: '2026-07-18T01:56:35.739813+00:00'
-    modified: '2026-07-26T06:02:34.331176+00:00'
+    modified: '2026-07-28T04:51:19.616496+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/03 - Pirates board the ship.md:
     checksum: 763814a6d45d932a0c8cf7f9e3b508937a81b5c024597ffdd12896b9327e9ba1
@@ -721,9 +721,9 @@ files:
     modified: '2026-07-18T02:03:24.551276+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/09 - Johnny Glass - WIP.md:
-    checksum: ca4b47f45dd42e2a973a7b9f53b4613b1d288468f04502aac05f6b400871e502
+    checksum: 1374e847a289af667015e68719288f386abc453eae79d0727a832eca2829411a
     created: '2026-07-26T06:02:34.331363+00:00'
-    modified: '2026-07-26T13:44:58.549931+00:00'
+    modified: '2026-07-28T04:51:19.616539+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/Plot Hooks.md:
     checksum: b45fcf6c1dcf6936bbfa9dc7ddf9aeaeef0563053c268ba38bfd40b0a5160c8a
@@ -774,6 +774,11 @@ files:
     checksum: 923365a04f6813d7ec0fe7aaa89cbcf879c63729877ad5a01c35c25efc2d7070
     created: '2026-07-23T05:51:26.351994+00:00'
     modified: '2026-07-23T05:51:26.351994+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/09 - Pirate Captain.md:
+    checksum: 834937ec38caf85d2aa1fa138fd105488ce66677856104fd48484a8bc16a65ee
+    created: '2026-07-28T04:51:19.616708+00:00'
+    modified: '2026-07-28T04:51:19.616708+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Connections/Connection Ernesto.md:
     checksum: 6cb6790949cb1518e6f52c443b596ee93d340c46451a3fae9d0a5610102b0224
@@ -1788,19 +1793,24 @@ files:
     modified: '2026-07-26T03:46:17.729060+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/19 - Takamaki Response.md:
-    checksum: 4c426a2916354e1e4d2d4cfd10a006558ea77926a561f112e8746bd5e9c488ad
+    checksum: 27cf0869ef457e78ceaec639b9f087440241b8e970c4180c6e23b78d9148dbdc
     created: '2026-07-26T03:46:17.729133+00:00'
-    modified: '2026-07-26T03:46:17.729133+00:00'
+    modified: '2026-07-28T04:51:19.616734+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Clocks/20 - Ascendancy respond to the Miwako's theft.md:
+    checksum: 93d0101a22d9d7c99c01189f0926890800a337187bc4881f15f3834978be3dc7
+    created: '2026-07-28T04:51:19.616794+00:00'
+    modified: '2026-07-28T04:51:19.616794+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/Ascendancy scouts arrive in Ashitaba.md:
-    checksum: 500a2db695c2cf71a7f792ad8fd330f2c26aff0f99ddc09ee2966fdfbdc19861
+    checksum: 47b1c463c17ca4eb0b09f06e44903514c5743287cfc874a6cb76f08827faf7a9
     created: '2026-07-23T01:20:54.699365+00:00'
-    modified: '2026-07-26T03:46:17.729155+00:00'
+    modified: '2026-07-28T04:51:19.616810+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Clocks/Barracudas strike back.md:
-    checksum: 301fd5a2ab018916f82c6a42bedf76a6fabc049ce20e86f917ec436d0b4e4077
+    checksum: 2cce061c7fb840ec9fed4ca857f6b7b8446538f50bdc99694fdb04868425bbbe
     created: '2026-07-26T03:46:17.729213+00:00'
-    modified: '2026-07-26T03:46:17.729213+00:00'
+    modified: '2026-07-28T04:51:19.616824+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Journals/00 - Rushdown - Setting the Scene.md:
     checksum: 5062e2f80d668a184658a49f753750c623f0533310f202fcee2b34558f723652
@@ -1901,6 +1911,11 @@ files:
     checksum: 53fa205197d92a47252ac2b52c82d2c58b25572fd14b5ddfabc6dfa98c5ea328
     created: '2026-07-26T03:46:17.729338+00:00'
     modified: '2026-07-26T04:10:03.971828+00:00'
+    owner: thathulsguy
+  The Starforged/Campaign Rushdown/Notes/20 - Rushdown - WIP.md:
+    checksum: eed6931992c6521c2ddbf7b1580b5d0d2c9ab3e430b3e7915dd4a978049cb1a7
+    created: '2026-07-28T04:51:19.616881+00:00'
+    modified: '2026-07-28T04:51:19.616881+00:00'
     owner: thathulsguy
   The Starforged/Campaign Rushdown/Notes/Crewmembers.md:
     checksum: 0242574d7ddc8da9ef0e9b07f86cb0ebd031d94ac06b2164bf31785741d6e725
