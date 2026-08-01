@@ -961,9 +961,9 @@ files:
     modified: '2026-07-23T17:01:26.157454+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Locations/The New World/The Vitan Federation/Ambervale/The Black-Iron Anvil.md:
-    checksum: 16066537f032d9ea7da2dd7125277f19ce27816dd66e796911d9f6d387ca7fa9
+    checksum: e6e29443d56bac5a322dc234de3caba1a2c08b4be53fbca5cb5adc252c388a12
     created: '2026-08-01T20:43:07.805017+00:00'
-    modified: '2026-08-01T20:43:07.805017+00:00'
+    modified: '2026-08-01T20:50:25.280330+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Locations/The New World/The Vitan Federation/Ambervale/The Full Flag-inn.md:
     checksum: e0f9022408e1039bb5b7aa134473a1e43a7e8dc81fb468fbc357a621c1cb1d88
@@ -1014,6 +1014,11 @@ files:
     checksum: dbc43a1c53d10e34ec2723baed7053a75d01b86e199860b2698cf3ad3d4f452a
     created: '2026-07-17T15:18:23.229674+00:00'
     modified: '2026-07-17T15:18:23.229674+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/NPCs/The New World/The Vitan Federation/Ambervale/The Black-Iron Anvil/Karadin Montfellier.md:
+    checksum: 11b50c827807f5588e974f184eae6e8fe490193d3898d5b2b0c04630b56f5f5b
+    created: '2026-08-01T20:50:25.280563+00:00'
+    modified: '2026-08-01T20:50:25.280563+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/NPCs/The New World/The Vitan Federation/Ambervale/The Full Flag-inn/Gregory Whittenmeyer.md:
     checksum: 4b2e0e7d421a55fd59cbbe05ed5aff9a74b15e9cf77604bd6ed3c646c2bba508
