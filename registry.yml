@@ -221,9 +221,9 @@ files:
     modified: '2026-07-20T15:57:43.966604+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Characters/Cyrus Stone.md:
-    checksum: f3f5d19e9e8802999153a5d4c531d98fd97aed374e0abe7442f749f8c0336f04
+    checksum: fea980a096d5aebbcfc2a7ec66fc1b8cced7b3ec3cdb50b5e3b97501cd14c9e9
     created: '2026-07-12T14:52:45.302039+00:00'
-    modified: '2026-07-23T17:01:25.967728+00:00'
+    modified: '2026-08-01T20:43:07.804444+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Connections/Portia Whittenmeyer.md:
     checksum: 110b4200b26cfe51c2f7f12423be5ad687f95b00a4eb9051b28fbab645c75c9d
@@ -601,9 +601,14 @@ files:
     modified: '2026-07-23T17:01:25.967953+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Journal Entry 3 - Safe Haven.md:
-    checksum: 0877a4721805f754d66e8b28da5a574cab91529eae935129e534ad5b818610fe
+    checksum: bf4bd4dc82de42986e1de94729ae16dae21bbcba03093c4808de3f8ae03bb485
     created: '2026-07-17T15:18:23.229410+00:00'
-    modified: '2026-07-23T17:01:25.968009+00:00'
+    modified: '2026-08-01T20:43:07.804515+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Journals/Journal Entry 4 - Tarnished Glory.md:
+    checksum: dcd35e5c9bf0da9dfb532ce019dcac466a1af913858097adab47c9e105658141
+    created: '2026-08-01T20:43:07.804676+00:00'
+    modified: '2026-08-01T20:43:07.804676+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Defeat or Escape from the Giant Spider.md:
     checksum: 902ea5e10613a0d536d56c40a353783c2f049deee1483f7fddd4f1bfee7cca4f
@@ -615,10 +620,20 @@ files:
     created: '2026-07-16T03:34:50.155472+00:00'
     modified: '2026-07-23T17:01:25.968044+00:00'
     owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Fix my blade.md:
+    checksum: f37c3acc7b14537bf7e875c5f993f1bc00c965ac0b8f5889c78d4d4c9d2d69bc
+    created: '2026-08-01T20:43:07.804793+00:00'
+    modified: '2026-08-01T20:43:07.804793+00:00'
+    owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Get to Safety.md:
     checksum: bf098c93bdcd1941d464fa12de3db557a9c36868c02a08173e0dd009449a1491
     created: '2026-07-16T03:34:50.155538+00:00'
     modified: '2026-07-23T17:01:25.968074+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/Campaign - Cyrus Stone/Progress/Return to the Smith with His Amber.md:
+    checksum: 1d0d50ec6285d35a4b984c7483196c9af6152f986b914cf8b1a507ca6c11e8b8
+    created: '2026-08-01T20:43:07.804888+00:00'
+    modified: '2026-08-01T20:43:07.804888+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Campaign - Johnathan Glass.md:
     checksum: b70dd25428264b0019245c64b1949a7c9aca80ce0b9d6ee6328ace96bfeb5ce7
@@ -945,10 +960,15 @@ files:
     created: '2026-07-23T17:01:26.157454+00:00'
     modified: '2026-07-23T17:01:26.157454+00:00'
     owner: alargefallinganvil
+  Sundered Isles - Patrocia/Locations/The New World/The Vitan Federation/Ambervale/The Black-Iron Anvil.md:
+    checksum: 16066537f032d9ea7da2dd7125277f19ce27816dd66e796911d9f6d387ca7fa9
+    created: '2026-08-01T20:43:07.805017+00:00'
+    modified: '2026-08-01T20:43:07.805017+00:00'
+    owner: alargefallinganvil
   Sundered Isles - Patrocia/Locations/The New World/The Vitan Federation/Ambervale/The Full Flag-inn.md:
-    checksum: 00334fce3adef0f57987b1d56a79667a8d85f765681b80b45ca40d4f6a1393c0
+    checksum: e0f9022408e1039bb5b7aa134473a1e43a7e8dc81fb468fbc357a621c1cb1d88
     created: '2026-07-23T17:01:26.157593+00:00'
-    modified: '2026-07-23T17:01:26.157593+00:00'
+    modified: '2026-08-01T20:43:07.805054+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/Locations/The New World/The Vitan Federation/Stoke.md:
     checksum: 955443018ebcb71455e604527a77d6eb79a9d9a75886070d9b4458a93ab5d563
@@ -994,6 +1014,16 @@ files:
     checksum: dbc43a1c53d10e34ec2723baed7053a75d01b86e199860b2698cf3ad3d4f452a
     created: '2026-07-17T15:18:23.229674+00:00'
     modified: '2026-07-17T15:18:23.229674+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/NPCs/The New World/The Vitan Federation/Ambervale/The Full Flag-inn/Gregory Whittenmeyer.md:
+    checksum: 4b2e0e7d421a55fd59cbbe05ed5aff9a74b15e9cf77604bd6ed3c646c2bba508
+    created: '2026-08-01T20:43:07.805210+00:00'
+    modified: '2026-08-01T20:43:07.805210+00:00'
+    owner: alargefallinganvil
+  Sundered Isles - Patrocia/NPCs/The New World/The Vitan Federation/Ambervale/The Full Flag-inn/Portia Whittenmeyer.md:
+    checksum: f32b52465bdb0470ff0aef101f69efd48cb89c3cedb736cef4e63a5354e5854d
+    created: '2026-08-01T20:43:07.805379+00:00'
+    modified: '2026-08-01T20:43:07.805379+00:00'
     owner: alargefallinganvil
   Sundered Isles - Patrocia/NPCs/The Old World/Ossik/Major NPCs of Ossik/Queen Jessamine Kovan.md:
     checksum: dbc43a1c53d10e34ec2723baed7053a75d01b86e199860b2698cf3ad3d4f452a
