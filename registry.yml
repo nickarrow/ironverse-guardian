@@ -641,9 +641,9 @@ files:
     modified: '2026-07-18T01:56:35.739686+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Characters/Johnathan Glass.md:
-    checksum: eb21309417bf2f5650b50bf27ea643b71275cd557717ea27618a916759a7def2
+    checksum: b7b93b88ab2481614da3234870ebf9de3608c83fac5a436df35c6d9ea4e69e76
     created: '2026-07-18T01:56:35.739813+00:00'
-    modified: '2026-07-28T04:51:19.616496+00:00'
+    modified: '2026-08-12T08:55:27.658691+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/03 - Pirates board the ship.md:
     checksum: 763814a6d45d932a0c8cf7f9e3b508937a81b5c024597ffdd12896b9327e9ba1
@@ -674,6 +674,11 @@ files:
     checksum: f86afb4071c75586fe2426f88f7a4577cad5f6c5531589d359e6cb0cb6700e5e
     created: '2026-07-24T03:00:40.132967+00:00'
     modified: '2026-07-26T06:02:34.331217+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Clocks/09 - Bandits see Johnny and ambush him.md:
+    checksum: 368ca314da3814352eb5de197963abb2ed765b4cb170da5cb87eb30d821c39fd
+    created: '2026-08-12T08:55:27.658866+00:00'
+    modified: '2026-08-12T08:55:27.658866+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/01 - Johnny Glass - Sally Slaughter's Treasure.md:
     checksum: cab2c68d66b64db6844fdfe728bde394ad7b405443a328ff668f837ec6c41ff5
@@ -715,6 +720,11 @@ files:
     created: '2026-07-25T03:32:46.045185+00:00'
     modified: '2026-08-12T06:25:12.718764+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/09 - Johnny Glass - Stormwatch.md:
+    checksum: fe57b5b3fb158847ba341345856e7cec454d0a41135eb6e61330531febb498e3
+    created: '2026-07-26T06:02:34.331363+00:00'
+    modified: '2026-08-12T08:55:27.659035+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Locations/Erast/The Three Lillies.md:
     checksum: 89a44d5cd1c61b7a5e6853aeb40364d73301b4106fa4a69262e48667f12e548d
     created: '2026-07-18T02:03:24.551193+00:00'
@@ -735,15 +745,10 @@ files:
     created: '2026-07-18T01:56:35.740012+00:00'
     modified: '2026-07-18T02:03:24.551276+00:00'
     owner: thathulsguy
-  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/09 - Johnny Glass - WIP.md:
-    checksum: 7b632237dc6c181944f439f016d7ddb052df47ef6be228e55dad68d6491dc8eb
-    created: '2026-07-26T06:02:34.331363+00:00'
-    modified: '2026-08-12T06:25:12.718798+00:00'
-    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/Plot Hooks.md:
-    checksum: b45fcf6c1dcf6936bbfa9dc7ddf9aeaeef0563053c268ba38bfd40b0a5160c8a
+    checksum: 5f09d19ffbb781760f9da6b2fe243ab673a33f6404843e8fd4e2cf19f1e075f8
     created: '2026-07-18T01:56:35.740163+00:00'
-    modified: '2026-07-25T03:32:46.045225+00:00'
+    modified: '2026-08-12T08:55:27.659148+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Combat/03 - Sink the pirate ship.md:
     checksum: 4b3e5c3b02ed49f96f15b8126c63f83817dbbb762d0671681ed27f8a2f7c03b3
@@ -855,6 +860,11 @@ files:
     created: '2026-07-24T03:00:40.133421+00:00'
     modified: '2026-07-24T03:00:40.133421+00:00'
     owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Expeditions/09 - Find the bandit hideout.md:
+    checksum: e3c894eb7c0bced2065e086b57fee0d633b3f9e463eee84fb8e7ab684b124dc2
+    created: '2026-08-12T08:55:27.659270+00:00'
+    modified: '2026-08-12T08:55:27.659270+00:00'
+    owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/01 - Sally Slaughter's Treasure.md:
     checksum: dfdd20c053100de83e29a890ef1880db4e802e3cd32180cb52f5928d22ad6bed
     created: '2026-07-18T05:03:02.878107+00:00'
@@ -869,6 +879,11 @@ files:
     checksum: c54fbdf8e46c8f49f49a3752573e1998e038d23b08220cc582519c4e6524bb42
     created: '2026-07-24T03:00:40.133524+00:00'
     modified: '2026-07-25T03:32:46.045501+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/Progress/Vows/09 - Kill or Capture the Bluecoat Bandit.md:
+    checksum: 6783c63fc2b4aa284b83d666cc1adbab9a83e12c3a4b6781957c096c9e50a2f1
+    created: '2026-08-12T08:55:27.659381+00:00'
+    modified: '2026-08-12T08:55:27.659381+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Rowe Darwin/Campaign - Rowe Darwin.md:
     checksum: 213a525a4a9599f362ff96159c5f58f5a472198fbf2f75f561686730e7bc6ccd
