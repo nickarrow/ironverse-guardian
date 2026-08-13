@@ -681,9 +681,9 @@ files:
     modified: '2026-08-12T08:55:27.658866+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/01 - Johnny Glass - Sally Slaughter's Treasure.md:
-    checksum: cab2c68d66b64db6844fdfe728bde394ad7b405443a328ff668f837ec6c41ff5
+    checksum: e29e2e4b302cf0c97dec4e36f910490f0c1eec9748a665305f280a9efad7d391
     created: '2026-07-18T05:03:02.877628+00:00'
-    modified: '2026-08-12T06:25:12.718703+00:00'
+    modified: '2026-08-13T07:46:09.638278+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Journals/02 - Johnny Glass - The Tarantula.md:
     checksum: 249c1b56aaa7abf834a625a7b61f31c6b8ce152c8622b9d511d78e6887547623
@@ -726,9 +726,14 @@ files:
     modified: '2026-08-12T08:55:27.659035+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Locations/Erast/The Three Lillies.md:
-    checksum: 89a44d5cd1c61b7a5e6853aeb40364d73301b4106fa4a69262e48667f12e548d
+    checksum: b5645f4345c6d51eb377520fc585d2fa758576332e7274102785a749288589a2
     created: '2026-07-18T02:03:24.551193+00:00'
-    modified: '2026-07-18T02:03:24.551193+00:00'
+    modified: '2026-08-13T07:46:09.638337+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/NPCs/-COPY THIS NPC TEMPLATE- 1.md:
+    checksum: dbc43a1c53d10e34ec2723baed7053a75d01b86e199860b2698cf3ad3d4f452a
+    created: '2026-08-13T07:46:09.638494+00:00'
+    modified: '2026-08-13T07:46:09.638494+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/NPCs/Brianna Aktuna.md:
     checksum: b2641b2372cd781c041bd53b2be7212c143a940b55ed6da84c3bdc225b98a1da
@@ -744,6 +749,11 @@ files:
     checksum: bf3b58468fdba932dbc3612a452dc6810dea716a4da41f36b4e4e4d89c46b35e
     created: '2026-07-18T01:56:35.740012+00:00'
     modified: '2026-07-18T02:03:24.551276+00:00'
+    owner: thathulsguy
+  Sundered Isles - Patrocia/Campaign - Johnathan Glass/NPCs/The Ogre.md:
+    checksum: 6025243696586b2ab3267ca0d3a3cb97f41b65ee54a34d9c3133497453e64d74
+    created: '2026-08-13T07:46:09.638604+00:00'
+    modified: '2026-08-13T07:46:09.638604+00:00'
     owner: thathulsguy
   Sundered Isles - Patrocia/Campaign - Johnathan Glass/Notes/Plot Hooks.md:
     checksum: 5f09d19ffbb781760f9da6b2fe243ab673a33f6404843e8fd4e2cf19f1e075f8
